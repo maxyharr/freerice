@@ -1,0 +1,2471 @@
+fluid---liquid
+huge---enormous
+heat---warmth
+bad---not good
+jail---prison
+buy---purchase
+papa---father
+result---outcome
+specific---particular
+quiet---silent
+refrigerator---icebox
+toddler---young child
+emotion---feeling
+under---beneath
+sweetheart---darling
+partner---associate
+selection---choice
+mall---shopping center
+especially---particularly
+pillow---cushion
+chilly---cool
+powerful---mighty
+security---safety
+cop---policeman
+tone---sound
+joy---delight
+option---choice
+intelligent---smart
+expense---cost
+burglar---thief
+diary---journal
+least---smallest
+construct---build
+lady---woman
+peek---quick look
+again---once more
+once more---again
+power---force
+force---power
+forest---woods
+woods---forest
+large---big
+big---large
+bucket---pail
+pail---bucket
+rotate---turn
+turn---rotate
+pain---hurt
+hurt---pain
+journey---travel
+travel---journey
+comedy---funny show
+funny show---comedy
+difficulty---trouble
+trouble---difficulty
+neat---tidy
+tidy---neat
+teacher---instructor
+instructor---teacher
+car---automobile
+automobile---car
+reduce---decrease
+decrease---reduce
+sure---certain
+certain---sure
+mistake---error
+error---mistake
+solve---figure out
+figure out---solve
+conference---meeting
+meeting---conference
+lamb---young sheep
+young sheep---lamb
+inn---hotel
+hotel---inn
+slam---bang
+bang---slam
+brave---courageous
+courageous---brave
+glance---quick look
+quick look---glance
+shout---yell
+yell---shout
+scared---frightened
+frightened---scared
+pup---young dog
+young dog---pup
+cancel---call off
+call off---cancel
+clue---hint
+hint---clue
+aphonic---mute
+mute---aphonic
+eliminate---remove
+remove---eliminate
+handsome---fine-looking
+fine-looking---handsome
+enjoyment---pleasure
+pleasure---enjoyment
+slap---smack
+smack---slap
+eyesight---seeing
+seeing---eyesight
+capture---catch
+catch---capture
+proper---appropriate
+appropriate---proper
+frosting---icing
+icing---frosting
+terror---fear
+fear---terror
+creep---crawl
+crawl---creep
+discuss---talk about
+talk about---discuss
+dreadful---terrible
+terrible---dreadful
+joyful---happy
+happy---joyful
+boat---ship
+ship---boat
+shining---bright
+bright---shining
+frosty---cold
+cold---frosty
+suicide---self-destruction
+self-destruction---suicide
+inhale---breathe in
+breathe in---inhale
+tutor---instructor
+instructor---tutor
+completely---totally
+totally---completely
+labor---work
+work---labor
+false---untrue
+untrue---false
+awful---terrible
+terrible---awful
+speech---talk
+talk---speech
+triplet---threesome
+threesome---triplet
+wizard---sorcerer
+sorcerer---wizard
+ranch---cattle farm
+cattle farm---ranch
+disease---sickness
+sickness---disease
+announcement---proclamation
+proclamation---announcement
+cash---money
+money---cash
+puppy---young dog
+young dog---puppy
+tights---stockings
+stockings---tights
+delete---erase
+erase---delete
+youngster---child
+child---youngster
+few---not many
+not many---few
+jacket---coat
+coat---jacket
+join---connect
+connect---join
+ill---sick
+sick---ill
+postage---stamps
+stamps---postage
+employment---work
+work---employment
+raisin---dried grape
+dried grape---raisin
+flame---blaze
+blaze---flame
+scare---frighten
+frighten---scare
+dawn---sunrise
+sunrise---dawn
+habit---personal custom
+personal custom---habit
+barber---haircutter
+haircutter---barber
+helper---assistant
+assistant---helper
+improve---make better
+make better---improve
+enormous---gigantic
+gigantic---enormous
+data---information
+information---data
+pretend---feign
+feign---pretend
+twirl---spin
+spin---twirl
+approach---go near
+go near---approach
+fact---certainty
+certainty---fact
+spyglass---small telescope
+small telescope---spyglass
+drugstore---pharmacy
+pharmacy---drugstore
+chef---cook
+cook---chef
+confidence---assurance
+assurance---confidence
+sofa---couch
+couch---sofa
+dirty---filthy
+filthy---dirty
+passenger---rider
+rider---passenger
+grateful---thankful
+thankful---grateful
+teach---educate
+educate---teach
+chick---young bird
+young bird---chick
+discover---find
+find---discover
+chubby---sad
+sad---chubby
+beautiful---lovely
+lovely---beautiful
+happening---occurrence
+occurrence---happening
+reporter---newsperson
+newsperson---reporter
+magnanimity---generosity
+generosity---magnanimity
+better---improve
+improve---better
+fix---repair
+repair---fix
+slim---thin
+thin---slim
+sack---bag
+bag---sack
+quickly---rapidly
+rapidly---quickly
+height---tallness
+tallness---height
+fashion---style
+style---fashion
+vanish---disappear
+disappear---vanish
+accept---receive
+receive---accept
+director---stone
+stone---director
+cafe---coffeehouse
+coffeehouse---cafe
+respond---reply
+reply---respond
+fabric---cloth
+cloth---fabric
+purchase---buy
+buy---purchase
+glad---happy
+happy---glad
+autumn---fall
+fall---autumn
+dirt---soil
+soil---dirt
+wobbly---shaky
+shaky---wobbly
+blame---fault
+fault---blame
+divide---separate
+separate---divide
+afraid---scared
+scared---afraid
+detective---investigator
+investigator---detective
+instruct---teach
+teach---instruct
+similar---like
+like---similar
+taxi---cab
+cab---taxi
+quick---fast
+fast---quick
+beneath---below
+below---beneath
+plaything---toy
+toy---plaything
+teamwork---cooperation
+cooperation---teamwork
+journal---diary
+diary---journal
+carnival---festival
+festival---carnival
+lawyer---attorney
+attorney---lawyer
+prank---trick
+trick---prank
+alarm---warning
+warning---alarm
+silly---foolish
+foolish---silly
+inclement---additional
+additional---inclement
+kid---child
+child---kid
+yummy---delicious
+delicious---yummy
+global---worldwide
+worldwide---global
+choose---select
+select---choose
+skinny---thin
+thin---skinny
+angry---mad
+mad---angry
+seek---search for
+search for---seek
+rug---carpet
+carpet---rug
+pot---pan
+pan---pot
+site---location
+location---site
+topic---subject
+subject---topic
+worker---laborer
+laborer---worker
+cable---wire
+wire---cable
+noise---sound
+sound---noise
+noise---sound
+sound---noise
+noise---sound
+sound---noise
+noise---sound
+sound---noise
+cheerful---in good spirits
+in good spirits---cheerful
+wonderful---marvelous
+marvelous---wonderful
+liquid---fluid
+fluid---liquid
+teenager---adolescent
+adolescent---teenager
+teenager---adolescent
+adolescent---teenager
+mist---fog
+fog---mist
+independence---freedom
+freedom---independence
+bunny---rabbit
+rabbit---bunny
+bunny---rabbit
+rabbit---bunny
+attached---connected
+connected---attached
+attached---connected
+connected---attached
+expensive---costly
+costly---expensive
+incomplete---unfinished
+unfinished---incomplete
+twister---tornado
+tornado---twister
+terrific---great
+great---terrific
+factory---manufacturing place
+manufacturing place---factory
+motor---engine
+engine---motor
+motor---engine
+engine---motor
+motor---engine
+engine---motor
+motor---engine
+engine---motor
+jolly---in good spirits
+in good spirits---jolly
+cheap---inexpensive
+inexpensive---cheap
+associate---ocean
+ocean---associate
+speck---particle
+particle---speck
+foggy---misty
+misty---foggy
+foggy---misty
+misty---foggy
+foggy---misty
+misty---foggy
+silent---quiet
+quiet---silent
+silent---quiet
+quiet---silent
+snake---serpent
+serpent---snake
+fearless---brave
+brave---fearless
+Which---At one time I [led] the choir.
+At one time I [led] the choir.---Which
+Which---At one time I [led] the choir.
+At one time I [led] the choir.---Which
+gisarme---halberd
+halberd---gisarme
+follow---come after
+come after---follow
+ignore---disregard
+disregard---ignore
+ignore---disregard
+disregard---ignore
+ignore---disregard
+disregard---ignore
+terrify---frighten
+frighten---terrify
+rod---pole
+pole---rod
+calculate---compute
+compute---calculate
+calculate---compute
+compute---calculate
+nap---brief sleep
+brief sleep---nap
+delicious---very tasty
+very tasty---delicious
+delicious---very tasty
+very tasty---delicious
+frighten---scare
+scare---frighten
+listen---hear
+hear---listen
+prisoner---captive
+captive---prisoner
+bald---hairless
+hairless---bald
+attention---notice
+notice---attention
+castle---fortress
+fortress---castle
+adore---nap
+nap---adore
+adore---nap
+nap---adore
+adore---nap
+nap---adore
+scream---yell
+yell---scream
+vacation---holiday
+holiday---vacation
+trophy---prize
+prize---trophy
+romance---love affair
+love affair---romance
+roast---bake
+bake---roast
+cooperate---work together
+work together---cooperate
+cooperate---work together
+work together---cooperate
+cooperate---work together
+work together---cooperate
+cooperate---work together
+work together---cooperate
+rhabdomancy---divination with a rod, wand, or the like
+divination with a rod, wand, or the like---rhabdomancy
+sloppy---messy
+messy---sloppy
+tune---melody
+melody---tune
+applause---clapping
+clapping---applause
+madness---insanity
+insanity---madness
+badly---poorly
+poorly---badly
+cozy---snug
+snug---cozy
+yucky---disgusting
+disgusting---yucky
+riches---wealth
+wealth---riches
+pectus---pigeon chest
+pigeon chest---pectus
+loyal---faithful
+faithful---loyal
+rich---wealthy
+wealthy---rich
+lid---cover
+cover---lid
+solo---alone
+alone---solo
+choke---strangle
+strangle---choke
+reliable---trusty
+trusty---reliable
+newborn---infant
+infant---newborn
+maximum---greatest
+greatest---maximum
+maximum---greatest
+greatest---maximum
+maximum---greatest
+greatest---maximum
+talk---speak
+speak---talk
+thief---robber
+robber---thief
+thief---robber
+robber---thief
+thief---robber
+robber---thief
+myth---legend
+legend---myth
+attach---connect
+connect---attach
+plump---evil
+evil---plump
+plump---chubby
+chubby---plump
+donation---contribution
+contribution---donation
+begin---start
+start---begin
+address---location
+location---address
+inclement---Unpleasantly cold or wet weather
+Unpleasantly cold or wet weather---inclement
+blend---mix
+mix---blend
+stretch---extend
+extend---stretch
+heal---cure
+cure---heal
+say---speak
+speak---say
+say---speak
+speak---say
+atmosphere---surrounding air
+surrounding air---atmosphere
+speak---talk
+talk---speak
+last---final
+final---last
+last---final
+final---last
+information---knowledge
+knowledge---information
+safari---hunting expedition
+hunting expedition---safari
+elder---senior
+senior---elder
+uncover---reveal
+reveal---uncover
+end---finish
+finish---end
+end---finish
+finish---end
+employee---worker
+worker---employee
+prince---king's son
+king's son---prince
+small---little
+little---small
+small---little
+little---small
+small---little
+little---small
+small---little
+little---small
+fun---merriment
+merriment---fun
+pal---friend
+friend---pal
+swirl---protector
+protector---swirl
+swirl---protector
+protector---swirl
+swirl---spin around
+spin around---swirl
+division---separation
+separation---division
+ache---pain
+pain---ache
+usual---ordinary
+ordinary---usual
+secure---safe
+safe---secure
+carefree---unworried
+unworried---carefree
+carefree---unworried
+unworried---carefree
+infant---baby
+baby---infant
+odor---scent
+scent---odor
+odor---scent
+scent---odor
+ahead---forward
+forward---ahead
+ahead---forward
+forward---ahead
+ahead---forward
+forward---ahead
+ahead---forward
+forward---ahead
+ahead---forward
+forward---ahead
+ahead---forward
+forward---ahead
+noiseless---silent
+silent---noiseless
+gifted---talented
+talented---gifted
+shallow---not deep
+not deep---shallow
+author---writer
+writer---author
+reproduce---duplicate
+duplicate---reproduce
+similarity---likeness
+likeness---similarity
+stadium---arena
+arena---stadium
+stadium---arena
+arena---stadium
+real---genuine
+genuine---real
+dare---challenge
+challenge---dare
+dizzy---lightheaded
+lightheaded---dizzy
+drunk---intoxicated
+intoxicated---drunk
+checkup---medical examination
+medical examination---checkup
+checkup---medical examination
+medical examination---checkup
+checkup---medical examination
+medical examination---checkup
+checkup---medical examination
+medical examination---checkup
+checkup---medical examination
+medical examination---checkup
+checkup---medical examination
+medical examination---checkup
+checkup---medical examination
+medical examination---checkup
+checkup---medical examination
+medical examination---checkup
+checkup---medical examination
+medical examination---checkup
+demon---devil
+devil---demon
+habitat---natural environment
+natural environment---habitat
+misfortune---bad luck
+bad luck---misfortune
+misfortune---bad luck
+bad luck---misfortune
+misfortune---bad luck
+bad luck---misfortune
+misfortune---bad luck
+bad luck---misfortune
+escape---get away
+get away---escape
+stare---gaze
+gaze---stare
+exhausted---very tired
+very tired---exhausted
+exhausted---very tired
+very tired---exhausted
+fear---dread
+dread---fear
+jewel---gem
+gem---jewel
+gloss---polish
+polish---gloss
+software---computer programs
+computer programs---software
+software---computer programs
+computer programs---software
+software---computer programs
+computer programs---software
+software---computer programs
+computer programs---software
+software---computer programs
+computer programs---software
+delight---joy
+joy---delight
+brave---courageous
+courageous---brave
+bun---roll
+roll---bun
+needless---unnecessary
+unnecessary---needless
+circular---round
+round---circular
+shrub---bush
+bush---shrub
+advance---move forward
+move forward---advance
+accuse---blame
+blame---accuse
+poisonous---venomous
+venomous---poisonous
+greasy---oily
+oily---greasy
+breezy---airy
+airy---breezy
+tale---story
+story---tale
+tale---story
+story---tale
+tale---story
+story---tale
+tale---story
+story---tale
+tale---story
+story---tale
+erase---rub out
+rub out---erase
+surroundings---environment
+environment---surroundings
+pistol---handgun
+handgun---pistol
+organize---dig
+dig---organize
+octagon---eight-sided figure
+eight-sided figure---octagon
+organize---arrange
+arrange---organize
+buddy---pal
+pal---buddy
+buddy---pal
+pal---buddy
+buddy---pal
+pal---buddy
+buddy---pal
+pal---buddy
+buddy---pal
+pal---buddy
+buddy---pal
+pal---buddy
+charming---delightful
+delightful---charming
+explode---burst
+burst---explode
+protect---defend
+defend---protect
+protect---defend
+defend---protect
+protect---defend
+defend---protect
+beast---animal
+animal---beast
+bathe---wash
+wash---bathe
+afterwards---later
+later---afterwards
+mom---mother
+mother---mom
+spit---saliva
+saliva---spit
+alley---narrow street
+narrow street---alley
+entire---complete
+complete---entire
+incorrect---wrong
+wrong---incorrect
+wish---desire
+desire---wish
+rinse---wash
+wash---rinse
+overhead---above
+above---overhead
+faith---trust
+trust---faith
+tourist---sightseer
+sightseer---tourist
+dishonorable---shameful
+shameful---dishonorable
+coffin---casket
+casket---coffin
+comment---remark
+remark---comment
+fascinating---very interesting
+very interesting---fascinating
+accomplish---achieve
+achieve---accomplish
+curve---bend
+bend---curve
+graveyard---cemetery
+cemetery---graveyard
+unfamiliar---strange
+strange---unfamiliar
+unfamiliar---strange
+strange---unfamiliar
+burst---break open
+break open---burst
+chuckle---laugh softly
+laugh softly---chuckle
+jiggle---shake
+shake---jiggle
+penny---cent
+cent---penny
+autograph---signature
+signature---autograph
+autograph---signature
+signature---autograph
+autograph---signature
+signature---autograph
+autograph---signature
+signature---autograph
+autograph---signature
+signature---autograph
+cottage---small house
+small house---cottage
+predict---contain
+contain---predict
+predict---contain
+contain---predict
+predict---contain
+contain---predict
+predict---contain
+contain---predict
+predict---contain
+contain---predict
+predict---contain
+contain---predict
+job---task
+task---job
+job---task
+task---job
+job---task
+task---job
+job---task
+task---job
+inspect---examine
+examine---inspect
+squishy---sponge-like
+sponge-like---squishy
+hilarious---extremely funny
+extremely funny---hilarious
+narrator---storyteller
+storyteller---narrator
+concerned---anxious
+anxious---concerned
+blame---fault
+fault---blame
+tube---pipe
+pipe---tube
+tube---pipe
+pipe---tube
+tube---pipe
+pipe---tube
+pain---hurt
+hurt---pain
+worker---laborer
+laborer---worker
+mumble---mutter
+mutter---mumble
+cushion---pillow
+pillow---cushion
+cushion---pillow
+pillow---cushion
+cushion---pillow
+pillow---cushion
+cushion---pillow
+pillow---cushion
+shut---close
+close---shut
+shut---close
+close---shut
+scared---frightened
+frightened---scared
+detach---want
+want---detach
+stack---pile
+pile---stack
+detach---separate
+separate---detach
+label---tag
+tag---label
+responsibility---duty
+duty---responsibility
+glitter---sparkle
+sparkle---glitter
+aid---help
+help---aid
+jumbo---huge
+huge---jumbo
+moist---damp
+damp---moist
+gather---collect
+collect---gather
+stink---smell bad
+smell bad---stink
+stink---smell bad
+smell bad---stink
+stink---smell bad
+smell bad---stink
+freedom---liberty
+liberty---freedom
+crossroad---intersection
+intersection---crossroad
+crossroad---intersection
+intersection---crossroad
+crossroad---intersection
+intersection---crossroad
+crossroad---intersection
+intersection---crossroad
+crossroad---intersection
+intersection---crossroad
+crossroad---intersection
+intersection---crossroad
+crossroad---intersection
+intersection---crossroad
+garbage---trash
+trash---garbage
+prepared---ready
+ready---prepared
+groan---moan
+moan---groan
+plaza---shopping center
+shopping center---plaza
+quantity---amount
+amount---quantity
+build---construct
+construct---build
+weird---odd
+odd---weird
+promise---pledge
+pledge---promise
+cellar---basement
+basement---cellar
+caramel---burnt sugar
+burnt sugar---caramel
+bloom---blossom
+blossom---bloom
+kettle---pot
+pot---kettle
+salary---pay
+pay---salary
+glimpse---quick look
+quick look---glimpse
+damage---harm
+harm---damage
+sketch---draw
+draw---sketch
+sketch---draw
+draw---sketch
+sketch---draw
+draw---sketch
+sketch---draw
+draw---sketch
+sketch---draw
+draw---sketch
+sketch---draw
+draw---sketch
+sketch---draw
+draw---sketch
+sketch---draw
+draw---sketch
+veterinarian---animal doctor
+animal doctor---veterinarian
+observe---watch
+watch---observe
+harvest---street
+street---harvest
+harvest---street
+street---harvest
+pond---small lake
+small lake---pond
+speedy---fast
+fast---speedy
+snatch---grab
+grab---snatch
+thanks---gratitude
+gratitude---thanks
+swift---fast
+fast---swift
+boring---tiresome
+tiresome---boring
+glorious---splendid
+splendid---glorious
+license---permit
+permit---license
+handicap---disability
+disability---handicap
+rotten---decayed
+decayed---rotten
+adore---love
+love---adore
+grief---sorrow
+sorrow---grief
+avenue---street
+street---avenue
+bother---annoy
+annoy---bother
+bother---annoy
+annoy---bother
+bother---annoy
+annoy---bother
+bother---annoy
+annoy---bother
+bother---annoy
+annoy---bother
+bother---annoy
+annoy---bother
+bother---annoy
+annoy---bother
+bother---annoy
+annoy---bother
+instructor---teacher
+teacher---instructor
+luggage---baggage
+baggage---luggage
+portrait---sickness
+sickness---portrait
+portrait---sickness
+sickness---portrait
+portrait---sickness
+sickness---portrait
+portrait---sickness
+sickness---portrait
+portrait---sickness
+sickness---portrait
+portrait---sickness
+sickness---portrait
+portrait---sickness
+sickness---portrait
+portrait---sickness
+sickness---portrait
+portrait---sickness
+sickness---portrait
+portrait---sickness
+sickness---portrait
+portrait---sickness
+sickness---portrait
+portrait---sickness
+sickness---portrait
+portrait---sickness
+sickness---portrait
+misery---unhappiness
+unhappiness---misery
+contain---hold
+hold---contain
+swampy---marshy
+marshy---swampy
+demonstrate---show
+show---demonstrate
+demonstrate---show
+show---demonstrate
+demonstrate---show
+show---demonstrate
+demonstrate---show
+show---demonstrate
+demonstrate---show
+show---demonstrate
+queen---king's wife
+king's wife---queen
+queen---king's wife
+king's wife---queen
+queen---king's wife
+king's wife---queen
+queen---king's wife
+king's wife---queen
+thrill---excitement
+excitement---thrill
+thrill---excitement
+excitement---thrill
+thrill---excitement
+excitement---thrill
+handbook---manual
+manual---handbook
+snip---cut
+cut---snip
+pharmacist---druggist
+druggist---pharmacist
+pad---cushion
+cushion---pad
+detached---separate
+separate---detached
+participation---involvement
+involvement---participation
+chart---map
+map---chart
+probably---likely
+likely---probably
+transport---carry
+carry---transport
+lump---chunk
+chunk---lump
+luck---good fortune
+good fortune---luck
+spook---ghost
+ghost---spook
+carnivore---meat-eater
+meat-eater---carnivore
+carnivore---meat-eater
+meat-eater---carnivore
+carnivore---meat-eater
+meat-eater---carnivore
+carnivore---meat-eater
+meat-eater---carnivore
+carnivore---meat-eater
+meat-eater---carnivore
+director---manager
+manager---director
+spine---backbone
+backbone---spine
+rush---hurry
+hurry---rush
+absence---not being present
+not being present---absence
+dependable---trustworthy
+trustworthy---dependable
+connect---join
+join---connect
+workout---exercise
+exercise---workout
+workout---exercise
+exercise---workout
+workout---exercise
+exercise---workout
+workout---exercise
+exercise---workout
+workout---exercise
+exercise---workout
+bravery---courage
+courage---bravery
+bravery---courage
+courage---bravery
+shame---disgrace
+disgrace---shame
+shame---disgrace
+disgrace---shame
+naughty---misbehaving
+misbehaving---naughty
+naughty---misbehaving
+misbehaving---naughty
+certainty---sure thing
+sure thing---certainty
+smooch---expand
+expand---smooch
+smooch---expand
+expand---smooch
+smooch---kiss
+kiss---smooch
+unleash---release
+release---unleash
+unleash---release
+release---unleash
+unleash---release
+release---unleash
+unleash---release
+release---unleash
+award---prize
+prize---award
+fashionable---stylish
+stylish---fashionable
+chance---opportunity
+opportunity---chance
+counselor---adviser
+adviser---counselor
+cinema---movies
+movies---cinema
+donate---give
+give---donate
+chatty---talkative
+talkative---chatty
+cutting---sharp
+sharp---cutting
+response---reply
+reply---response
+response---reply
+reply---response
+response---reply
+reply---response
+response---reply
+reply---response
+response---reply
+reply---response
+response---reply
+reply---response
+response---reply
+reply---response
+response---reply
+reply---response
+response---reply
+reply---response
+response---reply
+reply---response
+response---reply
+reply---response
+response---reply
+reply---response
+response---reply
+reply---response
+response---reply
+reply---response
+response---reply
+reply---response
+response---reply
+reply---response
+sequence---series
+series---sequence
+ornament---decoration
+decoration---ornament
+medal---award
+award---medal
+discontinue---stop
+stop---discontinue
+buffalo---bison
+bison---buffalo
+traitor---betrayer
+betrayer---traitor
+basic---fundamental
+fundamental---basic
+injure---hurt
+hurt---injure
+tearful---weeping
+weeping---tearful
+depart---leave
+leave---depart
+baptize---jab
+jab---baptize
+dozen---twelve
+twelve---dozen
+unhappy---sad
+sad---unhappy
+quiz---test
+test---quiz
+insane---crazy
+crazy---insane
+dishonor---shame
+shame---dishonor
+jump---leap
+leap---jump
+sew---stitch
+stitch---sew
+climate---weather
+weather---climate
+cushion---pillow
+pillow---cushion
+pocketbook---handbag
+handbag---pocketbook
+pocketbook---handbag
+handbag---pocketbook
+placement---position
+position---placement
+lively---active
+active---lively
+propose---suggest
+suggest---propose
+propose---suggest
+suggest---propose
+propose---suggest
+suggest---propose
+miniature---small-scale
+small-scale---miniature
+craftsman---artisan
+artisan---craftsman
+camouflage---disguise
+disguise---camouflage
+umpire---referee
+referee---umpire
+aggravation---irritation
+irritation---aggravation
+accompany---escort
+escort---accompany
+accompany---escort
+escort---accompany
+accompany---escort
+escort---accompany
+motion---movement
+movement---motion
+mama---mother
+mother---mama
+pony---small horse
+small horse---pony
+echo---resound
+resound---echo
+fortunate---lucky
+lucky---fortunate
+applaud---clap
+clap---applaud
+dispose---throw away
+throw away---dispose
+weep---sob
+sob---weep
+advantage---benefit
+benefit---advantage
+outlook---point of view
+point of view---outlook
+nearly---almost
+almost---nearly
+same---identical
+identical---same
+shove---push
+push---shove
+flex---bend
+bend---flex
+flex---bend
+bend---flex
+annoyance---irritation
+irritation---annoyance
+rhythm---musical beat
+musical beat---rhythm
+absent---missing
+missing---absent
+absent---missing
+missing---absent
+absent---missing
+missing---absent
+absent---missing
+missing---absent
+absent---missing
+missing---absent
+absent---missing
+missing---absent
+twinkle---sparkle
+sparkle---twinkle
+dangerous---unsafe
+unsafe---dangerous
+witchcraft---sorcery
+sorcery---witchcraft
+stroll---leisurely walk
+leisurely walk---stroll
+bundle---package
+package---bundle
+thankless---unappreciated
+unappreciated---thankless
+thankless---unappreciated
+unappreciated---thankless
+gadget---device
+device---gadget
+la---school
+school---la
+allow---permit
+permit---allow
+il---metal
+metal---il
+ottobre---october
+october---ottobre
+ottobre---october
+october---ottobre
+il---minute
+minute---il
+il---minute
+minute---il
+il---doctor
+doctor---il
+il---doctor
+doctor---il
+la---station
+station---la
+ottobre---october
+october---ottobre
+ottobre---october
+october---ottobre
+considerare---to consider
+to consider---considerare
+nord---north
+north---nord
+l'isola---island
+island---l'isola
+ottobre---october
+october---ottobre
+delicato---delicate
+delicate---delicato
+delicato---delicate
+delicate---delicato
+serio---serious
+serious---serio
+serio---serious
+serious---serio
+serio---serious
+serious---serio
+la---peace
+peace---la
+molti---many
+many---molti
+discutere---to discuss
+to discuss---discutere
+il---piece
+piece---il
+l'arte---art
+art---l'arte
+l'acido---acid
+acid---l'acido
+rotondo---round
+round---rotondo
+finire---to finish
+to finish---finire
+l'esperienza---experience
+experience---l'esperienza
+l'esperienza---experience
+experience---l'esperienza
+l'esperienza---experience
+experience---l'esperienza
+l'esperienza---experience
+experience---l'esperienza
+la---morning
+morning---la
+la---morning
+morning---la
+il---lake
+lake---il
+lo---student
+student---lo
+il---village
+village---il
+il---village
+village---il
+la---bottle
+bottle---la
+l'olio---oil
+oil---l'olio
+visitare---to visit
+to visit---visitare
+visitare---to visit
+to visit---visitare
+la---carrot
+carrot---la
+il---tea
+tea---il
+il---tea
+tea---il
+la---morning
+morning---la
+la---morning
+morning---la
+il---nose
+nose---il
+il---nose
+nose---il
+l'email---email
+email---l'email
+l'email---email
+email---l'email
+la---part
+part---la
+l'adulto---adult
+adult---l'adulto
+l'adulto---adult
+adult---l'adulto
+il---village
+village---il
+il---village
+village---il
+il---course
+course---il
+falso---false
+false---falso
+falso---false
+false---falso
+la---bottle
+bottle---la
+la---bottle
+bottle---la
+la---pen
+pen---la
+la---carrot
+carrot---la
+la---carrot
+carrot---la
+continuare---to continue
+to continue---continuare
+la---morning
+morning---la
+l'elefante---elephant
+elephant---l'elefante
+l'elefante---elephant
+elephant---l'elefante
+la---part
+part---la
+la---bottle
+bottle---la
+l'effetto---effect
+effect---l'effetto
+l'effetto---effect
+effect---l'effetto
+la---pen
+pen---la
+la---pen
+pen---la
+il---flower
+flower---il
+il---flower
+flower---il
+la---carrot
+carrot---la
+la---carrot
+carrot---la
+la---peace
+peace---la
+la---peace
+peace---la
+la---part
+part---la
+la---part
+part---la
+la---bottle
+bottle---la
+la---pen
+pen---la
+la---pen
+pen---la
+la---carrot
+carrot---la
+decidere---to decide
+to decide---decidere
+decidere---to decide
+to decide---decidere
+decidere---to decide
+to decide---decidere
+la---part
+part---la
+la---bottle
+bottle---la
+puro---pure
+pure---puro
+il---center
+center---il
+il---center
+center---il
+la---carrot
+carrot---la
+la---carrot
+carrot---la
+il---castle
+castle---il
+il---castle
+castle---il
+assente---absent
+absent---assente
+assente---absent
+absent---assente
+il---button
+button---il
+celebrare---to celebrate
+to celebrate---celebrare
+celebrare---to celebrate
+to celebrate---celebrare
+la---line
+line---la
+il---tea
+tea---il
+il---tea
+tea---il
+l'alcol---alcohol
+alcohol---l'alcol
+la---carrot
+carrot---la
+l'università---university
+university---l'università
+l'università---university
+university---l'università
+la---line
+line---la
+fail---be unsuccessful
+be unsuccessful---fail
+illegal---unlawful
+unlawful---illegal
+forbid---prohibit
+prohibit---forbid
+forbid---prohibit
+prohibit---forbid
+remember---recollect
+recollect---remember
+wicked---evil
+evil---wicked
+modern---up-to-date
+up-to-date---modern
+darling---beloved
+beloved---darling
+darling---beloved
+beloved---darling
+irresponsible---unreliable
+unreliable---irresponsible
+impostor---pretender
+pretender---impostor
+squash---crush
+crush---squash
+convince---persuade
+persuade---convince
+convince---persuade
+persuade---convince
+convince---persuade
+persuade---convince
+convince---persuade
+persuade---convince
+convince---persuade
+persuade---convince
+convince---persuade
+persuade---convince
+doze---sleep lightly
+sleep lightly---doze
+nursery---baby's room
+baby's room---nursery
+hazardous---dangerous
+dangerous---hazardous
+proceed---continue
+continue---proceed
+dialogue---conversation
+conversation---dialogue
+bare---naked
+naked---bare
+drag---haul
+haul---drag
+hide---conceal
+conceal---hide
+translator---interpreter
+interpreter---translator
+analyze---examine
+examine---analyze
+disappointing---unsatisfying
+unsatisfying---disappointing
+foe---enemy
+enemy---foe
+remain---stay
+stay---remain
+entertaining---amusing
+amusing---entertaining
+entertaining---amusing
+amusing---entertaining
+entertaining---amusing
+amusing---entertaining
+squirm---wriggle
+wriggle---squirm
+audio---sound
+sound---audio
+audio---sound
+sound---audio
+immediately---right away
+right away---immediately
+excellent---superior
+superior---excellent
+magnificent---splendid
+splendid---magnificent
+dignity---self-respect
+self-respect---dignity
+beverage---drink
+drink---beverage
+profit---gain
+gain---profit
+profit---gain
+gain---profit
+profit---gain
+gain---profit
+profit---gain
+gain---profit
+profit---gain
+gain---profit
+profit---gain
+gain---profit
+profit---gain
+gain---profit
+central---middle
+middle---central
+physician---doctor
+doctor---physician
+harvest---crop
+crop---harvest
+globe---sphere
+sphere---globe
+certainly---for sure
+for sure---certainly
+certainly---for sure
+for sure---certainly
+certainly---for sure
+for sure---certainly
+odds---probability
+probability---odds
+aged---old
+old---aged
+dispute---argument
+argument---dispute
+lengthen---extend
+extend---lengthen
+bargain---deal
+deal---bargain
+vicious---brutal
+brutal---vicious
+flat---level
+level---flat
+inconsiderate---thoughtless
+thoughtless---inconsiderate
+extra---additional
+additional---extra
+reaction---response
+response---reaction
+gasoline---petrol
+petrol---gasoline
+doubt---uncertainty
+uncertainty---doubt
+doubt---uncertainty
+uncertainty---doubt
+doubt---uncertainty
+uncertainty---doubt
+doubt---uncertainty
+uncertainty---doubt
+doubt---uncertainty
+uncertainty---doubt
+doubt---uncertainty
+uncertainty---doubt
+doubt---uncertainty
+uncertainty---doubt
+doubt---uncertainty
+uncertainty---doubt
+confess---admit
+admit---confess
+antique---old
+old---antique
+pricey---expensive
+expensive---pricey
+furious---angry
+angry---furious
+heap---pile
+pile---heap
+hug---embrace
+embrace---hug
+answer---reply
+reply---answer
+outburst---eruption
+eruption---outburst
+outburst---eruption
+eruption---outburst
+mug---cup
+cup---mug
+fragile---delicate
+delicate---fragile
+harass---annoy
+annoy---harass
+chore---task
+task---chore
+panic---sudden fright
+sudden fright---panic
+forecast---predict
+predict---forecast
+triple---threefold
+threefold---triple
+safeguard---protect
+protect---safeguard
+annual---yearly
+yearly---annual
+mash---crush
+crush---mash
+mash---crush
+crush---mash
+mash---crush
+crush---mash
+mash---crush
+crush---mash
+mash---crush
+crush---mash
+mash---crush
+crush---mash
+mash---crush
+crush---mash
+mash---crush
+crush---mash
+mash---crush
+crush---mash
+mash---crush
+crush---mash
+mash---crush
+crush---mash
+ordinarily---normally
+normally---ordinarily
+expose---reveal
+reveal---expose
+sculpture---carving
+carving---sculpture
+lumpy---chunky
+chunky---lumpy
+experiment---test
+test---experiment
+horror---dread
+dread---horror
+enroll---register
+register---enroll
+mythological---legendary
+legendary---mythological
+sluggish---slow to move
+slow to move---sluggish
+dissolve---liquefy
+liquefy---dissolve
+dissolve---liquefy
+liquefy---dissolve
+dissolve---liquefy
+liquefy---dissolve
+dissolve---liquefy
+liquefy---dissolve
+dissolve---liquefy
+liquefy---dissolve
+dissolve---liquefy
+liquefy---dissolve
+dissolve---liquefy
+liquefy---dissolve
+maniac---madman
+madman---maniac
+holler---shout
+shout---holler
+maturity---adulthood
+adulthood---maturity
+announce---proclaim
+proclaim---announce
+nugget---chunk
+chunk---nugget
+permanent---lasting
+lasting---permanent
+exhibit---display
+display---exhibit
+wrongdoing---misconduct
+misconduct---wrongdoing
+fragrance---scent
+scent---fragrance
+colony---settlement
+settlement---colony
+cider---apple juice
+apple juice---cider
+slash---cut
+cut---slash
+slash---cut
+cut---slash
+guidance---direction
+direction---guidance
+halt---stop
+stop---halt
+reject---decline
+decline---reject
+merchandise---products
+products---merchandise
+defend---guard
+guard---defend
+temporary---not permanent
+not permanent---temporary
+temporary---not permanent
+not permanent---temporary
+venom---poison
+poison---venom
+swamp---marsh
+marsh---swamp
+agenda---schedule
+schedule---agenda
+amaze---astound
+astound---amaze
+exact---precise
+precise---exact
+exact---precise
+precise---exact
+opportunity---favorable occasion
+favorable occasion---opportunity
+ray---beam
+beam---ray
+anger---ire
+ire---anger
+phony---fake
+fake---phony
+phony---fake
+fake---phony
+phony---fake
+fake---phony
+phony---fake
+fake---phony
+phony---fake
+fake---phony
+phony---fake
+fake---phony
+phony---fake
+fake---phony
+reluctance---unwillingness
+unwillingness---reluctance
+reluctance---unwillingness
+unwillingness---reluctance
+aggravate---irritate
+irritate---aggravate
+accuracy---exactness
+exactness---accuracy
+manufacturer---maker
+maker---manufacturer
+brochure---pamphlet
+pamphlet---brochure
+beautify---adorn
+adorn---beautify
+pouch---small sack
+small sack---pouch
+leftover---remnant
+remnant---leftover
+drama---play
+play---drama
+drama---play
+play---drama
+farewell---good-bye
+good-bye---farewell
+farewell---good-bye
+good-bye---farewell
+farewell---good-bye
+good-bye---farewell
+farewell---good-bye
+good-bye---farewell
+farewell---good-bye
+good-bye---farewell
+farewell---good-bye
+good-bye---farewell
+chow---food
+food---chow
+fragrant---sweet-smelling
+sweet-smelling---fragrant
+predict---foretell
+foretell---predict
+assistance---aid
+aid---assistance
+elevation---altitude
+altitude---elevation
+affection---fondness
+fondness---affection
+destiny---fate
+fate---destiny
+entirely---completely
+completely---entirely
+entirely---completely
+completely---entirely
+entirely---completely
+completely---entirely
+annoying---bothersome
+bothersome---annoying
+rejoice---be delighted
+be delighted---rejoice
+outrageous---shocking
+shocking---outrageous
+lopsided---unbalanced
+unbalanced---lopsided
+lopsided---unbalanced
+unbalanced---lopsided
+totally---entirely
+entirely---totally
+collapse---crumple
+crumple---collapse
+freaky---bizarre
+bizarre---freaky
+dodge---evade
+evade---dodge
+astonish---amaze
+amaze---astonish
+foolish---unwise
+unwise---foolish
+horrible---dreadful
+dreadful---horrible
+translate---interpret
+interpret---translate
+translate---interpret
+interpret---translate
+being---existence
+existence---being
+being---existence
+existence---being
+being---existence
+existence---being
+dedication---commitment
+commitment---dedication
+horrid---dreadful
+dreadful---horrid
+settler---colonist
+colonist---settler
+encircle---surround
+surround---encircle
+spirited---lively
+lively---spirited
+heartache---grief
+grief---heartache
+heartache---grief
+grief---heartache
+heartache---grief
+grief---heartache
+glisten---sparkle
+sparkle---glisten
+glisten---sparkle
+sparkle---glisten
+babble---chatter
+chatter---babble
+astronomer---stargazer
+stargazer---astronomer
+permission---authorization
+authorization---permission
+limitation---restriction
+restriction---limitation
+soothe---comfort
+comfort---soothe
+magnify---enlarge
+enlarge---magnify
+decade---ten years
+ten years---decade
+symbolize---represent
+represent---symbolize
+remarkable---extraordinary
+extraordinary---remarkable
+humid---steamy
+steamy---humid
+warranty---guarantee
+guarantee---warranty
+warranty---guarantee
+guarantee---warranty
+warranty---guarantee
+guarantee---warranty
+elderly---old
+old---elderly
+audition---tryout
+tryout---audition
+actual---real
+real---actual
+chomp---bite
+bite---chomp
+chomp---bite
+bite---chomp
+chomp---bite
+bite---chomp
+favor---kindness
+kindness---favor
+favor---kindness
+kindness---favor
+moment---instant
+instant---moment
+acknowledge---admit
+admit---acknowledge
+analysis---examination
+examination---analysis
+hurrah---cheer
+cheer---hurrah
+detergent---soap
+soap---detergent
+protector---guardian
+guardian---protector
+sunken---submerged
+submerged---sunken
+sunken---submerged
+submerged---sunken
+sunken---submerged
+submerged---sunken
+sunken---submerged
+submerged---sunken
+sunken---submerged
+submerged---sunken
+grease---lubricate
+lubricate---grease
+slime---ooze
+ooze---slime
+progressive---advancing
+advancing---progressive
+modify---change
+change---modify
+blubber---fat
+fat---blubber
+whine---complain
+complain---whine
+shovel---dig
+dig---shovel
+shovel---dig
+dig---shovel
+idiotic---foolish
+foolish---idiotic
+rehearsal---practice
+practice---rehearsal
+administration---management
+management---administration
+pot---pan
+pan---pot
+combat---battle
+battle---combat
+associate---companion
+companion---associate
+educator---teacher
+teacher---educator
+dive---plunge
+plunge---dive
+seasoning---spice
+spice---seasoning
+uptight---tense
+tense---uptight
+slaughter---killing
+killing---slaughter
+slobber---drool
+drool---slobber
+maybe---perhaps
+perhaps---maybe
+limited---restricted
+restricted---limited
+unmask---expose
+expose---unmask
+unmask---expose
+expose---unmask
+unmask---expose
+expose---unmask
+unmask---expose
+expose---unmask
+unmask---expose
+expose---unmask
+unmask---expose
+expose---unmask
+underside---bottom
+bottom---underside
+confident---assured
+assured---confident
+stumble---trip
+trip---stumble
+vertical---upright
+upright---vertical
+alternative---option
+option---alternative
+alternative---option
+option---alternative
+ferocious---fierce
+fierce---ferocious
+forever---eternally
+eternally---forever
+easygoing---relaxed
+relaxed---easygoing
+easygoing---relaxed
+relaxed---easygoing
+easygoing---relaxed
+relaxed---easygoing
+easygoing---relaxed
+relaxed---easygoing
+flatter---compliment excessively
+compliment excessively---flatter
+flatter---compliment excessively
+compliment excessively---flatter
+gibberish---babble
+babble---gibberish
+knowledgeable---learned
+learned---knowledgeable
+blab---chatter
+chatter---blab
+victorious---triumphant
+triumphant---victorious
+hut---shack
+shack---hut
+tadpole---polliwog
+polliwog---tadpole
+conquer---defeat
+defeat---conquer
+notify---inform
+inform---notify
+everlasting---eternal
+eternal---everlasting
+everlasting---eternal
+eternal---everlasting
+change---alter
+alter---change
+rigid---stiff
+stiff---rigid
+rigid---stiff
+stiff---rigid
+median---middle
+middle---median
+client---customer
+customer---client
+hazard---endangerment
+endangerment---hazard
+carnivorous---meat-eating
+meat-eating---carnivorous
+often---frequently
+frequently---often
+hound---dog
+dog---hound
+singer---vocalist
+vocalist---singer
+singer---vocalist
+vocalist---singer
+singer---vocalist
+vocalist---singer
+singer---vocalist
+vocalist---singer
+singer---vocalist
+vocalist---singer
+singer---vocalist
+vocalist---singer
+ban---forbid
+forbid---ban
+outer---external
+external---outer
+utensil---tool
+tool---utensil
+exaggerate---overstate
+overstate---exaggerate
+orbit---revolve
+revolve---orbit
+retrieval---recovery
+recovery---retrieval
+retrieval---recovery
+recovery---retrieval
+retrieval---recovery
+recovery---retrieval
+retrieval---recovery
+recovery---retrieval
+retrieval---recovery
+recovery---retrieval
+retrieval---recovery
+recovery---retrieval
+retrieval---recovery
+recovery---retrieval
+maiden---young woman
+young woman---maiden
+appreciation---gratitude
+gratitude---appreciation
+classification---category
+category---classification
+plank---board
+board---plank
+immature---undeveloped
+undeveloped---immature
+contribute---give
+give---contribute
+contribute---give
+give---contribute
+lottery---sweepstake
+sweepstake---lottery
+lottery---sweepstake
+sweepstake---lottery
+lottery---sweepstake
+sweepstake---lottery
+bachelorette---unmarried woman
+unmarried woman---bachelorette
+bachelorette---unmarried woman
+unmarried woman---bachelorette
+bachelorette---unmarried woman
+unmarried woman---bachelorette
+bachelorette---unmarried woman
+unmarried woman---bachelorette
+bachelorette---unmarried woman
+unmarried woman---bachelorette
+bachelorette---unmarried woman
+unmarried woman---bachelorette
+bachelorette---unmarried woman
+unmarried woman---bachelorette
+spectator---viewer
+viewer---spectator
+charmed---delighted
+delighted---charmed
+charmed---delighted
+delighted---charmed
+charmed---delighted
+delighted---charmed
+gratitude---thankfulness
+thankfulness---gratitude
+normally---usually
+usually---normally
+trash---rubbish
+rubbish---trash
+uncouple---disconnect
+disconnect---uncouple
+cure---remedy
+remedy---cure
+tasty---appetizing
+appetizing---tasty
+moisture---wetness
+wetness---moisture
+tilt---slant
+slant---tilt
+behavior---conduct
+conduct---behavior
+behavior---conduct
+conduct---behavior
+daybreak---dawn
+dawn---daybreak
+fishy---suspicious
+suspicious---fishy
+environmentalist---conservationist
+conservationist---environmentalist
+drowsy---sleepy
+sleepy---drowsy
+drowsy---sleepy
+sleepy---drowsy
+drowsy---sleepy
+sleepy---drowsy
+clarify---make clear
+make clear---clarify
+clarify---make clear
+make clear---clarify
+triumph---victory
+victory---triumph
+hidden---concealed
+concealed---hidden
+kidnap---abduct
+abduct---kidnap
+sleet---freezing rain
+freezing rain---sleet
+atomic---nuclear
+nuclear---atomic
+generate---produce
+produce---generate
+ruin---wreck
+wreck---ruin
+ruin---wreck
+wreck---ruin
+burp---belch
+belch---burp
+extinct---died out
+died out---extinct
+freshly---newly
+newly---freshly
+phenomenal---extraordinary
+extraordinary---phenomenal
+doubtful---questionable
+questionable---doubtful
+pupil---student
+student---pupil
+prickly---thorny
+thorny---prickly
+displace---remove
+remove---displace
+depressing---dreary
+dreary---depressing
+regretful---sorry
+sorry---regretful
+regretful---sorry
+sorry---regretful
+regretful---sorry
+sorry---regretful
+regretful---sorry
+sorry---regretful
+regretful---sorry
+sorry---regretful
+regretful---sorry
+sorry---regretful
+regretful---sorry
+sorry---regretful
+routine---ordinary
+ordinary---routine
+creek---brook
+brook---creek
+chase---pursue
+pursue---chase
+outsider---foreigner
+foreigner---outsider
+responsible---accountable
+accountable---responsible
+treatment---handling
+handling---treatment
+slay---kill
+kill---slay
+slogan---motto
+motto---slogan
+hazy---misty
+misty---hazy
+hazy---misty
+misty---hazy
+hazy---misty
+misty---hazy
+hazy---misty
+misty---hazy
+hazy---misty
+misty---hazy
+hazy---misty
+misty---hazy
+hazy---misty
+misty---hazy
+hazy---misty
+misty---hazy
+hazy---misty
+misty---hazy
+hazy---misty
+misty---hazy
+hazy---misty
+misty---hazy
+hazy---misty
+misty---hazy
+hazy---misty
+misty---hazy
+origin---source
+source---origin
+narrate---tell
+tell---narrate
+fracture---break
+break---fracture
+acceptance---approval
+approval---acceptance
+beforehand---in advance
+in advance---beforehand
+plasterboard---drywall
+drywall---plasterboard
+infrequent---uncommon
+uncommon---infrequent
+rare---uncommon
+uncommon---rare
+pancake---flapjack
+flapjack---pancake
+pancake---flapjack
+flapjack---pancake
+pancake---flapjack
+flapjack---pancake
+irritate---annoy
+annoy---irritate
+immigrate---come into a country
+come into a country---immigrate
+immigrate---come into a country
+come into a country---immigrate
+immigrate---come into a country
+come into a country---immigrate
+immigrate---come into a country
+come into a country---immigrate
+immigrate---come into a country
+come into a country---immigrate
+immigrate---come into a country
+come into a country---immigrate
+immigrate---come into a country
+come into a country---immigrate
+immigrate---come into a country
+come into a country---immigrate
+moisten---dampen
+dampen---moisten
+moisten---dampen
+dampen---moisten
+moisten---dampen
+dampen---moisten
+sorrowful---sad
+sad---sorrowful
+vegetation---plants
+plants---vegetation
+supervise---oversee
+oversee---supervise
+baptize---christen
+christen---baptize
+concentrate---focus
+focus---concentrate
+concentrate---focus
+focus---concentrate
+concentrate---focus
+focus---concentrate
+concentrate---focus
+focus---concentrate
+concentrate---focus
+focus---concentrate
+concentrate---focus
+focus---concentrate
+concentrate---focus
+focus---concentrate
+concentrate---focus
+focus---concentrate
+drape---curtain
+curtain---drape
+supreme---greatest
+greatest---supreme
+distrustful---suspicious
+suspicious---distrustful
+fatal---deadly
+deadly---fatal
+blabber---chatter
+chatter---blabber
+forbid---prohibit
+prohibit---forbid
+purify---cleanse
+cleanse---purify
+discourtesy---rudeness
+rudeness---discourtesy
+terrible---dreadful
+dreadful---terrible
+fail---be unsuccessful
+be unsuccessful---fail
+bug---insect
+insect---bug
+village---small town
+small town---village
+regular---ordinary
+ordinary---regular
+pigheaded---stubborn
+stubborn---pigheaded

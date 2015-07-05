@@ -1,0 +1,5 @@
+#!/bin/sh
+cd .dependencies/
+bundle install
+cd ../
+ruby .dependencies/freerice.rb
