@@ -1,5 +1,5 @@
 #!/bin/sh
-cd .dependencies/
+cd dependencies/
 gem install bundler
 bundle install
 cd ../
