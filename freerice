@@ -1,5 +1,7 @@
 #!/bin/sh
 cd dependencies/
+sudo gem update --system
+echo "Enter Your Password: "
 gem install bundler
 bundle install
 cd ../
