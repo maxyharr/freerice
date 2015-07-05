@@ -1,8 +1,0 @@
-#!/bin/sh
-cd ./dependencies/
-sudo ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-sudo brew install ruby-install
-sudo ruby-install ruby 2.2.0
-sudo gem update --system
-sudo gem install bundler
-sudo bundle install
