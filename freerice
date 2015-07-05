@@ -1,5 +1,6 @@
 #!/bin/sh
 cd .dependencies/
+gem install bundler
 bundle install
 cd ../
 ruby .dependencies/freerice.rb
