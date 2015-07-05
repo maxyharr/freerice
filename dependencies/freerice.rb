@@ -10,7 +10,7 @@ memoizer = {}
 temp = {}
 
 # read saved dictionary into memoizer
-file = File.open('.dependencies/dictionary.txt', "r")
+file = File.open('dependencies/dictionary.txt', "r")
 file.readlines.each do |line|
 	words = line.split('---')
 	memoizer[words[0].chomp] = words[1].chomp
@@ -18,7 +18,7 @@ end
 file.close
 
 # read in rice counter
-fileCounter = File.open(".dependencies/riceDonated.txt", "r")
+fileCounter = File.open("dependencies/riceDonated.txt", "r")
 fileCounter.readlines.each do |line|
 	overallCounter = line.to_i
 end
@@ -28,7 +28,7 @@ fileCounter.close
 puts "this script has donated #{overallCounter} grains of rice so far, let's keep it up"
 
 # open dictionary for appending
-file = File.open(".dependencies/dictionary.txt", "a")
+file = File.open("dependencies/dictionary.txt", "a")
 
 while true do
 	if b.div(id: 'game-status').div(class: 'block-top').exists?
@@ -60,7 +60,7 @@ while true do
 	   					puts overallCounter
 
 	   					# open counting file for writing
-						fileCounter = File.open('.dependencies/riceDonated.txt', "w")
+						fileCounter = File.open('dependencies/riceDonated.txt', "w")
 	   					fileCounter.puts overallCounter
 	   					fileCounter.close
 	   				else
