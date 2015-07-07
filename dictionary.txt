@@ -11285,3 +11285,6479 @@ criminate---accuse
 accuse---criminate
 criminate---accuse
 accuse---criminate
+create---make
+make---create
+create---make
+make---create
+create---make
+make---create
+dirt---soil
+soil---dirt
+creep---crawl
+crawl---creep
+melt---dissolve
+dissolve---melt
+melt---dissolve
+dissolve---melt
+salary---pay
+pay---salary
+rascal---scoundrel
+scoundrel---rascal
+scatter---disperse
+disperse---scatter
+outsider---foreigner
+foreigner---outsider
+outsider---foreigner
+foreigner---outsider
+outsider---foreigner
+foreigner---outsider
+outsider---foreigner
+foreigner---outsider
+forever---eternally
+eternally---forever
+bizarre---strange
+strange---bizarre
+wrinkle---crease
+crease---wrinkle
+psychological---mental
+mental---psychological
+affair---matter
+matter---affair
+vast---huge
+huge---vast
+chaos---disorder
+disorder---chaos
+fury---rage
+rage---fury
+plea---appeal
+appeal---plea
+scratchy---prickly
+prickly---scratchy
+scan---skim
+skim---scan
+scan---skim
+skim---scan
+scan---skim
+skim---scan
+scan---skim
+skim---scan
+scan---skim
+skim---scan
+scan---skim
+skim---scan
+scan---skim
+skim---scan
+scan---skim
+skim---scan
+scan---skim
+skim---scan
+tremble---quiver
+quiver---tremble
+deny---contradict
+contradict---deny
+deny---contradict
+contradict---deny
+deny---contradict
+contradict---deny
+intentional---deliberate
+deliberate---intentional
+pub---saloon
+saloon---pub
+vaccination---inoculation
+inoculation---vaccination
+envision---imagine
+imagine---envision
+tranquility---calmness
+calmness---tranquility
+shrewd---astute
+astute---shrewd
+cohabit---live together
+live together---cohabit
+chronicle---account
+account---chronicle
+amend---improve
+improve---amend
+larceny---theft
+theft---larceny
+flounder---struggle
+struggle---flounder
+fascism---dictatorship
+dictatorship---fascism
+proprietor---owner
+owner---proprietor
+majestic---stately
+stately---majestic
+collusion---secret agreement
+secret agreement---collusion
+gingerly---cautiously
+cautiously---gingerly
+swindle---cheat
+cheat---swindle
+swindle---cheat
+cheat---swindle
+reconcile---settle
+settle---reconcile
+reconcile---settle
+settle---reconcile
+reconcile---settle
+settle---reconcile
+scanty---insufficient
+insufficient---scanty
+hark---listen
+listen---hark
+embargo---prohibition
+prohibition---embargo
+abstain---refrain
+refrain---abstain
+abstain---refrain
+refrain---abstain
+abstain---refrain
+refrain---abstain
+spangle---glitter
+glitter---spangle
+ambiguity---uncertainty
+uncertainty---ambiguity
+ambiguity---uncertainty
+uncertainty---ambiguity
+brazen---shameless
+shameless---brazen
+scorn---contempt
+contempt---scorn
+eccentric---odd
+odd---eccentric
+lucrative---profitable
+profitable---lucrative
+lucrative---profitable
+profitable---lucrative
+pliant---flexible
+flexible---pliant
+rotundity---roundness
+roundness---rotundity
+corroboration---confirming evidence
+confirming evidence---corroboration
+corroboration---confirming evidence
+confirming evidence---corroboration
+medial---middle
+middle---medial
+admonition---warning
+warning---admonition
+admonition---warning
+warning---admonition
+requisition---demand
+demand---requisition
+naturalize---adapt
+adapt---naturalize
+naturalize---adapt
+adapt---naturalize
+toxicant---poison
+poison---toxicant
+pleat---fold
+fold---pleat
+petty---trivial
+trivial---petty
+pallor---paleness
+paleness---pallor
+libretto---text of an opera
+text of an opera---libretto
+acquisition---gain
+gain---acquisition
+condone---tolerate
+tolerate---condone
+meander---ramble
+ramble---meander
+mimicry---imitation
+imitation---mimicry
+anemometer---wind gauge
+wind gauge---anemometer
+stalwart---strong
+strong---stalwart
+gavel---mallet
+mallet---gavel
+destitution---poverty
+poverty---destitution
+knave---scoundrel
+scoundrel---knave
+imprudent---unwise
+unwise---imprudent
+procreate---reproduce
+reproduce---procreate
+straggle---wander
+wander---straggle
+apocalyptic---portending doom
+portending doom---apocalyptic
+caliber---quality
+quality---caliber
+turret---little tower
+little tower---turret
+flimflam---trick
+trick---flimflam
+fabulist---storyteller
+storyteller---fabulist
+nullity---nothingness
+nothingness---nullity
+contend---struggle
+struggle---contend
+salve---ointment
+ointment---salve
+precarious---unstable
+unstable---precarious
+primo---first
+first---primo
+coagulate---clot
+clot---coagulate
+coagulate---clot
+clot---coagulate
+coagulate---clot
+clot---coagulate
+eulogize---praise
+praise---eulogize
+underwriter---guarantor
+guarantor---underwriter
+underwriter---guarantor
+guarantor---underwriter
+underwriter---guarantor
+guarantor---underwriter
+underwriter---guarantor
+guarantor---underwriter
+underwriter---guarantor
+guarantor---underwriter
+underwriter---guarantor
+guarantor---underwriter
+comprise---consist of
+consist of---comprise
+boondocks---hinterland
+hinterland---boondocks
+aboriginal---native
+native---aboriginal
+pilfer---steal
+steal---pilfer
+submissive---yielding
+yielding---submissive
+merchantman---freighter
+freighter---merchantman
+azure---sky-blue
+sky-blue---azure
+azure---sky-blue
+sky-blue---azure
+azure---sky-blue
+sky-blue---azure
+citadel---fortress
+fortress---citadel
+inharmonic---discordant
+discordant---inharmonic
+inharmonic---discordant
+discordant---inharmonic
+inharmonic---discordant
+discordant---inharmonic
+divulge---reveal
+reveal---divulge
+subcutaneous---under the skin
+under the skin---subcutaneous
+rite---ceremony
+ceremony---rite
+pirouette---whirl
+whirl---pirouette
+outhouse---privy
+privy---outhouse
+portly---stout
+stout---portly
+bleary---tired
+tired---bleary
+bleary---tired
+tired---bleary
+bleary---tired
+tired---bleary
+superfluity---excess
+excess---superfluity
+traverse---cross
+cross---traverse
+rotund---round
+round---rotund
+foreboding---premonition
+premonition---foreboding
+unpalatable---distasteful
+distasteful---unpalatable
+unpalatable---distasteful
+distasteful---unpalatable
+unpalatable---distasteful
+distasteful---unpalatable
+unpalatable---distasteful
+distasteful---unpalatable
+chronic---habitual
+habitual---chronic
+grenadine---pomegranate syrup
+pomegranate syrup---grenadine
+bibliopole---rare book seller
+rare book seller---bibliopole
+meticulous---precise
+precise---meticulous
+meticulous---precise
+precise---meticulous
+meticulous---precise
+precise---meticulous
+forte---strength
+strength---forte
+fateful---momentous
+momentous---fateful
+cohort---associate
+associate---cohort
+courtly---elegant
+elegant---courtly
+courtly---elegant
+elegant---courtly
+interim---meantime
+meantime---interim
+interim---meantime
+meantime---interim
+interim---meantime
+meantime---interim
+alcove---nook
+nook---alcove
+alcove---nook
+nook---alcove
+exacerbate---make worse
+make worse---exacerbate
+mojo---charm
+charm---mojo
+mojo---charm
+charm---mojo
+gestation---pregnancy
+pregnancy---gestation
+redaction---editing
+editing---redaction
+carafe---wide-mouthed bottle
+wide-mouthed bottle---carafe
+renal---kidney-related
+kidney-related---renal
+florescence---blossoming
+blossoming---florescence
+florescence---blossoming
+blossoming---florescence
+florescence---blossoming
+blossoming---florescence
+florescence---blossoming
+blossoming---florescence
+vivacious---lively
+lively---vivacious
+lethargic---sluggish
+sluggish---lethargic
+lethargic---sluggish
+sluggish---lethargic
+neonatal---newborn
+newborn---neonatal
+neonatal---newborn
+newborn---neonatal
+neonatal---newborn
+newborn---neonatal
+oppression---tyranny
+tyranny---oppression
+oppression---tyranny
+tyranny---oppression
+oppression---tyranny
+tyranny---oppression
+lofty---towering
+towering---lofty
+philistine---uncultured person
+uncultured person---philistine
+charlatan---fraud
+fraud---charlatan
+liaison---go-between
+go-between---liaison
+accommodating---obliging
+obliging---accommodating
+accommodating---obliging
+obliging---accommodating
+accommodating---obliging
+obliging---accommodating
+accommodating---obliging
+obliging---accommodating
+accommodating---obliging
+obliging---accommodating
+accommodating---obliging
+obliging---accommodating
+accommodating---obliging
+obliging---accommodating
+accommodating---obliging
+obliging---accommodating
+accommodating---obliging
+obliging---accommodating
+earnest---sincere
+sincere---earnest
+invariable---constant
+constant---invariable
+mortify---chagrin
+chagrin---mortify
+constable---lawman
+lawman---constable
+vile---despicable
+despicable---vile
+vile---despicable
+despicable---vile
+forbearance---patience
+patience---forbearance
+subaqueous---underwater
+underwater---subaqueous
+immeasurable---vast
+vast---immeasurable
+sumptuous---lavish
+lavish---sumptuous
+sumptuous---lavish
+lavish---sumptuous
+sumptuous---lavish
+lavish---sumptuous
+sumptuous---lavish
+lavish---sumptuous
+sumptuous---lavish
+lavish---sumptuous
+sumptuous---lavish
+lavish---sumptuous
+sumptuous---lavish
+lavish---sumptuous
+sumptuous---lavish
+lavish---sumptuous
+sumptuous---lavish
+lavish---sumptuous
+sumptuous---lavish
+lavish---sumptuous
+sumptuous---lavish
+lavish---sumptuous
+ail---trouble
+trouble---ail
+profane---unholy
+unholy---profane
+commingle---blend
+blend---commingle
+plushy---lavish
+lavish---plushy
+plushy---lavish
+lavish---plushy
+plushy---lavish
+lavish---plushy
+plushy---lavish
+lavish---plushy
+plushy---lavish
+lavish---plushy
+plushy---lavish
+lavish---plushy
+plushy---lavish
+lavish---plushy
+bazaar---market
+market---bazaar
+bazaar---market
+market---bazaar
+ordain---decree
+decree---ordain
+girder---beam
+beam---girder
+fanfare---hullabaloo
+hullabaloo---fanfare
+tripartite---three-way
+three-way---tripartite
+sustenance---food
+food---sustenance
+longshoreman---dock worker
+dock worker---longshoreman
+starchy---stiff
+stiff---starchy
+annul---void
+void---annul
+annul---void
+void---annul
+annul---void
+void---annul
+annul---void
+void---annul
+annul---void
+void---annul
+exorbitant---excessive
+excessive---exorbitant
+remedial---corrective
+corrective---remedial
+discrepancy---variance
+variance---discrepancy
+phonate---vocalize
+vocalize---phonate
+debunk---discredit
+discredit---debunk
+brine---salt water
+salt water---brine
+verbiage---wordiness
+wordiness---verbiage
+spree---fling
+fling---spree
+amiable---friendly
+friendly---amiable
+amiable---friendly
+friendly---amiable
+amiable---friendly
+friendly---amiable
+amiable---friendly
+friendly---amiable
+slovenly---unkempt
+unkempt---slovenly
+slovenly---unkempt
+unkempt---slovenly
+slovenly---unkempt
+unkempt---slovenly
+disband---scatter
+scatter---disband
+explicate---explain fully
+explain fully---explicate
+coccyx---tail bone
+tail bone---coccyx
+chassis---frame
+frame---chassis
+degeneration---decline
+decline---degeneration
+incorrigible---unreformable
+unreformable---incorrigible
+immoderate---excessive
+excessive---immoderate
+multifold---numerous
+numerous---multifold
+persnickety---fussy
+fussy---persnickety
+persnickety---fussy
+fussy---persnickety
+persnickety---fussy
+fussy---persnickety
+persnickety---fussy
+fussy---persnickety
+persnickety---fussy
+fussy---persnickety
+persnickety---fussy
+fussy---persnickety
+persnickety---fussy
+fussy---persnickety
+persnickety---fussy
+fussy---persnickety
+persnickety---fussy
+fussy---persnickety
+denude---strip
+strip---denude
+idiosyncrasy---eccentricity
+eccentricity---idiosyncrasy
+centesimal---hundredth
+hundredth---centesimal
+utilitarian---useful
+useful---utilitarian
+akin---related
+related---akin
+filmy---gauzy
+gauzy---filmy
+filmy---gauzy
+gauzy---filmy
+momentary---fleeting
+fleeting---momentary
+arbitrary---random
+random---arbitrary
+rectify---correct
+correct---rectify
+whalebone---baleen
+baleen---whalebone
+emporium---store
+store---emporium
+mandatory---compulsory
+compulsory---mandatory
+tribunal---court
+court---tribunal
+equitable---fair
+fair---equitable
+qualm---misgiving
+misgiving---qualm
+clemency---mercy
+mercy---clemency
+epistemology---theory of knowledge
+theory of knowledge---epistemology
+repository---storehouse
+storehouse---repository
+repository---storehouse
+storehouse---repository
+repository---storehouse
+storehouse---repository
+repository---storehouse
+storehouse---repository
+repository---storehouse
+storehouse---repository
+fortitude---courage
+courage---fortitude
+curt---terse
+terse---curt
+layman---nonprofessional
+nonprofessional---layman
+heliocentric---sun-centered
+sun-centered---heliocentric
+moony---dreamy
+dreamy---moony
+impotent---weak
+weak---impotent
+disdainful---contemptuous
+contemptuous---disdainful
+elude---evade
+evade---elude
+tirade---angry speech
+angry speech---tirade
+redundant---superfluous
+superfluous---redundant
+imperative---obligatory
+obligatory---imperative
+imperative---obligatory
+obligatory---imperative
+suppress---inhibit
+inhibit---suppress
+heedless---inattentive
+inattentive---heedless
+coronation---crowning
+crowning---coronation
+coronation---crowning
+crowning---coronation
+coronation---crowning
+crowning---coronation
+coronation---crowning
+crowning---coronation
+stealthy---furtive
+furtive---stealthy
+goody---delicacy
+delicacy---goody
+deplorable---disgraceful
+disgraceful---deplorable
+accredit---recognize
+recognize---accredit
+compulsory---obligatory
+obligatory---compulsory
+automaton---robot
+robot---automaton
+entourage---attendants
+attendants---entourage
+troglodyte---cave-dweller
+cave-dweller---troglodyte
+snobby---elitist
+elitist---snobby
+snobby---elitist
+elitist---snobby
+warrant---guarantee
+guarantee---warrant
+zeal---fervor
+fervor---zeal
+stately---grand
+grand---stately
+heed---mind
+mind---heed
+uncanny---eerie
+eerie---uncanny
+tribulation---ordeal
+ordeal---tribulation
+serendipity---luck finding things
+luck finding things---serendipity
+spermaceti---sperm whale oil
+sperm whale oil---spermaceti
+spermaceti---sperm whale oil
+sperm whale oil---spermaceti
+pauperism---poverty
+poverty---pauperism
+riffraff---rabble
+rabble---riffraff
+inebriate---intoxicate
+intoxicate---inebriate
+forepart---front
+front---forepart
+exude---ooze out
+ooze out---exude
+parchment---sheepskin
+sheepskin---parchment
+coercion---force
+force---coercion
+bibliotheca---library
+library---bibliotheca
+promenade---stroll
+stroll---promenade
+mercantile---commercial
+commercial---mercantile
+detractor---critic
+critic---detractor
+paraphernalia---assorted gear
+assorted gear---paraphernalia
+paraphernalia---assorted gear
+assorted gear---paraphernalia
+paraphernalia---assorted gear
+assorted gear---paraphernalia
+paraphernalia---assorted gear
+assorted gear---paraphernalia
+paraphernalia---assorted gear
+assorted gear---paraphernalia
+paraphernalia---assorted gear
+assorted gear---paraphernalia
+paraphernalia---assorted gear
+assorted gear---paraphernalia
+calculated---deliberate
+deliberate---calculated
+hyperbolize---exaggerate
+exaggerate---hyperbolize
+fissure---crack
+crack---fissure
+kindred---related
+related---kindred
+yearn---hanker
+hanker---yearn
+yearn---hanker
+hanker---yearn
+succession---sequence
+sequence---succession
+requisite---necessary
+necessary---requisite
+apothecary---pharmacist
+pharmacist---apothecary
+workaday---ordinary
+ordinary---workaday
+benevolence---kindness
+kindness---benevolence
+pittance---small amount
+small amount---pittance
+incandesce---glow
+glow---incandesce
+primal---original
+original---primal
+primal---original
+original---primal
+primal---original
+original---primal
+pastoral---idyllic
+idyllic---pastoral
+pastoral---idyllic
+idyllic---pastoral
+pastoral---idyllic
+idyllic---pastoral
+pastoral---idyllic
+idyllic---pastoral
+crony---pal
+pal---crony
+ossification---hardening into bone
+hardening into bone---ossification
+ossification---hardening into bone
+hardening into bone---ossification
+ossification---hardening into bone
+hardening into bone---ossification
+ossification---hardening into bone
+hardening into bone---ossification
+ossification---hardening into bone
+hardening into bone---ossification
+ossification---hardening into bone
+hardening into bone---ossification
+appraise---evaluate
+evaluate---appraise
+symptomatic---indicative
+indicative---symptomatic
+adverse---unfavorable
+unfavorable---adverse
+preen---primp
+primp---preen
+satirical---mocking
+mocking---satirical
+subsidy---aid
+aid---subsidy
+covet---desire
+desire---covet
+faction---clique
+clique---faction
+iota---tiny bit
+tiny bit---iota
+substandard---inferior
+inferior---substandard
+transpire---happen
+happen---transpire
+transpire---happen
+happen---transpire
+fledgling---immature
+immature---fledgling
+discord---conflict
+conflict---discord
+cohere---stick together
+stick together---cohere
+cohere---stick together
+stick together---cohere
+shiitake---mushroom
+mushroom---shiitake
+penance---atonement
+atonement---penance
+miscue---slip-up
+slip-up---miscue
+miscue---slip-up
+slip-up---miscue
+stellar---outstanding
+outstanding---stellar
+gibe---scoff
+scoff---gibe
+gibe---scoff
+scoff---gibe
+raving---delirious
+delirious---raving
+raving---delirious
+delirious---raving
+raving---delirious
+delirious---raving
+raving---delirious
+delirious---raving
+ingrate---thankless person
+thankless person---ingrate
+satirize---ridicule
+ridicule---satirize
+hermaphrodite---androgyne
+androgyne---hermaphrodite
+scalawag---rascal
+rascal---scalawag
+stigma---mark of disgrace
+mark of disgrace---stigma
+hypothetical---conjectural
+conjectural---hypothetical
+ruse---trick
+trick---ruse
+volition---free will
+free will---volition
+bangle---bracelet
+bracelet---bangle
+saunter---stroll
+stroll---saunter
+ostracism---banishment
+banishment---ostracism
+briny---salty
+salty---briny
+dodgy---tricky
+tricky---dodgy
+dodgy---tricky
+tricky---dodgy
+expressly---explicitly
+explicitly---expressly
+mushy---sentimental
+sentimental---mushy
+archaic---antiquated
+antiquated---archaic
+torrent---flood
+flood---torrent
+lacteal---milky
+milky---lacteal
+transcend---surpass
+surpass---transcend
+autonomous---self-governing
+self-governing---autonomous
+ocular---visual
+visual---ocular
+ocular---visual
+visual---ocular
+ocular---visual
+visual---ocular
+ocular---visual
+visual---ocular
+ocular---visual
+visual---ocular
+ocular---visual
+visual---ocular
+perturb---agitate
+agitate---perturb
+dorsal---back
+back---dorsal
+lout---goon
+goon---lout
+mnemonic---memory-related
+memory-related---mnemonic
+confluence---flowing together
+flowing together---confluence
+antemeridian---before noon
+before noon---antemeridian
+antemeridian---before noon
+before noon---antemeridian
+antemeridian---before noon
+before noon---antemeridian
+antemeridian---before noon
+before noon---antemeridian
+judicious---wise
+wise---judicious
+conjunctivitis---pinkeye
+pinkeye---conjunctivitis
+tangible---touchable
+touchable---tangible
+diversion---pastime
+pastime---diversion
+savvy---shrewdness
+shrewdness---savvy
+vise---clamping tool
+clamping tool---vise
+decouple---separate
+separate---decouple
+inception---beginning
+beginning---inception
+bequeath---hand down
+hand down---bequeath
+flaccid---limp
+limp---flaccid
+induce---cause
+cause---induce
+inefficacious---useless
+useless---inefficacious
+quip---clever remark
+clever remark---quip
+dishevel---tousle
+tousle---dishevel
+wreak---inflict
+inflict---wreak
+wreak---inflict
+inflict---wreak
+wreak---inflict
+inflict---wreak
+wreak---inflict
+inflict---wreak
+wreak---inflict
+inflict---wreak
+presumptuous---overly forward
+overly forward---presumptuous
+presumptuous---overly forward
+overly forward---presumptuous
+amnesty---pardon
+pardon---amnesty
+bolero---spanish dance
+spanish dance---bolero
+ovum---egg cell
+egg cell---ovum
+ovum---egg cell
+egg cell---ovum
+bouillon---broth
+broth---bouillon
+bonanza---windfall
+windfall---bonanza
+bonanza---windfall
+windfall---bonanza
+bonanza---windfall
+windfall---bonanza
+bonanza---windfall
+windfall---bonanza
+goad---spur
+spur---goad
+slapdash---haphazard
+haphazard---slapdash
+riotous---turbulent
+turbulent---riotous
+gruel---porridge
+porridge---gruel
+armada---fleet
+fleet---armada
+impeccable---faultless
+faultless---impeccable
+impeccable---faultless
+faultless---impeccable
+impeccable---faultless
+faultless---impeccable
+knavish---villainous
+villainous---knavish
+swoon---faint
+faint---swoon
+myopic---nearsighted
+nearsighted---myopic
+exhume---dig up from a grave
+dig up from a grave---exhume
+abhorrence---loathing
+loathing---abhorrence
+prim---prudish
+prudish---prim
+prim---prudish
+prudish---prim
+prim---prudish
+prudish---prim
+embezzlement---theft
+theft---embezzlement
+desist---cease
+cease---desist
+secular---worldly
+worldly---secular
+prejudicial---detrimental
+detrimental---prejudicial
+unbecoming---improper
+improper---unbecoming
+rancid---rank
+rank---rancid
+rancid---rank
+rank---rancid
+dubious---questionable
+questionable---dubious
+indigene---native
+native---indigene
+circumfuse---spread around
+spread around---circumfuse
+dissonance---discord
+discord---dissonance
+fungous---spongy
+spongy---fungous
+dowdy---frumpy
+frumpy---dowdy
+unflappable---imperturbable
+imperturbable---unflappable
+foreordain---predetermine
+predetermine---foreordain
+homage---respect
+respect---homage
+gyrate---revolve
+revolve---gyrate
+relapse---backslide
+backslide---relapse
+jurisprudence---law
+law---jurisprudence
+raconteur---storyteller
+storyteller---raconteur
+convalescence---recuperation
+recuperation---convalescence
+serigraph---silk-screen print
+silk-screen print---serigraph
+serigraph---silk-screen print
+silk-screen print---serigraph
+mousy---drab
+drab---mousy
+mousy---drab
+drab---mousy
+mousy---drab
+drab---mousy
+mousy---drab
+drab---mousy
+selfless---altruistic
+altruistic---selfless
+antecede---go before
+go before---antecede
+fervent---zealous
+zealous---fervent
+doldrums---stagnation
+stagnation---doldrums
+typify---epitomize
+epitomize---typify
+typify---epitomize
+epitomize---typify
+typify---epitomize
+epitomize---typify
+typify---epitomize
+epitomize---typify
+typify---epitomize
+epitomize---typify
+typify---epitomize
+epitomize---typify
+enamored---in love
+in love---enamored
+auxiliary---additional
+additional---auxiliary
+pokey---slow
+slow---pokey
+voluptuous---sensual
+sensual---voluptuous
+plethora---excess
+excess---plethora
+borough---town
+town---borough
+protraction---lengthening
+lengthening---protraction
+protraction---lengthening
+lengthening---protraction
+protraction---lengthening
+lengthening---protraction
+insurgent---rebellious
+rebellious---insurgent
+expanse---area
+area---expanse
+pontificate---speak pompously
+speak pompously---pontificate
+impede---hinder
+hinder---impede
+profound---deep
+deep---profound
+lesion---wound
+wound---lesion
+diminution---lessening
+lessening---diminution
+somnambulist---sleepwalker
+sleepwalker---somnambulist
+outrigger---boat stabilizer
+boat stabilizer---outrigger
+delegate---assign
+assign---delegate
+doily---small napkin
+small napkin---doily
+futile---useless
+useless---futile
+seer---prophet
+prophet---seer
+vaporous---ethereal
+ethereal---vaporous
+wares---merchandise
+merchandise---wares
+discrete---separate
+separate---discrete
+expendable---non-essential
+non-essential---expendable
+thoroughfare---passage
+passage---thoroughfare
+vintner---wine dealer
+wine dealer---vintner
+belittle---disparage
+disparage---belittle
+inkling---hint
+hint---inkling
+immaterial---unimportant
+unimportant---immaterial
+immaterial---unimportant
+unimportant---immaterial
+immaterial---unimportant
+unimportant---immaterial
+immaterial---unimportant
+unimportant---immaterial
+immaterial---unimportant
+unimportant---immaterial
+immaterial---unimportant
+unimportant---immaterial
+grandiose---impressive
+impressive---grandiose
+analgesic---painkiller
+painkiller---analgesic
+analgesic---painkiller
+painkiller---analgesic
+epitomize---be typical of
+be typical of---epitomize
+chronometer---clock
+clock---chronometer
+canny---shrewd
+shrewd---canny
+scuttlebutt---gossip
+gossip---scuttlebutt
+talisman---magic charm
+magic charm---talisman
+erroneous---mistaken
+mistaken---erroneous
+erroneous---mistaken
+mistaken---erroneous
+erroneous---mistaken
+mistaken---erroneous
+erroneous---mistaken
+mistaken---erroneous
+respire---breathe
+breathe---respire
+efflorescence---blossoming
+blossoming---efflorescence
+tetanus---lockjaw
+lockjaw---tetanus
+belfry---bell tower
+bell tower---belfry
+shirk---sag
+sag---shirk
+shirk---sag
+sag---shirk
+shirk---sag
+sag---shirk
+shirk---sag
+sag---shirk
+shirk---sag
+sag---shirk
+shirk---sag
+sag---shirk
+shirk---sag
+sag---shirk
+shirk---sag
+sag---shirk
+shirk---avoid
+avoid---shirk
+vulgar---coarse
+coarse---vulgar
+brouhaha---uproar
+uproar---brouhaha
+brouhaha---uproar
+uproar---brouhaha
+brouhaha---uproar
+uproar---brouhaha
+brouhaha---uproar
+uproar---brouhaha
+cracksman---burglar
+burglar---cracksman
+uncouth---awkward
+awkward---uncouth
+swank---stylishness
+stylishness---swank
+insurgence---uprising
+uprising---insurgence
+dilation---expansion
+expansion---dilation
+exhaustive---thorough
+thorough---exhaustive
+virtuosity---excellence
+excellence---virtuosity
+injunction---order
+order---injunction
+volatile---changeable
+changeable---volatile
+volatile---changeable
+changeable---volatile
+volatile---changeable
+changeable---volatile
+volatile---changeable
+changeable---volatile
+repugnance---loathing
+loathing---repugnance
+chiffon---sheer fabric
+sheer fabric---chiffon
+entity---being
+being---entity
+mussy---disheveled
+disheveled---mussy
+impunity---freedom from punishment
+freedom from punishment---impunity
+rebuke---chide
+chide---rebuke
+antagonist---opponent
+opponent---antagonist
+antagonist---opponent
+opponent---antagonist
+antagonist---opponent
+opponent---antagonist
+tyrannical---despotic
+despotic---tyrannical
+incognizant---unaware
+unaware---incognizant
+hibernal---wintry
+wintry---hibernal
+rubeola---measles
+measles---rubeola
+inept---clumsy
+clumsy---inept
+compliant---yielding
+yielding---compliant
+periodical---magazine
+magazine---periodical
+colander---strainer
+strainer---colander
+maverick---rebel
+rebel---maverick
+sparing---frugal
+frugal---sparing
+transient---fleeting
+fleeting---transient
+transient---fleeting
+fleeting---transient
+desegregate---mix
+mix---desegregate
+servitor---attendant
+attendant---servitor
+gaff---hooked fishing spear
+hooked fishing spear---gaff
+scrutinize---examine
+examine---scrutinize
+launder---wash
+wash---launder
+launder---wash
+wash---launder
+launder---wash
+wash---launder
+launder---wash
+wash---launder
+launder---wash
+wash---launder
+repudiate---reject
+reject---repudiate
+indict---accuse
+accuse---indict
+soothsaying---prophecy
+prophecy---soothsaying
+catholicity---universality
+universality---catholicity
+vaulted---arched
+arched---vaulted
+hedonistic---pleasure-seeking
+pleasure-seeking---hedonistic
+hedonistic---pleasure-seeking
+pleasure-seeking---hedonistic
+hedonistic---pleasure-seeking
+pleasure-seeking---hedonistic
+hedonistic---pleasure-seeking
+pleasure-seeking---hedonistic
+hedonistic---pleasure-seeking
+pleasure-seeking---hedonistic
+disgorge---vomit
+vomit---disgorge
+vex---irritate
+irritate---vex
+anomaly---irregularity
+irregularity---anomaly
+sanctimonious---self-righteous
+self-righteous---sanctimonious
+adversity---misfortune
+misfortune---adversity
+burdensome---oppressive
+oppressive---burdensome
+woo---court
+court---woo
+procure---obtain
+obtain---procure
+ostracize---banish
+banish---ostracize
+rile---upset
+upset---rile
+lackey---servant
+servant---lackey
+hone---sharpen
+sharpen---hone
+harrowing---traumatic
+traumatic---harrowing
+belligerently---hostilely
+hostilely---belligerently
+abhor---detest
+detest---abhor
+schematic---diagram
+diagram---schematic
+pugnacious---quarrelsome
+quarrelsome---pugnacious
+drivel---slobber
+slobber---drivel
+analogous---similar
+similar---analogous
+philatelist---stamp collector
+stamp collector---philatelist
+transgress---violate
+violate---transgress
+putrescence---rottenness
+rottenness---putrescence
+yore---yesteryear
+yesteryear---yore
+empathetic---understanding
+understanding---empathetic
+empathetic---understanding
+understanding---empathetic
+empathetic---understanding
+understanding---empathetic
+empathetic---understanding
+understanding---empathetic
+empathetic---understanding
+understanding---empathetic
+empathetic---understanding
+understanding---empathetic
+empathetic---understanding
+understanding---empathetic
+empathetic---understanding
+understanding---empathetic
+empathetic---understanding
+understanding---empathetic
+empathetic---understanding
+understanding---empathetic
+empathetic---understanding
+understanding---empathetic
+empathetic---understanding
+understanding---empathetic
+empathetic---understanding
+understanding---empathetic
+lingua---tongue
+tongue---lingua
+tatty---shabby
+shabby---tatty
+bolster---reinforce
+reinforce---bolster
+adulation---worship
+worship---adulation
+gazpacho---soup
+soup---gazpacho
+gazpacho---soup
+soup---gazpacho
+gazpacho---soup
+soup---gazpacho
+gazpacho---soup
+soup---gazpacho
+gazpacho---soup
+soup---gazpacho
+gazpacho---soup
+soup---gazpacho
+abound---be plentiful
+be plentiful---abound
+abound---be plentiful
+be plentiful---abound
+antithesis---opposite
+opposite---antithesis
+callous---hardened
+hardened---callous
+fatuousness---absurdity
+absurdity---fatuousness
+fatuousness---absurdity
+absurdity---fatuousness
+fatuousness---absurdity
+absurdity---fatuousness
+lousy---contemptible
+contemptible---lousy
+coerce---compel
+compel---coerce
+infallible---unerring
+unerring---infallible
+primeval---ancient
+ancient---primeval
+trashy---inferior
+inferior---trashy
+monetary---financial
+financial---monetary
+timeworn---hackneyed
+hackneyed---timeworn
+timeworn---hackneyed
+hackneyed---timeworn
+timeworn---hackneyed
+hackneyed---timeworn
+timeworn---hackneyed
+hackneyed---timeworn
+timeworn---hackneyed
+hackneyed---timeworn
+timeworn---hackneyed
+hackneyed---timeworn
+blather---babble
+babble---blather
+sever---divide
+divide---sever
+reparation---amends
+amends---reparation
+lustrous---shining
+shining---lustrous
+oculist---eye doctor
+eye doctor---oculist
+exemplar---model
+model---exemplar
+stanch---halt
+halt---stanch
+infirm---weak
+weak---infirm
+raptor---bird of prey
+bird of prey---raptor
+blanch---pale
+pale---blanch
+blanch---pale
+pale---blanch
+blanch---pale
+pale---blanch
+knotty---complex
+complex---knotty
+genteel---polite
+polite---genteel
+chalice---goblet
+goblet---chalice
+corrugated---ridged
+ridged---corrugated
+archipelago---group of islands
+group of islands---archipelago
+archipelago---group of islands
+group of islands---archipelago
+archipelago---group of islands
+group of islands---archipelago
+archipelago---group of islands
+group of islands---archipelago
+archipelago---group of islands
+group of islands---archipelago
+archipelago---group of islands
+group of islands---archipelago
+begrudge---envy
+envy---begrudge
+fancier---enthusiast
+enthusiast---fancier
+fancier---enthusiast
+enthusiast---fancier
+fancier---enthusiast
+enthusiast---fancier
+fancier---enthusiast
+enthusiast---fancier
+clangor---ringing
+ringing---clangor
+myalgia---muscle pain
+muscle pain---myalgia
+nova---bright star
+bright star---nova
+sporadic---intermittent
+intermittent---sporadic
+doting---excessively fond
+excessively fond---doting
+rogue---scoundrel
+scoundrel---rogue
+pianissimo---very softly
+very softly---pianissimo
+ramshackle---dilapidated
+dilapidated---ramshackle
+predestinate---foreordain
+foreordain---predestinate
+assail---attack
+attack---assail
+assail---attack
+attack---assail
+wangle---manipulate
+manipulate---wangle
+fervency---ardor
+ardor---fervency
+parry---ward off
+ward off---parry
+cognizant---aware
+aware---cognizant
+dissuade---deter
+deter---dissuade
+invocation---prayer
+prayer---invocation
+permissive---lenient
+lenient---permissive
+exultation---jubilance
+jubilance---exultation
+homely---plain
+plain---homely
+wanderlust---urge to travel
+urge to travel---wanderlust
+adjoin---border
+border---adjoin
+absolution---forgiveness
+forgiveness---absolution
+lattice---grille
+grille---lattice
+exothermic---heat-releasing
+heat-releasing---exothermic
+exothermic---heat-releasing
+heat-releasing---exothermic
+exothermic---heat-releasing
+heat-releasing---exothermic
+exothermic---heat-releasing
+heat-releasing---exothermic
+dub---nickname
+nickname---dub
+reprehensible---blameworthy
+blameworthy---reprehensible
+mycosis---fungal disease
+fungal disease---mycosis
+svelte---slender
+slender---svelte
+treatise---dissertation
+dissertation---treatise
+finery---clothes
+clothes---finery
+circumvent---get around
+get around---circumvent
+cyan---blue-green
+blue-green---cyan
+cyan---blue-green
+blue-green---cyan
+cyan---blue-green
+blue-green---cyan
+dextral---right-handed
+right-handed---dextral
+ambiguous---uncertain
+uncertain---ambiguous
+supersede---replace
+replace---supersede
+avian---birdlike
+birdlike---avian
+penal---punitive
+punitive---penal
+plumage---feathers
+feathers---plumage
+cerebral---intellectual
+intellectual---cerebral
+ostentation---showiness
+showiness---ostentation
+equine---horse-like
+horse-like---equine
+equine---horse-like
+horse-like---equine
+equine---horse-like
+horse-like---equine
+crockery---earthenware
+earthenware---crockery
+numismatics---coin collecting
+coin collecting---numismatics
+numismatics---coin collecting
+coin collecting---numismatics
+numismatics---coin collecting
+coin collecting---numismatics
+numismatics---coin collecting
+coin collecting---numismatics
+numismatics---coin collecting
+coin collecting---numismatics
+numismatics---coin collecting
+coin collecting---numismatics
+prominent---conspicuous
+conspicuous---prominent
+dapper---stylishly dressed
+stylishly dressed---dapper
+jaunty---lively
+lively---jaunty
+penitence---remorse
+remorse---penitence
+inebriated---drunk
+drunk---inebriated
+throng---crowd
+crowd---throng
+covert---secret
+secret---covert
+stipulation---condition
+condition---stipulation
+regal---kingly
+kingly---regal
+gimp---hobble
+hobble---gimp
+racy---indecently suggestive
+indecently suggestive---racy
+pervade---spread
+spread---pervade
+unassuming---modest
+modest---unassuming
+drover---herdsman
+herdsman---drover
+leatherback---sea turtle
+sea turtle---leatherback
+immutable---unchanging
+unchanging---immutable
+neophyte---beginner
+beginner---neophyte
+jimmy---pry
+pry---jimmy
+jimmy---pry
+pry---jimmy
+borscht---beet soup
+beet soup---borscht
+mezzanine---lowest balcony
+lowest balcony---mezzanine
+mezzanine---lowest balcony
+lowest balcony---mezzanine
+deface---mar
+mar---deface
+saccharine---sugary
+sugary---saccharine
+outset---beginning
+beginning---outset
+emulate---imitate
+imitate---emulate
+shackle---fetter
+fetter---shackle
+convex---bulging outward
+bulging outward---convex
+prudish---priggish
+priggish---prudish
+proverbial---well-known
+well-known---proverbial
+proverbial---well-known
+well-known---proverbial
+proverbial---well-known
+well-known---proverbial
+philanderer---womanizer
+womanizer---philanderer
+philanderer---womanizer
+womanizer---philanderer
+flub---botch
+botch---flub
+repressive---inhibitory
+inhibitory---repressive
+profanation---blasphemy
+blasphemy---profanation
+carping---fault-finding
+fault-finding---carping
+underling---subordinate
+subordinate---underling
+profusion---abundance
+abundance---profusion
+odoriferous---scented
+scented---odoriferous
+apparition---ghost
+ghost---apparition
+scuttlebutt---gossip
+gossip---scuttlebutt
+accrue---accumulate
+accumulate---accrue
+tendon---sinew
+sinew---tendon
+tendon---sinew
+sinew---tendon
+annex---attach
+attach---annex
+flay---strip the skin off
+strip the skin off---flay
+phlebotomy---bloodletting
+bloodletting---phlebotomy
+phlebotomy---bloodletting
+bloodletting---phlebotomy
+phlebotomy---bloodletting
+bloodletting---phlebotomy
+phlebotomy---bloodletting
+bloodletting---phlebotomy
+phlebotomy---bloodletting
+bloodletting---phlebotomy
+phlebotomy---bloodletting
+bloodletting---phlebotomy
+consecrate---sanctify
+sanctify---consecrate
+trivet---three-legged stand
+three-legged stand---trivet
+dogmatic---opinionated
+opinionated---dogmatic
+discombobulated---bewildered
+bewildered---discombobulated
+orifice---opening
+opening---orifice
+orifice---opening
+opening---orifice
+detriment---harm
+harm---detriment
+detriment---harm
+harm---detriment
+detriment---harm
+harm---detriment
+detriment---harm
+harm---detriment
+detriment---harm
+harm---detriment
+crass---coarse
+coarse---crass
+aviatrix---female pilot
+female pilot---aviatrix
+malevolent---hateful
+hateful---malevolent
+twaddle---nonsense
+nonsense---twaddle
+culmination---climax
+climax---culmination
+lowly---humble
+humble---lowly
+vacuity---emptiness
+emptiness---vacuity
+rumbustious---boisterous
+boisterous---rumbustious
+cretin---imbecile
+imbecile---cretin
+vista---view
+view---vista
+convey---impart
+impart---convey
+myocardium---heart muscle
+heart muscle---myocardium
+acclimatize---adapt
+adapt---acclimatize
+amorous---loving
+loving---amorous
+bough---limb
+limb---bough
+regalia---royal finery
+royal finery---regalia
+altercation---dispute
+dispute---altercation
+exultant---joyous
+joyous---exultant
+guile---cunning
+cunning---guile
+hominid---man-like
+man-like---hominid
+spry---nimble
+nimble---spry
+specter---apparition
+apparition---specter
+specter---apparition
+apparition---specter
+specter---apparition
+apparition---specter
+specter---apparition
+apparition---specter
+specter---apparition
+apparition---specter
+coup---takeover
+takeover---coup
+curio---oddity
+oddity---curio
+deprecate---belittle
+belittle---deprecate
+melioration---improvement
+improvement---melioration
+melioration---improvement
+improvement---melioration
+melioration---improvement
+improvement---melioration
+truism---axiom
+axiom---truism
+inert---inactive
+inactive---inert
+hacienda---plantation
+plantation---hacienda
+rapscallion---rascal
+rascal---rapscallion
+rapscallion---rascal
+rascal---rapscallion
+rapscallion---rascal
+rascal---rapscallion
+rapscallion---rascal
+rascal---rapscallion
+rapscallion---rascal
+rascal---rapscallion
+devoutly---piously
+piously---devoutly
+goad---spur
+spur---goad
+transmogrify---metamorphose
+metamorphose---transmogrify
+transmogrify---metamorphose
+metamorphose---transmogrify
+exorbitance---excess
+excess---exorbitance
+unabridged---complete
+complete---unabridged
+unabridged---complete
+complete---unabridged
+unabridged---complete
+complete---unabridged
+millesimal---thousandth
+thousandth---millesimal
+millesimal---thousandth
+thousandth---millesimal
+millesimal---thousandth
+thousandth---millesimal
+millesimal---thousandth
+thousandth---millesimal
+millesimal---thousandth
+thousandth---millesimal
+millesimal---thousandth
+thousandth---millesimal
+swag---loot
+loot---swag
+calamitous---disastrous
+disastrous---calamitous
+earthy---crude
+crude---earthy
+excrescence---outgrowth
+outgrowth---excrescence
+adjudicate---judge
+judge---adjudicate
+avidity---eagerness
+eagerness---avidity
+dissertation---thesis
+thesis---dissertation
+tawny---yellowish-brown
+yellowish-brown---tawny
+tawny---yellowish-brown
+yellowish-brown---tawny
+herald---proclaim
+proclaim---herald
+frigate---warship
+warship---frigate
+cistern---water tank
+water tank---cistern
+magniloquence---pompous speech
+pompous speech---magniloquence
+temperate---moderate
+moderate---temperate
+confound---bewilder
+bewilder---confound
+malady---illness
+illness---malady
+malady---illness
+illness---malady
+malady---illness
+illness---malady
+malady---illness
+illness---malady
+malady---illness
+illness---malady
+malady---illness
+illness---malady
+malady---illness
+illness---malady
+malady---illness
+illness---malady
+malady---illness
+illness---malady
+abhorrent---detestable
+detestable---abhorrent
+osteoid---bonelike
+bonelike---osteoid
+abatement---reduction
+reduction---abatement
+abatement---reduction
+reduction---abatement
+abatement---reduction
+reduction---abatement
+abatement---reduction
+reduction---abatement
+ordnance---artillery
+artillery---ordnance
+angst---anxiety
+anxiety---angst
+conducive---helpful
+helpful---conducive
+euphonious---sweet-sounding
+sweet-sounding---euphonious
+reprimand---censure
+censure---reprimand
+despondence---sadness
+sadness---despondence
+duress---pressure
+pressure---duress
+grope---fumble
+fumble---grope
+resolute---firm
+firm---resolute
+conveyance---transfer
+transfer---conveyance
+bohemian---unconventional
+unconventional---bohemian
+reprisal---retaliation
+retaliation---reprisal
+frugal---economical
+economical---frugal
+amiss---faulty
+faulty---amiss
+enshroud---cover
+cover---enshroud
+legion---multitude
+multitude---legion
+cuneiform---wedge-shaped
+wedge-shaped---cuneiform
+dynamism---vigor
+vigor---dynamism
+deign---lower oneself
+lower oneself---deign
+deign---lower oneself
+lower oneself---deign
+deign---lower oneself
+lower oneself---deign
+deign---lower oneself
+lower oneself---deign
+deign---lower oneself
+lower oneself---deign
+mace---medieval battle club
+medieval battle club---mace
+greenhorn---novice
+novice---greenhorn
+ditty---song
+song---ditty
+prognostic---foretelling
+foretelling---prognostic
+bestial---animal-like
+animal-like---bestial
+bridle---restrain
+restrain---bridle
+variegated---multi-colored
+multi-colored---variegated
+hilarity---mirth
+mirth---hilarity
+fickle---inconstant
+inconstant---fickle
+fickle---inconstant
+inconstant---fickle
+fickle---inconstant
+inconstant---fickle
+fickle---inconstant
+inconstant---fickle
+fickle---inconstant
+inconstant---fickle
+fickle---inconstant
+inconstant---fickle
+fickle---inconstant
+inconstant---fickle
+fickle---inconstant
+inconstant---fickle
+curtail---shorten
+shorten---curtail
+brunt---impact
+impact---brunt
+formidable---impressive
+impressive---formidable
+formidable---impressive
+impressive---formidable
+formidable---impressive
+impressive---formidable
+oviparous---egg-laying
+egg-laying---oviparous
+oviparous---egg-laying
+egg-laying---oviparous
+perpetuity---forever
+forever---perpetuity
+putrefy---rot
+rot---putrefy
+putrefy---rot
+rot---putrefy
+effeminacy---womanishness
+womanishness---effeminacy
+daub---smear
+smear---daub
+kook---eccentric
+eccentric---kook
+prose---writing
+writing---prose
+axiom---self-evident truth
+self-evident truth---axiom
+misanthropy---hatred of humankind
+hatred of humankind---misanthropy
+misanthropy---hatred of humankind
+hatred of humankind---misanthropy
+misanthropy---hatred of humankind
+hatred of humankind---misanthropy
+meritorious---praiseworthy
+praiseworthy---meritorious
+mercenary---greedy for money
+greedy for money---mercenary
+virtuoso---masterful
+masterful---virtuoso
+joist---supporting crossbeam
+supporting crossbeam---joist
+minuet---dance
+dance---minuet
+minuet---dance
+dance---minuet
+purview---scope
+scope---purview
+jowl---jaw
+jaw---jowl
+speechify---harangue
+harangue---speechify
+interloper---intruder
+intruder---interloper
+stymie---obstruct
+obstruct---stymie
+stymie---obstruct
+obstruct---stymie
+stymie---obstruct
+obstruct---stymie
+stymie---obstruct
+obstruct---stymie
+stymie---obstruct
+obstruct---stymie
+stymie---obstruct
+obstruct---stymie
+stymie---obstruct
+obstruct---stymie
+accolade---honor
+honor---accolade
+iterate---repeat
+repeat---iterate
+necropolis---cemetery
+cemetery---necropolis
+footfall---step
+step---footfall
+unerringly---accurately
+accurately---unerringly
+integral---essential
+essential---integral
+palpability---tangibleness
+tangibleness---palpability
+sequester---seclude
+seclude---sequester
+sequester---seclude
+seclude---sequester
+sequester---seclude
+seclude---sequester
+sequester---seclude
+seclude---sequester
+sequester---seclude
+seclude---sequester
+sequester---seclude
+seclude---sequester
+imperishable---enduring
+enduring---imperishable
+apprehensive---fearful
+fearful---apprehensive
+apprehensive---fearful
+fearful---apprehensive
+pomp---splendor
+splendor---pomp
+flotsam---wreckage
+wreckage---flotsam
+beefeater---yeoman
+yeoman---beefeater
+apnea---breathing difficulty
+breathing difficulty---apnea
+subservient---servile
+servile---subservient
+quagmire---bog
+bog---quagmire
+pensive---thoughtful
+thoughtful---pensive
+exult---rejoice
+rejoice---exult
+heresy---unorthodoxy
+unorthodoxy---heresy
+shoddy---inferior
+inferior---shoddy
+shoddy---inferior
+inferior---shoddy
+shoddy---inferior
+inferior---shoddy
+sheaf---bundle
+bundle---sheaf
+senile---doddering
+doddering---senile
+listless---lethargic
+lethargic---listless
+bluster---swagger
+swagger---bluster
+piddling---trivial
+trivial---piddling
+splay---spread apart
+spread apart---splay
+exonerate---acquit
+acquit---exonerate
+burro---donkey
+donkey---burro
+burro---donkey
+donkey---burro
+burro---donkey
+donkey---burro
+affective---emotional
+emotional---affective
+notoriety---disrepute
+disrepute---notoriety
+peruse---examine
+examine---peruse
+dacha---russian country house
+russian country house---dacha
+prerogative---privilege
+privilege---prerogative
+myriad---innumerable
+innumerable---myriad
+myriad---innumerable
+innumerable---myriad
+myriad---innumerable
+innumerable---myriad
+myriad---innumerable
+innumerable---myriad
+myriad---innumerable
+innumerable---myriad
+myriad---innumerable
+innumerable---myriad
+myriad---innumerable
+innumerable---myriad
+myriad---innumerable
+innumerable---myriad
+symposium---discussion
+discussion---symposium
+limbo---oblivion
+oblivion---limbo
+satiety---fullness
+fullness---satiety
+furrow---groove
+groove---furrow
+proclivity---inclination
+inclination---proclivity
+grandiloquent---pompous
+pompous---grandiloquent
+expedite---hasten
+hasten---expedite
+vermilion---bright red
+bright red---vermilion
+rappel---descend by rope
+descend by rope---rappel
+nervy---brash
+brash---nervy
+margarine---oleo
+oleo---margarine
+datum---fact
+fact---datum
+datum---fact
+fact---datum
+datum---fact
+fact---datum
+datum---fact
+fact---datum
+datum---fact
+fact---datum
+datum---fact
+fact---datum
+datum---fact
+fact---datum
+datum---fact
+fact---datum
+datum---fact
+fact---datum
+garbanzo---chickpea
+chickpea---garbanzo
+painstaking---diligent
+diligent---painstaking
+stouthearted---courageous
+courageous---stouthearted
+larcenist---burglar
+burglar---larcenist
+feral---wild
+wild---feral
+tawdry---gaudy
+gaudy---tawdry
+gluttonous---voracious
+voracious---gluttonous
+concordat---agreement
+agreement---concordat
+incogitant---thoughtless
+thoughtless---incogitant
+willowy---graceful
+graceful---willowy
+somnambulate---sleepwalk
+sleepwalk---somnambulate
+trifling---insignificant
+insignificant---trifling
+trifling---insignificant
+insignificant---trifling
+trifling---insignificant
+insignificant---trifling
+trifling---insignificant
+insignificant---trifling
+prophetic---predictive
+predictive---prophetic
+auricular---hearing-related
+hearing-related---auricular
+inglorious---shameful
+shameful---inglorious
+fauna---animals
+animals---fauna
+hamlet---small village
+small village---hamlet
+flotilla---small fleet
+small fleet---flotilla
+flotilla---small fleet
+small fleet---flotilla
+flotilla---small fleet
+small fleet---flotilla
+flotilla---small fleet
+small fleet---flotilla
+flotilla---small fleet
+small fleet---flotilla
+flotilla---small fleet
+small fleet---flotilla
+flotilla---small fleet
+small fleet---flotilla
+flotilla---small fleet
+small fleet---flotilla
+flotilla---small fleet
+small fleet---flotilla
+flotilla---small fleet
+small fleet---flotilla
+muster---assemble
+assemble---muster
+muster---assemble
+assemble---muster
+muster---assemble
+assemble---muster
+muster---assemble
+assemble---muster
+disaffect---alienate
+alienate---disaffect
+highfalutin---grandiose
+grandiose---highfalutin
+apiarist---beekeeper
+beekeeper---apiarist
+comely---good-looking
+good-looking---comely
+comely---good-looking
+good-looking---comely
+comely---good-looking
+good-looking---comely
+comely---good-looking
+good-looking---comely
+genial---friendly
+friendly---genial
+genial---friendly
+friendly---genial
+periphery---fringe
+fringe---periphery
+disapprobation---condemnation
+condemnation---disapprobation
+morose---sullen
+sullen---morose
+trounce---beat
+beat---trounce
+minion---underling
+underling---minion
+minion---underling
+underling---minion
+minion---underling
+underling---minion
+minion---underling
+underling---minion
+hovel---run-down hut
+run-down hut---hovel
+deprivation---want
+want---deprivation
+deprivation---want
+want---deprivation
+contemptible---despicable
+despicable---contemptible
+delectation---enjoyment
+enjoyment---delectation
+gaunt---haggard
+haggard---gaunt
+nondescript---ordinary
+ordinary---nondescript
+static---unchanging
+unchanging---static
+pristine---unspoiled
+unspoiled---pristine
+fountainhead---wellspring
+wellspring---fountainhead
+fountainhead---wellspring
+wellspring---fountainhead
+sonority---resonance
+resonance---sonority
+sonority---resonance
+resonance---sonority
+sonority---resonance
+resonance---sonority
+hallowed---sacred
+sacred---hallowed
+retrogress---become worse
+become worse---retrogress
+croon---sing
+sing---croon
+supple---flexible
+flexible---supple
+leer---ogle
+ogle---leer
+cajole---coax
+coax---cajole
+commonwealth---state
+state---commonwealth
+dichromatic---two-colored
+two-colored---dichromatic
+fresco---painting on plaster
+painting on plaster---fresco
+fresco---painting on plaster
+painting on plaster---fresco
+fresco---painting on plaster
+painting on plaster---fresco
+fresco---painting on plaster
+painting on plaster---fresco
+fresco---painting on plaster
+painting on plaster---fresco
+fresco---painting on plaster
+painting on plaster---fresco
+fresco---painting on plaster
+painting on plaster---fresco
+fresco---painting on plaster
+painting on plaster---fresco
+septic---infected
+infected---septic
+frivolous---trivial
+trivial---frivolous
+intermittent---periodic
+periodic---intermittent
+acrid---bitter
+bitter---acrid
+contemplation---musing
+musing---contemplation
+contemplation---musing
+musing---contemplation
+contemplation---musing
+musing---contemplation
+contemplation---musing
+musing---contemplation
+contemplation---musing
+musing---contemplation
+contemplation---musing
+musing---contemplation
+contemplation---musing
+musing---contemplation
+contemplation---musing
+musing---contemplation
+atonement---amends
+amends---atonement
+sallow---sickly
+sickly---sallow
+gentility---refinement
+refinement---gentility
+tempest---storm
+storm---tempest
+tempest---storm
+storm---tempest
+tempest---storm
+storm---tempest
+tempest---storm
+storm---tempest
+rawboned---gaunt
+gaunt---rawboned
+impedance---resistance
+resistance---impedance
+antithetical---opposite
+opposite---antithetical
+protuberance---bulge
+bulge---protuberance
+somnolence---drowsiness
+drowsiness---somnolence
+springy---resilient
+resilient---springy
+coniferous---bearing cones
+bearing cones---coniferous
+vertex---top
+top---vertex
+dire---dismal
+dismal---dire
+retrograde---backward
+backward---retrograde
+curative---remedial
+remedial---curative
+concavity---incurvature
+incurvature---concavity
+blandishment---flattery
+flattery---blandishment
+absolve---pardon
+pardon---absolve
+cronyism---favoritism to friends
+favoritism to friends---cronyism
+effervesce---fizz
+fizz---effervesce
+assertion---statement
+statement---assertion
+impious---irreverent
+irreverent---impious
+dubiety---uncertainty
+uncertainty---dubiety
+chaste---inhibitory
+inhibitory---chaste
+ribaldry---vulgar humor
+vulgar humor---ribaldry
+lethargic---sluggish
+sluggish---lethargic
+chaste---pure
+pure---chaste
+terminus---endpoint
+endpoint---terminus
+antipyretic---fever-reducer
+fever-reducer---antipyretic
+antipyretic---fever-reducer
+fever-reducer---antipyretic
+antipyretic---fever-reducer
+fever-reducer---antipyretic
+antipyretic---fever-reducer
+fever-reducer---antipyretic
+antipyretic---fever-reducer
+fever-reducer---antipyretic
+antipyretic---fever-reducer
+fever-reducer---antipyretic
+highbrow---intellectual
+intellectual---highbrow
+discursive---rambling
+rambling---discursive
+cruciform---cross-shaped
+cross-shaped---cruciform
+hedonic---pleasure-seeking
+pleasure-seeking---hedonic
+wispy---insubstantial
+insubstantial---wispy
+admeasure---apportion
+apportion---admeasure
+admeasure---apportion
+apportion---admeasure
+admeasure---apportion
+apportion---admeasure
+admeasure---apportion
+apportion---admeasure
+admeasure---apportion
+apportion---admeasure
+admeasure---apportion
+apportion---admeasure
+admeasure---apportion
+apportion---admeasure
+admeasure---apportion
+apportion---admeasure
+admeasure---apportion
+apportion---admeasure
+admeasure---apportion
+apportion---admeasure
+admeasure---apportion
+apportion---admeasure
+admeasure---apportion
+apportion---admeasure
+paraphrase---restate
+restate---paraphrase
+regatta---boat race
+boat race---regatta
+strife---discord
+discord---strife
+raspy---grating
+grating---raspy
+dregs---sediment
+sediment---dregs
+brood---sulk
+sulk---brood
+brood---sulk
+sulk---brood
+gaunt---haggard
+haggard---gaunt
+percolate---filter
+filter---percolate
+congenial---agreeable
+agreeable---congenial
+filament---strand
+strand---filament
+adherent---supporter
+supporter---adherent
+baroque---ornate
+ornate---baroque
+singly---individually
+individually---singly
+tubercle---nodule
+nodule---tubercle
+effervescent---bubbling
+bubbling---effervescent
+squelch---quell
+quell---squelch
+mystic---occult
+occult---mystic
+cilantro---coriander
+coriander---cilantro
+lunate---crescent-shaped
+crescent-shaped---lunate
+gentry---aristocracy
+aristocracy---gentry
+gentry---aristocracy
+aristocracy---gentry
+gentry---aristocracy
+aristocracy---gentry
+gentry---aristocracy
+aristocracy---gentry
+gentry---aristocracy
+aristocracy---gentry
+gentry---aristocracy
+aristocracy---gentry
+gentry---aristocracy
+aristocracy---gentry
+gentry---aristocracy
+aristocracy---gentry
+gentry---aristocracy
+aristocracy---gentry
+infernal---fiendish
+fiendish---infernal
+petulance---grouchiness
+grouchiness---petulance
+kelp---seaweed
+seaweed---kelp
+scarab---beetle
+beetle---scarab
+caper---prank
+prank---caper
+acerbity---bitterness
+bitterness---acerbity
+fibrous---sinewy
+sinewy---fibrous
+epitome---embodiment
+embodiment---epitome
+inauspicious---unfavorable
+unfavorable---inauspicious
+ambivalence---uncertainty
+uncertainty---ambivalence
+ambivalence---uncertainty
+uncertainty---ambivalence
+ambivalence---uncertainty
+uncertainty---ambivalence
+ambivalence---uncertainty
+uncertainty---ambivalence
+ambivalence---uncertainty
+uncertainty---ambivalence
+ambivalence---uncertainty
+uncertainty---ambivalence
+plush---luxurious
+luxurious---plush
+glaring---flagrant
+flagrant---glaring
+melee---scuffle
+scuffle---melee
+crone---hag
+hag---crone
+indubitable---unquestionable
+unquestionable---indubitable
+placate---appease
+appease---placate
+coiffure---hairdo
+hairdo---coiffure
+necromancer---sorcerer
+sorcerer---necromancer
+dogma---official doctrine
+official doctrine---dogma
+discomfiture---frustration
+frustration---discomfiture
+bottleneck---obstruction
+obstruction---bottleneck
+appall---dismay
+dismay---appall
+complacent---self-satisfied
+self-satisfied---complacent
+somnolent---drowsy
+drowsy---somnolent
+pronghorn---antelope
+antelope---pronghorn
+agglomeration---cluster
+cluster---agglomeration
+docket---agenda
+agenda---docket
+fjord---inlet
+inlet---fjord
+heraldry---pageantry
+pageantry---heraldry
+copious---plentiful
+plentiful---copious
+ossify---harden into bone
+harden into bone---ossify
+sputum---phlegm
+phlegm---sputum
+affront---insult
+insult---affront
+polydipsia---excessive thirst
+excessive thirst---polydipsia
+liege---sovereign
+sovereign---liege
+contrive---devise
+devise---contrive
+huckster---peddler
+peddler---huckster
+recidivism---relapse into crime
+relapse into crime---recidivism
+inference---deduction
+deduction---inference
+reputed---supposed
+supposed---reputed
+poultice---moist medical dressing
+moist medical dressing---poultice
+posthumous---after death
+after death---posthumous
+stipulate---specify
+specify---stipulate
+primp---groom
+groom---primp
+andiron---fireplace log holder
+fireplace log holder---andiron
+destitute---poor
+poor---destitute
+destitute---poor
+poor---destitute
+destitute---poor
+poor---destitute
+destitute---poor
+poor---destitute
+destitute---poor
+poor---destitute
+bludgeon---club
+club---bludgeon
+extricate---disentangle
+disentangle---extricate
+facade---front of a building
+front of a building---facade
+cache---hoard
+hoard---cache
+fisticuffs---boxing
+boxing---fisticuffs
+virulence---poisonousness
+poisonousness---virulence
+amble---stroll
+stroll---amble
+corollary---logical consequence
+logical consequence---corollary
+conscientious---scrupulous
+scrupulous---conscientious
+aversion---dislike
+dislike---aversion
+duvet---comforter
+comforter---duvet
+duvet---comforter
+comforter---duvet
+duvet---comforter
+comforter---duvet
+criterion---standard
+standard---criterion
+savant---knowledgeable scholar
+knowledgeable scholar---savant
+savant---knowledgeable scholar
+knowledgeable scholar---savant
+savant---knowledgeable scholar
+knowledgeable scholar---savant
+savant---knowledgeable scholar
+knowledgeable scholar---savant
+consort---associate
+associate---consort
+heyday---prime
+prime---heyday
+decadence---moral decay
+moral decay---decadence
+decadence---moral decay
+moral decay---decadence
+decadence---moral decay
+moral decay---decadence
+decadence---moral decay
+moral decay---decadence
+decadence---moral decay
+moral decay---decadence
+teamster---trucker
+trucker---teamster
+hulk---loom
+loom---hulk
+billow---surge
+surge---billow
+rapture---ecstasy
+ecstasy---rapture
+mandible---jaw
+jaw---mandible
+precipice---cliff
+cliff---precipice
+precipice---cliff
+cliff---precipice
+precipice---cliff
+cliff---precipice
+precipice---cliff
+cliff---precipice
+precipice---cliff
+cliff---precipice
+deterrent---disincentive
+disincentive---deterrent
+taint---sully
+sully---taint
+castigate---chastise
+chastise---castigate
+humus---soil
+soil---humus
+effluence---outflow
+outflow---effluence
+dugout---log canoe
+log canoe---dugout
+gullet---esophagus
+esophagus---gullet
+ambient---surrounding
+surrounding---ambient
+swathe---wrap
+wrap---swathe
+monolith---large block of stone
+large block of stone---monolith
+monolith---large block of stone
+large block of stone---monolith
+veneration---reverence
+reverence---veneration
+rousing---vigorous
+vigorous---rousing
+dramaturge---playwright
+playwright---dramaturge
+quiescence---stillness
+stillness---quiescence
+nefarious---wicked
+wicked---nefarious
+soiree---evening party
+evening party---soiree
+soiree---evening party
+evening party---soiree
+soiree---evening party
+evening party---soiree
+soiree---evening party
+evening party---soiree
+soiree---evening party
+evening party---soiree
+whittle---pare
+pare---whittle
+mar---spoil
+spoil---mar
+cataclysm---disaster
+disaster---cataclysm
+levee---embankment
+embankment---levee
+autogenous---self-generated
+self-generated---autogenous
+demure---modest
+modest---demure
+girth---circumference
+circumference---girth
+sedentary---inactive
+inactive---sedentary
+palpitate---throb
+throb---palpitate
+blowhard---braggart
+braggart---blowhard
+muss---disarrange
+disarrange---muss
+rhinal---nasal
+nasal---rhinal
+leitmotif---recurring theme
+recurring theme---leitmotif
+frivolity---non-seriousness
+non-seriousness---frivolity
+tine---prong
+prong---tine
+pathogenic---infective
+infective---pathogenic
+pathogenic---infective
+infective---pathogenic
+pathogenic---infective
+infective---pathogenic
+hypnagogic---sleep-inducing
+sleep-inducing---hypnagogic
+spume---foam
+foam---spume
+impertinent---rude
+rude---impertinent
+hooky---truancy
+truancy---hooky
+hooky---truancy
+truancy---hooky
+hooky---truancy
+truancy---hooky
+hooky---truancy
+truancy---hooky
+infinitesimal---tiny
+tiny---infinitesimal
+diminutive---tiny
+tiny---diminutive
+roguery---mischievousness
+mischievousness---roguery
+epigraph---quotation
+quotation---epigraph
+tenacious---persistent
+persistent---tenacious
+horologist---watchmaker
+watchmaker---horologist
+doleful---sad
+sad---doleful
+doleful---sad
+sad---doleful
+deluge---flood
+flood---deluge
+entrails---intestines
+intestines---entrails
+entrails---intestines
+intestines---entrails
+entrails---intestines
+intestines---entrails
+entrails---intestines
+intestines---entrails
+indolent---lazy
+lazy---indolent
+potable---fit to drink
+fit to drink---potable
+potable---fit to drink
+fit to drink---potable
+pendent---hanging
+hanging---pendent
+intercessor---mediator
+mediator---intercessor
+starveling---hungry person
+hungry person---starveling
+starveling---hungry person
+hungry person---starveling
+starveling---hungry person
+hungry person---starveling
+starveling---hungry person
+hungry person---starveling
+deem---judge
+judge---deem
+atrophy---wither away
+wither away---atrophy
+atrophy---wither away
+wither away---atrophy
+enrapture---delight
+delight---enrapture
+mooring---anchorage
+anchorage---mooring
+expletive---curse
+curse---expletive
+pageantry---pomp
+pomp---pageantry
+ductile---pliable
+pliable---ductile
+protuberate---bulge out
+bulge out---protuberate
+haberdasher---seller of men's clothes
+seller of men's clothes---haberdasher
+cusp---tip
+tip---cusp
+cognizable---knowable
+knowable---cognizable
+cognizable---knowable
+knowable---cognizable
+inane---silly
+silly---inane
+inane---silly
+silly---inane
+inane---silly
+silly---inane
+inane---silly
+silly---inane
+inane---silly
+silly---inane
+inane---silly
+silly---inane
+hapless---unfortunate
+unfortunate---hapless
+umbilicus---navel
+navel---umbilicus
+umbilicus---navel
+navel---umbilicus
+benevolent---kind
+kind---benevolent
+discrepant---inconsistent
+inconsistent---discrepant
+palatable---savory
+savory---palatable
+palatable---savory
+savory---palatable
+palatable---savory
+savory---palatable
+palatable---savory
+savory---palatable
+taupe---brownish
+brownish---taupe
+amorphous---shapeless
+shapeless---amorphous
+forestall---prevent
+prevent---forestall
+wayward---perverse
+perverse---wayward
+zenith---summit
+summit---zenith
+mosey---amble
+amble---mosey
+mosey---amble
+amble---mosey
+mosey---amble
+amble---mosey
+paunch---belly
+belly---paunch
+paunch---belly
+belly---paunch
+paunch---belly
+belly---paunch
+paunch---belly
+belly---paunch
+paunch---belly
+belly---paunch
+chromaticity---hue
+hue---chromaticity
+proliferate---multiply
+multiply---proliferate
+remit---send
+send---remit
+duplicitous---deceitful
+deceitful---duplicitous
+dote---indulge
+indulge---dote
+dote---indulge
+indulge---dote
+dote---indulge
+indulge---dote
+squalor---filthiness
+filthiness---squalor
+tizzy---dither
+dither---tizzy
+stipend---payment
+payment---stipend
+conciliatory---compromising
+compromising---conciliatory
+lank---slim
+slim---lank
+malversation---corruption
+corruption---malversation
+tempestuous---stormy
+stormy---tempestuous
+waif---homeless child
+homeless child---waif
+bastion---stronghold
+stronghold---bastion
+arthralgia---joint pain
+joint pain---arthralgia
+arthralgia---joint pain
+joint pain---arthralgia
+arthralgia---joint pain
+joint pain---arthralgia
+arthralgia---joint pain
+joint pain---arthralgia
+dappled---spotted
+spotted---dappled
+coquettish---flirtatious
+flirtatious---coquettish
+spartan---austere
+austere---spartan
+spartan---austere
+austere---spartan
+foible---weakness
+weakness---foible
+frond---large leaf
+large leaf---frond
+expedient---practical
+practical---expedient
+afflict---trouble
+trouble---afflict
+banality---trite remark
+trite remark---banality
+rapier---sword
+sword---rapier
+hobnob---socialize
+socialize---hobnob
+lei---wreath
+wreath---lei
+hiatus---gap
+gap---hiatus
+comeliness---attractiveness
+attractiveness---comeliness
+rift---breach
+breach---rift
+rift---breach
+breach---rift
+rift---breach
+breach---rift
+rift---breach
+breach---rift
+subvert---undermine
+undermine---subvert
+tureen---soup bowl
+soup bowl---tureen
+expatriate---banish
+banish---expatriate
+contusion---bruise
+bruise---contusion
+foundry---metalworks
+metalworks---foundry
+mantle---cloak
+cloak---mantle
+mantle---cloak
+cloak---mantle
+mantle---cloak
+cloak---mantle
+mantle---cloak
+cloak---mantle
+mantle---cloak
+cloak---mantle
+stasis---equilibrium
+equilibrium---stasis
+aggrieve---distress
+distress---aggrieve
+lien---legal claim
+legal claim---lien
+glazier---glass-cutter
+glass-cutter---glazier
+prefigure---suggest
+suggest---prefigure
+lieu---stead
+stead---lieu
+obdurate---stubborn
+stubborn---obdurate
+bisque---soup
+soup---bisque
+insurrection---uprising
+uprising---insurrection
+insurrection---uprising
+uprising---insurrection
+insurrection---uprising
+uprising---insurrection
+insurrection---uprising
+uprising---insurrection
+alleviation---relief
+relief---alleviation
+patricide---father murder
+father murder---patricide
+daft---foolish
+foolish---daft
+befog---confuse
+confuse---befog
+simian---apelike
+apelike---simian
+chorizo---spicy sausage
+spicy sausage---chorizo
+seamy---sordid
+sordid---seamy
+debrief---interrogate
+interrogate---debrief
+flounce---ruffle
+ruffle---flounce
+forlorn---miserable
+miserable---forlorn
+forlorn---miserable
+miserable---forlorn
+stead---place
+place---stead
+unlade---offload
+offload---unlade
+unlade---offload
+offload---unlade
+unlade---offload
+offload---unlade
+unlade---offload
+offload---unlade
+unlade---offload
+offload---unlade
+unlade---offload
+offload---unlade
+unlade---offload
+offload---unlade
+consign---entrust
+entrust---consign
+catcall---boo
+boo---catcall
+mottled---spotted
+spotted---mottled
+maharaja---prince
+prince---maharaja
+maharaja---prince
+prince---maharaja
+maharaja---prince
+prince---maharaja
+maharaja---prince
+prince---maharaja
+brusque---curt
+curt---brusque
+lanyard---short rope
+short rope---lanyard
+convocation---gathering
+gathering---convocation
+enigma---riddle
+riddle---enigma
+enigma---riddle
+riddle---enigma
+malignant---virulently injurious
+virulently injurious---malignant
+afeard---scared
+scared---afeard
+succinct---concise
+concise---succinct
+reprieve---respite
+respite---reprieve
+reprieve---respite
+respite---reprieve
+reprieve---respite
+respite---reprieve
+domicile---home
+home---domicile
+denote---signify
+signify---denote
+behest---command
+command---behest
+remand---send back
+send back---remand
+perchance---possibly
+possibly---perchance
+gabble---jabber
+jabber---gabble
+chiropodist---foot doctor
+foot doctor---chiropodist
+bosh---nonsense
+nonsense---bosh
+spurn---reject
+reject---spurn
+foundling---orphan
+orphan---foundling
+impala---antelope
+antelope---impala
+moray---eel
+eel---moray
+moray---eel
+eel---moray
+cauterize---sear
+sear---cauterize
+pax---peace
+peace---pax
+vernacular---language
+language---vernacular
+litigious---fond of lawsuits
+fond of lawsuits---litigious
+bewail---lament
+lament---bewail
+proficient---skillful
+skillful---proficient
+wane---decrease
+decrease---wane
+ineffectual---futile
+futile---ineffectual
+hypermetropia---farsightedness
+farsightedness---hypermetropia
+teem---abound
+abound---teem
+quintessential---definitive
+definitive---quintessential
+malfeasance---wrongdoing
+wrongdoing---malfeasance
+pious---devout
+devout---pious
+thaumaturgist---magician
+magician---thaumaturgist
+beneficent---kindly
+kindly---beneficent
+disputatious---argumentative
+argumentative---disputatious
+disputatious---argumentative
+argumentative---disputatious
+abate---subside
+subside---abate
+albacore---tuna
+tuna---albacore
+immotile---unable to move
+unable to move---immotile
+spoliation---plundering
+plundering---spoliation
+strapping---large
+large---strapping
+parameter---variable
+variable---parameter
+parameter---variable
+variable---parameter
+parameter---variable
+variable---parameter
+pertinacity---doggedness
+doggedness---pertinacity
+stellate---star-shaped
+star-shaped---stellate
+arduous---difficult
+difficult---arduous
+molder---decay
+decay---molder
+ostentatious---showy
+showy---ostentatious
+bambino---toddler
+toddler---bambino
+coadjutor---assistant
+assistant---coadjutor
+coadjutor---assistant
+assistant---coadjutor
+coadjutor---assistant
+assistant---coadjutor
+coadjutor---assistant
+assistant---coadjutor
+coadjutor---assistant
+assistant---coadjutor
+pustule---pimple
+pimple---pustule
+allude---refer
+refer---allude
+palpable---tangible
+tangible---palpable
+carbine---rifle
+rifle---carbine
+panhandle---beg
+beg---panhandle
+collude---conspire
+conspire---collude
+stopgap---makeshift
+makeshift---stopgap
+eventide---nightfall
+nightfall---eventide
+ouster---expulsion
+expulsion---ouster
+guff---nonsense
+nonsense---guff
+singsong---monotonously rhythmical
+monotonously rhythmical---singsong
+disconcert---confuse
+confuse---disconcert
+dissent---disagree
+disagree---dissent
+mire---corner
+corner---mire
+mire---bog
+bog---mire
+lineation---outline
+outline---lineation
+obtuse---dull-witted
+dull-witted---obtuse
+obtuse---dull-witted
+dull-witted---obtuse
+obtuse---dull-witted
+dull-witted---obtuse
+obtuse---dull-witted
+dull-witted---obtuse
+obtuse---dull-witted
+dull-witted---obtuse
+obtuse---dull-witted
+dull-witted---obtuse
+obtuse---dull-witted
+dull-witted---obtuse
+plunder---loot
+loot---plunder
+dereliction---negligence
+negligence---dereliction
+dereliction---negligence
+negligence---dereliction
+dereliction---negligence
+negligence---dereliction
+implicit---understood
+understood---implicit
+felicity---happiness
+happiness---felicity
+congeal---jell
+jell---congeal
+prestidigitation---sleight of hand
+sleight of hand---prestidigitation
+balmy---mild
+mild---balmy
+burnish---polish
+polish---burnish
+burnish---polish
+polish---burnish
+burnish---polish
+polish---burnish
+hotheaded---impetuous
+impetuous---hotheaded
+concentric---with a common center
+with a common center---concentric
+facet---aspect
+aspect---facet
+inexorable---relentless
+relentless---inexorable
+pyrosis---heartburn
+heartburn---pyrosis
+incarnate---embodied
+embodied---incarnate
+incarnate---embodied
+embodied---incarnate
+scullion---kitchen servant
+kitchen servant---scullion
+culpable---blameworthy
+blameworthy---culpable
+antiquate---make obsolete
+make obsolete---antiquate
+antiquate---make obsolete
+make obsolete---antiquate
+antiquate---make obsolete
+make obsolete---antiquate
+proletariat---working class
+working class---proletariat
+proletariat---working class
+working class---proletariat
+misgiving---doubt
+doubt---misgiving
+aphonia---voicelessness
+voicelessness---aphonia
+recant---retract
+retract---recant
+recant---retract
+retract---recant
+recant---retract
+retract---recant
+gaga---crazy
+crazy---gaga
+foreknow---anticipate
+anticipate---foreknow
+foreknow---anticipate
+anticipate---foreknow
+foreknow---anticipate
+anticipate---foreknow
+ovoid---egg-shaped
+egg-shaped---ovoid
+catholic---universal
+universal---catholic
+cannular---tube-shaped
+tube-shaped---cannular
+dysphoria---depression
+depression---dysphoria
+dysphoria---depression
+depression---dysphoria
+dysphoria---depression
+depression---dysphoria
+truncate---shorten
+shorten---truncate
+truncate---shorten
+shorten---truncate
+iconoclast---non-conformist
+non-conformist---iconoclast
+iconoclast---non-conformist
+non-conformist---iconoclast
+panoptic---visually all-inclusive
+visually all-inclusive---panoptic
+panoptic---visually all-inclusive
+visually all-inclusive---panoptic
+levy---impose
+impose---levy
+insipid---dull
+dull---insipid
+borzoi---russian wolfhound
+russian wolfhound---borzoi
+ruly---controlled
+controlled---ruly
+rivulet---small stream
+small stream---rivulet
+jingoism---belligerent patriotism
+belligerent patriotism---jingoism
+nit---louse egg
+louse egg---nit
+vehement---passionate
+passionate---vehement
+disparity---inequality
+inequality---disparity
+disparity---inequality
+inequality---disparity
+disparity---inequality
+inequality---disparity
+disparity---inequality
+inequality---disparity
+disparity---inequality
+inequality---disparity
+altercate---dispute
+dispute---altercate
+despotic---dictatorial
+dictatorial---despotic
+pommel---front part of a saddle
+front part of a saddle---pommel
+tuffet---footstool
+footstool---tuffet
+tuffet---footstool
+footstool---tuffet
+palsy---paralysis
+paralysis---palsy
+stringent---severe
+severe---stringent
+skinflint---miser
+miser---skinflint
+skinflint---miser
+miser---skinflint
+skinflint---miser
+miser---skinflint
+skinflint---miser
+miser---skinflint
+skinflint---miser
+miser---skinflint
+caucus---meeting
+meeting---caucus
+mange---skin disease
+skin disease---mange
+aseptic---sterile
+sterile---aseptic
+imbue---permeate
+permeate---imbue
+imbue---permeate
+permeate---imbue
+imbue---permeate
+permeate---imbue
+mentation---thought
+thought---mentation
+eddy---whirlpool
+whirlpool---eddy
+underwrite---insure
+insure---underwrite
+bauble---trinket
+trinket---bauble
+manacle---handcuff
+handcuff---manacle
+fortuitous---lucky
+lucky---fortuitous
+buttress---support
+support---buttress
+sidle---move sideways
+move sideways---sidle
+harry---pester
+pester---harry
+unremitting---ceaseless
+ceaseless---unremitting
+resplendence---glory
+glory---resplendence
+acidulous---sour
+sour---acidulous
+unwieldy---cumbersome
+cumbersome---unwieldy
+acerbate---irritate
+irritate---acerbate
+defunct---expired
+expired---defunct
+fetid---stinking
+stinking---fetid
+lavation---cleansing
+cleansing---lavation
+voluptuary---sensualist
+sensualist---voluptuary
+zealous---ardent
+ardent---zealous
+poignant---touching
+touching---poignant
+entomophagous---insect-eating
+insect-eating---entomophagous
+entomophagous---insect-eating
+insect-eating---entomophagous
+prow---front part
+front part---prow
+amenable---willing
+willing---amenable
+amenable---willing
+willing---amenable
+amenable---willing
+willing---amenable
+amenable---willing
+willing---amenable
+amenable---willing
+willing---amenable
+superfluous---unnecessary
+unnecessary---superfluous
+discerning---perceptive
+perceptive---discerning
+anodize---coat metal with oxide
+coat metal with oxide---anodize
+propagation---spreading
+spreading---propagation
+despotism---tyranny
+tyranny---despotism
+contrariety---opposition
+opposition---contrariety
+contrariety---opposition
+opposition---contrariety
+contrariety---opposition
+opposition---contrariety
+contrariety---opposition
+opposition---contrariety
+remiss---negligent
+negligent---remiss
+cloister---monastery
+monastery---cloister
+ovine---sheep-like
+sheep-like---ovine
+obeisance---submission
+submission---obeisance
+obeisance---submission
+submission---obeisance
+obeisance---submission
+submission---obeisance
+obeisance---submission
+submission---obeisance
+obeisance---submission
+submission---obeisance
+obeisance---submission
+submission---obeisance
+pare---trim
+trim---pare
+pare---trim
+trim---pare
+evoke---summon
+summon---evoke
+hauteur---arrogance
+arrogance---hauteur
+sommelier---wine steward
+wine steward---sommelier
+overt---unconcealed
+unconcealed---overt
+reverie---daydream
+daydream---reverie
+reverie---daydream
+daydream---reverie
+reverie---daydream
+daydream---reverie
+reverie---daydream
+daydream---reverie
+reverie---daydream
+daydream---reverie
+reverie---daydream
+daydream---reverie
+reverie---daydream
+daydream---reverie
+reverie---daydream
+daydream---reverie
+reverie---daydream
+daydream---reverie
+reverie---daydream
+daydream---reverie
+reverie---daydream
+daydream---reverie
+reverie---daydream
+daydream---reverie
+myope---nearsighted person
+nearsighted person---myope
+impalpable---intangible
+intangible---impalpable
+marked---conspicuous
+conspicuous---marked
+effrontery---impudence
+impudence---effrontery
+effrontery---impudence
+impudence---effrontery
+effrontery---impudence
+impudence---effrontery
+effrontery---impudence
+impudence---effrontery
+effrontery---impudence
+impudence---effrontery
+sprite---elf
+elf---sprite
+posterity---future generations
+future generations---posterity
+ubiquity---omnipresence
+omnipresence---ubiquity
+deciduous---leaf-shedding
+leaf-shedding---deciduous
+culvert---drain
+drain---culvert
+juxtapose---put side by side
+put side by side---juxtapose
+progeny---offspring
+offspring---progeny
+peevish---irritable
+irritable---peevish
+porringer---bowl with handle
+bowl with handle---porringer
+precept---principle
+principle---precept
+mortification---chagrin
+chagrin---mortification
+butte---hill
+hill---butte
+divaricate---branch off
+branch off---divaricate
+ivorybill---woodpecker
+woodpecker---ivorybill
+couth---refined
+refined---couth
+cryogen---refrigerant
+refrigerant---cryogen
+hyperopia---farsightedness
+farsightedness---hyperopia
+opulent---wealthy
+wealthy---opulent
+fracas---brawl
+brawl---fracas
+extraneous---non-essential
+non-essential---extraneous
+infamy---disgrace
+disgrace---infamy
+distaste---aversion
+aversion---distaste
+reflux---ebb
+ebb---reflux
+edifice---building
+building---edifice
+din---clamor
+clamor---din
+impasse---deadlock
+deadlock---impasse
+pretentious---showy
+showy---pretentious
+cooper---barrel maker
+barrel maker---cooper
+cooper---barrel maker
+barrel maker---cooper
+disseminate---spread
+spread---disseminate
+primogenitor---ancestor
+ancestor---primogenitor
+foretoken---sign
+sign---foretoken
+foretoken---sign
+sign---foretoken
+venerable---highly respected
+highly respected---venerable
+itinerate---travel
+travel---itinerate
+paramour---lover
+lover---paramour
+effusion---gush
+gush---effusion
+dystopia---worst possible world
+worst possible world---dystopia
+bravado---bluster
+bluster---bravado
+ligature---binding
+binding---ligature
+ligature---binding
+binding---ligature
+ligature---binding
+binding---ligature
+temerity---boldness
+boldness---temerity
+contrivance---scheme
+scheme---contrivance
+garble---distort
+distort---garble
+rescind---cancel
+cancel---rescind
+animalism---physicality
+physicality---animalism
+especial---particular
+particular---especial
+aloof---unsociable
+unsociable---aloof
+aloof---unsociable
+unsociable---aloof
+aloof---unsociable
+unsociable---aloof
+aloof---unsociable
+unsociable---aloof
+aloof---unsociable
+unsociable---aloof
+aloof---unsociable
+unsociable---aloof
+aloof---unsociable
+unsociable---aloof
+conciliate---appease
+appease---conciliate
+neologism---new word
+new word---neologism
+tympanic---drum-like
+drum-like---tympanic
+squalid---filthy
+filthy---squalid
+ruddy---red
+red---ruddy
+trill---warble
+warble---trill
+minutia---detail
+detail---minutia
+minutia---detail
+detail---minutia
+minutia---detail
+detail---minutia
+minutia---detail
+detail---minutia
+minutia---detail
+detail---minutia
+minutia---detail
+detail---minutia
+minutia---detail
+detail---minutia
+minutia---detail
+detail---minutia
+minutia---detail
+detail---minutia
+minutia---detail
+detail---minutia
+minutia---detail
+detail---minutia
+minutia---detail
+detail---minutia
+minutia---detail
+detail---minutia
+manic---frenzied
+frenzied---manic
+hyperpyrexia---high fever
+high fever---hyperpyrexia
+emphatic---forceful
+forceful---emphatic
+gale---tempest
+tempest---gale
+puritanical---strait-laced
+strait-laced---puritanical
+puritanical---strait-laced
+strait-laced---puritanical
+puritanical---strait-laced
+strait-laced---puritanical
+puritanical---strait-laced
+strait-laced---puritanical
+puritanical---strait-laced
+strait-laced---puritanical
+puritanical---strait-laced
+strait-laced---puritanical
+puritanical---strait-laced
+strait-laced---puritanical
+ingurgitate---guzzle
+guzzle---ingurgitate
+ingurgitate---guzzle
+guzzle---ingurgitate
+burg---town
+town---burg
+alms---charity
+charity---alms
+venule---tiny vein
+tiny vein---venule
+magnanimous---generous
+generous---magnanimous
+laudatory---praising
+praising---laudatory
+illustrious---eminent
+eminent---illustrious
+aversion---dislike
+dislike---aversion
+garner---collect
+collect---garner
+vehemence---intensity
+intensity---vehemence
+patella---kneecap
+kneecap---patella
+perversity---contrariness
+contrariness---perversity
+seraphic---angelic
+angelic---seraphic
+frenetic---highly agitated
+highly agitated---frenetic
+lucent---bright
+bright---lucent
+lucent---bright
+bright---lucent
+pipkin---small pot
+small pot---pipkin
+sonorous---resonant
+resonant---sonorous
+perspicuity---clarity
+clarity---perspicuity
+vicissitude---change in fortune
+change in fortune---vicissitude
+broody---pensive
+pensive---broody
+smarm---excessive flattery
+excessive flattery---smarm
+pariah---outcast
+outcast---pariah
+shorn---clipped
+clipped---shorn
+posy---bouquet
+bouquet---posy
+protocol---convention
+convention---protocol
+olfactory---related to smelling
+related to smelling---olfactory
+olfactory---related to smelling
+related to smelling---olfactory
+olfactory---related to smelling
+related to smelling---olfactory
+olfactory---related to smelling
+related to smelling---olfactory
+olfactory---related to smelling
+related to smelling---olfactory
+olfactory---related to smelling
+related to smelling---olfactory
+olfactory---related to smelling
+related to smelling---olfactory
+olfactory---related to smelling
+related to smelling---olfactory
+olfactory---related to smelling
+related to smelling---olfactory
+olfactory---related to smelling
+related to smelling---olfactory
+olfactory---related to smelling
+related to smelling---olfactory
+olfactory---related to smelling
+related to smelling---olfactory
+bemoan---lament
+lament---bemoan
+finagle---maneuver
+maneuver---finagle
+lament---wail
+wail---lament
+dissident---protester
+protester---dissident
+dissident---protester
+protester---dissident
+dissident---protester
+protester---dissident
+affectation---artificial mannerism
+artificial mannerism---affectation
+antipathy---dislike
+dislike---antipathy
+carnal---sensual
+sensual---carnal
+gratis---free
+free---gratis
+disservice---harm
+harm---disservice
+disservice---harm
+harm---disservice
+disservice---harm
+harm---disservice
+disservice---harm
+harm---disservice
+disservice---harm
+harm---disservice
+disservice---harm
+harm---disservice
+disservice---harm
+harm---disservice
+demarcation---boundary
+boundary---demarcation
+ford---cross
+cross---ford
+galvanize---stimulate
+stimulate---galvanize
+hearken---listen
+listen---hearken
+parity---equality
+equality---parity
+clandestine---secret
+secret---clandestine
+congenital---inborn
+inborn---congenital
+garish---showy
+showy---garish
+mitigate---make less severe
+make less severe---mitigate
+noisome---offensive
+offensive---noisome
+noisome---offensive
+offensive---noisome
+noisome---offensive
+offensive---noisome
+cogitative---thoughtful
+thoughtful---cogitative
+arrears---overdue debt
+overdue debt---arrears
+indecorous---unseemly
+unseemly---indecorous
+paradigm---model
+model---paradigm
+undue---excessive
+excessive---undue
+luminary---famous person
+famous person---luminary
+emendation---correction
+correction---emendation
+unabashed---brazen
+brazen---unabashed
+inhumation---burial
+burial---inhumation
+ebon---black
+black---ebon
+manger---trough
+trough---manger
+contingent---conditional
+conditional---contingent
+diviner---soothsayer
+soothsayer---diviner
+diviner---soothsayer
+soothsayer---diviner
+diviner---soothsayer
+soothsayer---diviner
+diviner---soothsayer
+soothsayer---diviner
+diviner---soothsayer
+soothsayer---diviner
+diviner---soothsayer
+soothsayer---diviner
+diviner---soothsayer
+soothsayer---diviner
+diviner---soothsayer
+soothsayer---diviner
+diviner---soothsayer
+soothsayer---diviner
+abridge---condense
+condense---abridge
+partible---separable
+separable---partible
+vermiform---worm-shaped
+worm-shaped---vermiform
+ardor---zeal
+zeal---ardor
+flagellation---whipping
+whipping---flagellation
+primacy---preeminence
+preeminence---primacy
+bovine---cow-like
+cow-like---bovine
+inebriety---drunkenness
+drunkenness---inebriety
+lancet---surgical knife
+surgical knife---lancet
+divan---backless sofa
+backless sofa---divan
+rigmarole---nonsense
+nonsense---rigmarole
+confirmatory---corroborative
+corroborative---confirmatory
+abscission---cutting off
+cutting off---abscission
+inflorescence---flowering
+flowering---inflorescence
+rebuff---snub
+snub---rebuff
+festoon---decorate with flowers
+decorate with flowers---festoon
+festoon---decorate with flowers
+decorate with flowers---festoon
+conduit---channel
+channel---conduit
+perdition---infernal doom
+infernal doom---perdition
+laudable---praiseworthy
+praiseworthy---laudable
+glister---sparkle
+sparkle---glister
+protuberant---bulging
+bulging---protuberant
+condescension---disdain
+disdain---condescension
+hefty---substantial
+substantial---hefty
+averse---reluctant
+reluctant---averse
+lectern---reading desk
+reading desk---lectern
+lectern---reading desk
+reading desk---lectern
+lectern---reading desk
+reading desk---lectern
+lectern---reading desk
+reading desk---lectern
+lectern---reading desk
+reading desk---lectern
+lectern---reading desk
+reading desk---lectern
+stilted---stiffly formal
+stiffly formal---stilted
+macropterous---large-winged
+large-winged---macropterous
+quag---bog
+bog---quag
+estimable---worthy
+worthy---estimable
+pock---pit
+pit---pock
+baronial---stately
+stately---baronial
+loquacious---talkative
+talkative---loquacious
+glib---smooth-tongued
+smooth-tongued---glib
+proxy---substitute
+substitute---proxy
+beleaguer---harass
+harass---beleaguer
+clout---influence
+influence---clout
+timpani---kettledrums
+kettledrums---timpani
+nonaligned---neutral
+neutral---nonaligned
+precocious---advanced
+advanced---precocious
+extol---praise
+praise---extol
+equanimity---composure
+composure---equanimity
+impenitent---not sorry
+not sorry---impenitent
+dryad---wood nymph
+wood nymph---dryad
+bishopric---diocese
+diocese---bishopric
+cornice---molding
+molding---cornice
+lassitude---weariness
+weariness---lassitude
+lassitude---weariness
+weariness---lassitude
+lassitude---weariness
+weariness---lassitude
+lassitude---weariness
+weariness---lassitude
+lassitude---weariness
+weariness---lassitude
+lassitude---weariness
+weariness---lassitude
+lassitude---weariness
+weariness---lassitude
+lassitude---weariness
+weariness---lassitude
+lassitude---weariness
+weariness---lassitude
+lassitude---weariness
+weariness---lassitude
+lassitude---weariness
+weariness---lassitude
+complaisant---obliging
+obliging---complaisant
+platitude---trite expression
+trite expression---platitude
+sportive---frolicsome
+frolicsome---sportive
+sportive---frolicsome
+frolicsome---sportive
+sportive---frolicsome
+frolicsome---sportive
+sportive---frolicsome
+frolicsome---sportive
+rampart---fortified embankment
+fortified embankment---rampart
+conundrum---riddle
+riddle---conundrum
+conundrum---riddle
+riddle---conundrum
+miosis---eye pupil contraction
+eye pupil contraction---miosis
+hygroscopic---moisture-absorbing
+moisture-absorbing---hygroscopic
+thrombus---blood clot
+blood clot---thrombus
+debauch---corrupt
+corrupt---debauch
+debauch---corrupt
+corrupt---debauch
+debauch---corrupt
+corrupt---debauch
+debauch---corrupt
+corrupt---debauch
+debauch---corrupt
+corrupt---debauch
+misappropriate---embezzle
+embezzle---misappropriate
+prescript---rule
+rule---prescript
+albeit---even though
+even though---albeit
+effigy---image
+image---effigy
+enmesh---snare
+snare---enmesh
+enmesh---snare
+snare---enmesh
+enmesh---snare
+snare---enmesh
+tutelage---guardianship
+guardianship---tutelage
+tremulous---quavering
+quavering---tremulous
+torsion---twisting
+twisting---torsion
+intercede---mediate
+mediate---intercede
+puritan---prude
+prude---puritan
+partisan---biased
+biased---partisan
+fritter---squander
+squander---fritter
+gilt---gold
+gold---gilt
+schism---split
+split---schism
+boorish---uncultured
+uncultured---boorish
+boorish---uncultured
+uncultured---boorish
+boorish---uncultured
+uncultured---boorish
+boorish---uncultured
+uncultured---boorish
+boorish---uncultured
+uncultured---boorish
+boorish---uncultured
+uncultured---boorish
+boorish---uncultured
+uncultured---boorish
+propagate---spread
+spread---propagate
+impart---give
+give---impart
+debase---lower
+lower---debase
+denigrate---belittle
+belittle---denigrate
+denigrate---belittle
+belittle---denigrate
+denigrate---belittle
+belittle---denigrate
+disencumber---extricate
+extricate---disencumber
+modish---fashionable
+fashionable---modish
+modish---fashionable
+fashionable---modish
+modish---fashionable
+fashionable---modish
+modish---fashionable
+fashionable---modish
+modish---fashionable
+fashionable---modish
+disparaging---derogatory
+derogatory---disparaging
+disparaging---derogatory
+derogatory---disparaging
+disparaging---derogatory
+derogatory---disparaging
+dissentious---quarrelsome
+quarrelsome---dissentious
+bane---ruin
+ruin---bane
+mores---ethical values
+ethical values---mores
+reproach---blame
+blame---reproach
+pollinosis---hay fever
+hay fever---pollinosis
+penchant---inclination
+inclination---penchant
+penchant---inclination
+inclination---penchant
+penchant---inclination
+inclination---penchant
+penchant---inclination
+inclination---penchant
+penchant---inclination
+inclination---penchant
+bawdy---obscene
+obscene---bawdy
+unflagging---tireless
+tireless---unflagging
+bonny---pretty
+pretty---bonny
+flinders---fragments
+fragments---flinders
+ignominy---disgrace
+disgrace---ignominy
+nepotism---favoritism to relatives
+favoritism to relatives---nepotism
+colloquial---conversational
+conversational---colloquial
+homeostasis---equilibrium
+equilibrium---homeostasis
+coltish---frisky
+frisky---coltish
+coltish---frisky
+frisky---coltish
+coltish---frisky
+frisky---coltish
+coltish---frisky
+frisky---coltish
+coltish---frisky
+frisky---coltish
+coltish---frisky
+frisky---coltish
+coltish---frisky
+frisky---coltish
+torero---matador
+matador---torero
+allocution---formal speech
+formal speech---allocution
+allocution---formal speech
+formal speech---allocution
+countermand---revoke
+revoke---countermand
+plucky---spirited
+spirited---plucky
+distend---expand
+expand---distend
+lascivious---lewd
+lewd---lascivious
+enamor---captivate
+captivate---enamor
+corporal---bodily
+bodily---corporal
+conniption---tantrum
+tantrum---conniption
+parapet---low wall
+low wall---parapet
+antitussive---cough reliever
+cough reliever---antitussive
+bestiary---animal fables
+animal fables---bestiary
+incumbent---obligatory
+obligatory---incumbent
+incumbent---obligatory
+obligatory---incumbent
+incumbent---obligatory
+obligatory---incumbent
+innuendo---insinuation
+insinuation---innuendo
+plainsong---gregorian chant
+gregorian chant---plainsong
+poikilotherm---cold-blooded
+cold-blooded---poikilotherm
+sepulchre---tomb
+tomb---sepulchre
+fortuity---chance event
+chance event---fortuity
+fortuity---chance event
+chance event---fortuity
+dowager---widow
+widow---dowager
+dowager---widow
+widow---dowager
+facilitate---ease
+ease---facilitate
+engrossment---preoccupation
+preoccupation---engrossment
+peal---ring
+ring---peal
+harlequinade---buffoonery
+buffoonery---harlequinade
+improbity---dishonesty
+dishonesty---improbity
+impel---urge
+urge---impel
+gauntlet---glove
+glove---gauntlet
+goober---peanut
+peanut---goober
+precipitancy---suddenness
+suddenness---precipitancy
+haunch---hip
+hip---haunch
+homogeneous---similar
+similar---homogeneous
+propensity---inclination
+inclination---propensity
+suffrage---vote
+vote---suffrage
+raring---eager
+eager---raring
+raring---eager
+eager---raring
+subjective---personal
+personal---subjective
+subjective---personal
+personal---subjective
+debacle---fiasco
+fiasco---debacle
+amalgamation---merger
+merger---amalgamation
+vestibule---lobby
+lobby---vestibule
+farcical---ludicrous
+ludicrous---farcical
+brachypterous---short-winged
+short-winged---brachypterous
+subsist---live
+live---subsist
+ambrosial---delicious
+delicious---ambrosial
+coffer---strongbox
+strongbox---coffer
+piffling---trivial
+trivial---piffling
+substratum---foundation
+foundation---substratum
+coiffeuse---hairdresser
+hairdresser---coiffeuse
+megalith---stone monument
+stone monument---megalith
+vanguard---forefront
+forefront---vanguard
+gumshoe---detective
+detective---gumshoe
+flagellate---whip
+whip---flagellate
+orbiculate---circular
+circular---orbiculate
+disquietude---anxiety
+anxiety---disquietude
+beignet---powdered sugar fritter
+powdered sugar fritter---beignet
+napery---table linen
+table linen---napery
+napery---table linen
+table linen---napery
+expeditious---quick
+quick---expeditious
+sultry---hot
+hot---sultry
+arbiter---judge
+judge---arbiter
+mercurial---volatile
+volatile---mercurial
+sextant---navigational tool
+navigational tool---sextant
+derivation---source
+source---derivation
+pachyderm---elephant
+elephant---pachyderm
+balladeer---crooner
+crooner---balladeer
+gourmand---glutton
+glutton---gourmand
+sinewy---muscular
+muscular---sinewy
+howitzer---short cannon
+short cannon---howitzer
+spelunker---caver
+caver---spelunker
+propound---set forth
+set forth---propound
+wanton---unrestrained
+unrestrained---wanton
+temporal---of this world
+of this world---temporal
+foreclose---preclude
+preclude---foreclose
+forgather---assemble
+assemble---forgather
+tumult---commotion
+commotion---tumult
+avulsion---forcible separation
+forcible separation---avulsion
+direful---terrible
+terrible---direful
+maleficence---mischief
+mischief---maleficence
+confluent---flowing together
+flowing together---confluent
+quittance---release from debt
+release from debt---quittance
+travesty---parody
+parody---travesty
+intemperate---unrestrained
+unrestrained---intemperate
+denizen---inhabitant
+inhabitant---denizen
+forthwith---immediately
+immediately---forthwith
+watershed---turning point
+turning point---watershed
+preeminence---superiority
+superiority---preeminence
+patina---coating
+coating---patina
+malleable---pliant
+pliant---malleable
+suavity---urbanity
+urbanity---suavity
+loquacity---talkativeness
+talkativeness---loquacity
+amble---stroll
+stroll---amble
+demanding---difficult
+difficult---demanding
+oscillate---swing
+swing---oscillate
+lettered---learned
+learned---lettered
+prescience---foresight
+foresight---prescience
+prescience---foresight
+foresight---prescience
+prescience---foresight
+foresight---prescience
+prescience---foresight
+foresight---prescience
+prescience---foresight
+foresight---prescience
+prescience---foresight
+foresight---prescience
+prescience---foresight
+foresight---prescience
+prescience---foresight
+foresight---prescience
+prescience---foresight
+foresight---prescience
+prescience---foresight
+foresight---prescience
+prescience---foresight
+foresight---prescience
+hokum---nonsense
+nonsense---hokum
+lamentable---distressing
+distressing---lamentable
+oblique---indirect
+indirect---oblique
+tangent---touching
+touching---tangent
+reprehend---criticize
+criticize---reprehend
+subtlety---nuance
+nuance---subtlety
+wiry---sinewy
+sinewy---wiry
+dubitable---uncertain
+uncertain---dubitable
+milliner---hatmaker
+hatmaker---milliner
+aberration---irregularity
+irregularity---aberration
+simper---smirk
+smirk---simper
+rhapsodic---ecstatic
+ecstatic---rhapsodic
+crux---gist
+gist---crux
+coquet---flirt
+flirt---coquet
+anorak---parka
+parka---anorak
+ado---fuss
+fuss---ado
+presentiment---foreboding
+foreboding---presentiment
+elicit---evoke
+evoke---elicit
+beatitude---bliss
+bliss---beatitude
+saucy---impudent
+impudent---saucy
+bombast---pompous speech
+pompous speech---bombast
+beseech---implore
+implore---beseech
+proviso---stipulation
+stipulation---proviso
+licit---lawful
+lawful---licit
+foolhardy---rash
+rash---foolhardy
+tryst---rendezvous
+rendezvous---tryst
+whelp---pup
+pup---whelp
+lambaste---beat severely
+beat severely---lambaste
+supplant---replace
+replace---supplant
+tableau---scene
+scene---tableau
+edify---enlighten
+enlighten---edify
+discombobulate---confuse
+confuse---discombobulate
+sordid---vile
+vile---sordid
+interminable---endless
+endless---interminable
+avarice---greed
+greed---avarice
+masticate---chew
+chew---masticate
+aggregation---collection
+collection---aggregation
+humbug---hoax
+hoax---humbug
+perforce---by necessity
+by necessity---perforce
+anarchic---lawless
+lawless---anarchic
+pallid---wan
+wan---pallid
+drawn---haggard
+haggard---drawn
+disciple---adherent
+adherent---disciple
+vie---contend
+contend---vie
+dais---podium
+podium---dais
+dais---podium
+podium---dais
+benignancy---kindliness
+kindliness---benignancy
+disinterment---digging up
+digging up---disinterment
+brevity---conciseness
+conciseness---brevity
+brevity---conciseness
+conciseness---brevity
+nosh---snack
+snack---nosh
+lave---wash
+wash---lave
+antebellum---before the war
+before the war---antebellum
+adulate---admire excessively
+admire excessively---adulate
+astringent---caustic
+caustic---astringent
+serigraphy---silk-screening
+silk-screening---serigraphy
+deify---idolize
+idolize---deify
+respite---brief rest
+brief rest---respite
+trappings---paraphernalia
+paraphernalia---trappings
+trappings---paraphernalia
+paraphernalia---trappings
+trappings---paraphernalia
+paraphernalia---trappings
+farrier---blacksmith
+blacksmith---farrier
+abase---degrade
+degrade---abase
+expediency---suitableness
+suitableness---expediency
+recapitulate---summarize
+summarize---recapitulate
+insubstantial---flimsy
+flimsy---insubstantial
+putrescible---spoilable
+spoilable---putrescible
+harrow---distress
+distress---harrow
+metastasize---spread
+spread---metastasize
+potage---thick soup
+thick soup---potage
+travail---labor
+labor---travail
+enumerate---list
+list---enumerate
+indignation---anger
+anger---indignation
+mirthful---jolly
+jolly---mirthful
+peerage---nobility
+nobility---peerage
+peerage---nobility
+nobility---peerage
+peerage---nobility
+nobility---peerage
+peerage---nobility
+nobility---peerage
+peerage---nobility
+nobility---peerage
+teetotalism---temperance
+temperance---teetotalism
+libelous---defamatory
+defamatory---libelous
+sot---drunkard
+drunkard---sot
+sot---drunkard
+drunkard---sot
+sot---drunkard
+drunkard---sot
+vacuous---empty
+empty---vacuous
+serviette---napkin
+napkin---serviette
+valediction---farewell
+farewell---valediction
+affable---friendly
+friendly---affable
+tout---promote
+promote---tout
+oakum---hemp fiber
+hemp fiber---oakum
+preternatural---extraordinary
+extraordinary---preternatural
+ingenuous---innocently sincere
+innocently sincere---ingenuous
+efflux---outflow
+outflow---efflux
+abdicate---renounce
+renounce---abdicate
+ideate---imagine
+imagine---ideate
+rapacity---voraciousness
+voraciousness---rapacity
+rankle---fester
+fester---rankle
+exculpate---free from blame
+free from blame---exculpate
+extrinsic---outside
+outside---extrinsic
+codswallop---nonsense
+nonsense---codswallop
+avouch---affirm
+affirm---avouch
+jilt---reject
+reject---jilt
+burlesque---mockery
+mockery---burlesque
+burlesque---mockery
+mockery---burlesque
+disbursement---outlay
+outlay---disbursement
+octant---navigational instrument
+navigational instrument---octant
+octant---navigational instrument
+navigational instrument---octant
+octant---navigational instrument
+navigational instrument---octant
+octant---navigational instrument
+navigational instrument---octant
+octant---navigational instrument
+navigational instrument---octant
+octant---navigational instrument
+navigational instrument---octant
+octant---navigational instrument
+navigational instrument---octant
+garrulity---talkativeness
+talkativeness---garrulity
+heretic---dissenter
+dissenter---heretic
+sycophant---groveling flatterer
+groveling flatterer---sycophant
+hector---bully
+bully---hector
+burl---tree outgrowth
+tree outgrowth---burl
+cadre---small group
+small group---cadre
+imperturbability---coolness
+coolness---imperturbability
+incise---carve
+carve---incise
+incise---carve
+carve---incise
+animalcule---tiny organism
+tiny organism---animalcule
+barrister---lawyer
+lawyer---barrister
+predilection---preference
+preference---predilection
+predilection---preference
+preference---predilection
+ambulate---walk
+walk---ambulate
+privation---need
+need---privation
+churlish---rude
+rude---churlish
+contrition---penitence
+penitence---contrition
+rapt---engrossed
+engrossed---rapt
+pottage---stew
+stew---pottage
+pottage---stew
+stew---pottage
+pottage---stew
+stew---pottage
+pottage---stew
+stew---pottage
+pottage---stew
+stew---pottage
+calcimine---whitewash
+whitewash---calcimine
+calcimine---whitewash
+whitewash---calcimine
+duffer---bungler
+bungler---duffer
+cerulean---sky-blue
+sky-blue---cerulean
+subjugate---conquer
+conquer---subjugate
+vilify---malign
+malign---vilify
+canticle---hymn
+hymn---canticle
+motile---capable of movement
+capable of movement---motile
+sodden---saturated
+saturated---sodden
+libel---defame
+defame---libel
+indelicate---rude
+rude---indelicate
+vestry---church room
+church room---vestry
+vestry---church room
+church room---vestry
+vestry---church room
+church room---vestry
+vestry---church room
+church room---vestry
+vestry---church room
+church room---vestry
+rue---regret
+regret---rue
+fandango---dance
+dance---fandango
+fandango---dance
+dance---fandango
+fandango---dance
+dance---fandango
+fandango---dance
+dance---fandango
+asunder---into pieces
+into pieces---asunder
+lechery---lustfulness
+lustfulness---lechery
+planar---two-dimensional
+two-dimensional---planar
+anomalous---irregular
+irregular---anomalous
+yoke---link
+link---yoke
+euphony---pleasing sound
+pleasing sound---euphony
+filch---steal
+steal---filch
+tantamount---equivalent
+equivalent---tantamount
+cadaverous---gaunt
+gaunt---cadaverous
+modicum---small amount
+small amount---modicum
+circinate---ring-shaped
+ring-shaped---circinate
+derogate---belittle
+belittle---derogate
+drudge---toil
+toil---drudge
+pathos---pity
+pity---pathos
+viridescent---greenish
+greenish---viridescent
+viridescent---greenish
+greenish---viridescent
+hireling---mercenary
+mercenary---hireling
+camelopard---giraffe
+giraffe---camelopard
+cruet---small bottle
+small bottle---cruet
+evenfall---dusk
+dusk---evenfall
+menial---servile
+servile---menial
+prig---goody-goody
+goody-goody---prig
+rejoinder---clever reply
+clever reply---rejoinder
+smutty---obscene
+obscene---smutty
+expeditiously---efficiently
+efficiently---expeditiously
+grange---farm
+farm---grange
+grange---farm
+farm---grange
+grange---farm
+farm---grange
+misanthropic---hating humankind
+hating humankind---misanthropic
+heterogeneous---dissimilar
+dissimilar---heterogeneous
+benign---kind
+kind---benign
+scabrous---rough
+rough---scabrous
+conflux---merging
+merging---conflux
+conflux---merging
+merging---conflux
+conflux---merging
+merging---conflux
+conflux---merging
+merging---conflux
+conflux---merging
+merging---conflux
+conflux---merging
+merging---conflux
+conflux---merging
+merging---conflux
+conflux---merging
+merging---conflux
+remonstrate---protest
+protest---remonstrate
+dormer---window
+window---dormer
+maleficent---harmful
+harmful---maleficent
+codex---manuscript
+manuscript---codex
+recapitulation---summary
+summary---recapitulation
+syndicate---cartel
+cartel---syndicate
+elucidate---clarify
+clarify---elucidate
+elucidate---clarify
+clarify---elucidate
+quaff---drink
+drink---quaff
+quaff---drink
+drink---quaff
+cacophony---clamor
+clamor---cacophony
+preponderance---majority
+majority---preponderance
+defalcator---embezzler
+embezzler---defalcator
+dauphin---prince
+prince---dauphin
+warren---rabbit home
+rabbit home---warren
+anathema---something hated
+something hated---anathema
+concubine---paramour
+paramour---concubine
+reveille---bugle call
+bugle call---reveille
+reveille---bugle call
+bugle call---reveille
+reveille---bugle call
+bugle call---reveille
+reveille---bugle call
+bugle call---reveille
+reveille---bugle call
+bugle call---reveille
+lenity---clemency
+clemency---lenity
+hostelry---inn
+inn---hostelry
+hostelry---inn
+inn---hostelry
+roundelay---song with refrain
+song with refrain---roundelay
+indelible---lasting
+lasting---indelible
+innocuous---harmless
+harmless---innocuous
+auricle---heart chamber
+heart chamber---auricle
+erratum---mistake
+mistake---erratum
+evoke---summon
+summon---evoke
+antiquated---obsolete
+obsolete---antiquated
+augment---increase
+increase---augment
+parsonage---rectory
+rectory---parsonage
+parsonage---rectory
+rectory---parsonage
+supplicant---petitioner
+petitioner---supplicant
+inundate---flood
+flood---inundate
+caterwaul---yowl
+yowl---caterwaul
+menagerie---zoo
+zoo---menagerie
+pullet---young hen
+young hen---pullet
+escritoire---writing table
+writing table---escritoire
+purveyor---supplier
+supplier---purveyor
+raze---demolish
+demolish---raze
+blight---disease
+disease---blight
+blight---disease
+disease---blight
+freebooter---pirate
+pirate---freebooter
+vaquero---cowboy
+cowboy---vaquero
+plebeian---common
+common---plebeian
+abet---aid
+aid---abet
+effloresce---bloom
+bloom---effloresce
+wheedle---sweet-talk
+sweet-talk---wheedle
+trundle---roll
+roll---trundle
+reposit---store
+store---reposit
+quell---subdue
+subdue---quell
+crotchety---irritable
+irritable---crotchety
+crotchety---irritable
+irritable---crotchety
+crotchety---irritable
+irritable---crotchety
+parable---allegory
+allegory---parable
+putrescent---rotting
+rotting---putrescent
+clamor---din
+din---clamor
+adamantine---unyielding
+unyielding---adamantine
+dendriform---tree-shaped
+tree-shaped---dendriform
+jaunt---outing
+outing---jaunt
+ethereal---airy
+airy---ethereal
+rennin---cheese-making enzyme
+cheese-making enzyme---rennin
+connubial---relating to marriage
+relating to marriage---connubial
+nosegay---bouquet
+bouquet---nosegay
+valance---short drapery
+short drapery---valance
+aft---rearward
+rearward---aft
+transcendent---supreme
+supreme---transcendent
+transcendent---supreme
+supreme---transcendent
+transcendent---supreme
+supreme---transcendent
+gossamer---sheer
+sheer---gossamer
+gumption---initiative
+initiative---gumption
+firedrake---dragon
+dragon---firedrake
+remunerative---profitable
+profitable---remunerative
+eiderdown---comforter
+comforter---eiderdown
+cinnabar---red
+red---cinnabar
+quay---wharf
+wharf---quay
+careen---lurch
+lurch---careen
+careen---lurch
+lurch---careen
+careen---lurch
+lurch---careen
+careen---lurch
+lurch---careen
+careen---lurch
+lurch---careen
+careen---lurch
+lurch---careen
+homily---sermon
+sermon---homily
+vellum---parchment
+parchment---vellum
+valise---suitcase
+suitcase---valise
+valise---suitcase
+suitcase---valise
+valise---suitcase
+suitcase---valise
+bursar---treasurer
+treasurer---bursar
+verdigris---green copper coating
+green copper coating---verdigris
+rabble---mob
+mob---rabble
+libation---drink
+drink---libation
+libation---drink
+drink---libation
+libation---drink
+drink---libation
+libation---drink
+drink---libation
+libation---drink
+drink---libation
+nether---lower
+lower---nether
+nether---lower
+lower---nether
+sedulity---diligence
+diligence---sedulity
+sedulity---diligence
+diligence---sedulity
+rollick---cavort
+cavort---rollick
+scruple---misgiving
+misgiving---scruple
+complicity---participation
+participation---complicity
+fitful---spasmodic
+spasmodic---fitful
+equity---fairness
+fairness---equity
+mayhap---perhaps
+perhaps---mayhap
+misbegotten---illegitimate
+illegitimate---misbegotten
+fraught---laden
+laden---fraught
+mantra---invocation
+invocation---mantra
+circumlocution---roundabout language
+roundabout language---circumlocution
+circumlocution---roundabout language
+roundabout language---circumlocution
+circumlocution---roundabout language
+roundabout language---circumlocution
+depilatory---hair-remover
+hair-remover---depilatory
+pervasive---widespread
+widespread---pervasive
+lowbrow---uncultivated
+uncultivated---lowbrow
+parley---confer
+confer---parley
+skeet---trapshooting
+trapshooting---skeet
+skeet---trapshooting
+trapshooting---skeet
+skeet---trapshooting
+trapshooting---skeet
+skeet---trapshooting
+trapshooting---skeet
+skeet---trapshooting
+trapshooting---skeet
+skeet---trapshooting
+trapshooting---skeet
+outlay---expenditure
+expenditure---outlay
+remuneration---pay
+pay---remuneration
+genuflect---kneel and bow
+kneel and bow---genuflect
+duplicity---deceitfulness
+deceitfulness---duplicity
+reprove---admonish
+admonish---reprove
+insidious---treacherous
+treacherous---insidious
+encumbrance---burden
+burden---encumbrance
+intrinsic---essential
+essential---intrinsic
+autolysis---self-digestion
+self-digestion---autolysis
+truss---bind
+bind---truss
+peerless---incomparable
+incomparable---peerless
+debar---preclude
+preclude---debar
+debar---preclude
+preclude---debar
+debar---preclude
+preclude---debar
+debar---preclude
+preclude---debar
+debar---preclude
+preclude---debar
+debar---preclude
+preclude---debar
+debar---preclude
+preclude---debar
+tinny---cheap
+cheap---tinny
+reposeful---relaxing
+relaxing---reposeful
+navicular---boat-shaped
+boat-shaped---navicular
+drollery---jest
+jest---drollery
+porcine---piggish
+piggish---porcine
+analogue---parallel
+parallel---analogue
+analogue---parallel
+parallel---analogue
+analogue---parallel
+parallel---analogue
+analogue---parallel
+parallel---analogue
+analogue---parallel
+parallel---analogue
+analogue---parallel
+parallel---analogue
+analogue---parallel
+parallel---analogue
+wistful---pensive
+pensive---wistful
+incumbency---tenure
+tenure---incumbency
+enfranchise---give the right to vote
+give the right to vote---enfranchise
+tactile---related to touching
+related to touching---tactile
+mellifluous---flowing sweetly
+flowing sweetly---mellifluous
+ichthyic---fish-like
+fish-like---ichthyic
+churl---boor
+boor---churl
+infra---below
+below---infra
+felicitation---congratulation
+congratulation---felicitation
+contentious---quarrelsome
+quarrelsome---contentious
+unduly---excessively
+excessively---unduly
+unduly---excessively
+excessively---unduly
+undulation---waviness
+waviness---undulation
+jingoist---militaristic patriot
+militaristic patriot---jingoist
+jingoist---militaristic patriot
+militaristic patriot---jingoist
+verdant---green
+green---verdant
+cacophonous---discordant
+discordant---cacophonous
+cacophonous---discordant
+discordant---cacophonous
+cacophonous---discordant
+discordant---cacophonous
+cacophonous---discordant
+discordant---cacophonous
+cacophonous---discordant
+discordant---cacophonous
+cacophonous---discordant
+discordant---cacophonous
+cacophonous---discordant
+discordant---cacophonous
+cacophonous---discordant
+discordant---cacophonous
+maelstrom---whirlpool
+whirlpool---maelstrom
+lancinating---knifelike
+knifelike---lancinating
+potation---drink
+drink---potation
+camise---tunic
+tunic---camise
+deference---respect
+respect---deference
+lilliputian---small
+small---lilliputian
+petulant---crabby
+crabby---petulant
+stoke---fuel
+fuel---stoke
+procurator---agent
+agent---procurator
+procurator---agent
+agent---procurator
+procurator---agent
+agent---procurator
+derringer---short pistol
+short pistol---derringer
+derringer---short pistol
+short pistol---derringer
+autocrat---despot
+despot---autocrat
+cavort---romp
+romp---cavort
+hansom---horse-drawn cab
+horse-drawn cab---hansom
+hansom---horse-drawn cab
+horse-drawn cab---hansom
+hansom---horse-drawn cab
+horse-drawn cab---hansom
+hansom---horse-drawn cab
+horse-drawn cab---hansom
+perlite---volcanic glass
+volcanic glass---perlite
+rife---abundant
+abundant---rife
+languish---weaken
+weaken---languish
+millinery---hat shop
+hat shop---millinery
+millinery---hat shop
+hat shop---millinery
+millinery---hat shop
+hat shop---millinery
+millinery---hat shop
+hat shop---millinery
+millinery---hat shop
+hat shop---millinery
+indigence---poverty
+poverty---indigence
+accede---agree
+agree---accede
+carrion---rotting flesh
+rotting flesh---carrion
+espouse---advocate
+advocate---espouse
+cotillion---dance
+dance---cotillion
+beatific---blissful
+blissful---beatific
+beatific---blissful
+blissful---beatific
+tintinnabulation---ringing
+ringing---tintinnabulation
+alopecia---baldness
+baldness---alopecia
+inordinate---excessive
+excessive---inordinate
+eupnea---normal breathing
+normal breathing---eupnea
+relegate---banish
+banish---relegate
+relegate---banish
+banish---relegate
+relegate---banish
+banish---relegate
+pedagogy---teaching
+teaching---pedagogy
+ruminate---ponder
+ponder---ruminate
+supernumerary---extra
+extra---supernumerary
+missal---prayer book
+prayer book---missal
+leach---seep
+seep---leach
+leach---seep
+seep---leach
+leach---seep
+seep---leach
+leach---seep
+seep---leach
+accoutrement---accessory
+accessory---accoutrement
+accoutrement---accessory
+accessory---accoutrement
+accoutrement---accessory
+accessory---accoutrement
+vole---field mouse
+field mouse---vole
+provisory---conditional
+conditional---provisory
+provisory---conditional
+conditional---provisory
+firebrand---agitator
+agitator---firebrand
+chutzpah---audacity
+audacity---chutzpah
+munificence---generosity
+generosity---munificence
+drudgery---labor
+labor---drudgery
+aplomb---poise
+poise---aplomb
+compote---stewed fruit
+stewed fruit---compote
+chirography---penmanship
+penmanship---chirography
+deferential---respectful
+respectful---deferential
+jetsam---abandoned cargo
+abandoned cargo---jetsam
+dotage---senility
+senility---dotage
+ibex---wild goat
+wild goat---ibex
+ibex---wild goat
+wild goat---ibex
+ibex---wild goat
+wild goat---ibex
+ibex---wild goat
+wild goat---ibex
+ibex---wild goat
+wild goat---ibex
+ibex---wild goat
+wild goat---ibex
+ibex---wild goat
+wild goat---ibex
+twee---dainty
+dainty---twee
+lexicon---dictionary
+dictionary---lexicon
+apprise---inform
+inform---apprise
+apprise---inform
+inform---apprise
+apprise---inform
+inform---apprise
+apiculture---beekeeping
+beekeeping---apiculture
+jocose---merry
+merry---jocose
+undulant---wavy
+wavy---undulant
+provincial---unsophisticated
+unsophisticated---provincial
+functionary---official
+official---functionary
+abstinent---self-denying
+self-denying---abstinent
+abstinent---self-denying
+self-denying---abstinent
+abstinent---self-denying
+self-denying---abstinent
+dulcet---sweet
+sweet---dulcet
+dulcet---sweet
+sweet---dulcet
+dulcet---sweet
+sweet---dulcet
+dulcet---sweet
+sweet---dulcet
+languid---sluggish
+sluggish---languid
+bunkum---nonsense
+nonsense---bunkum
+omphaloskepsis---navel-contemplation
+navel-contemplation---omphaloskepsis
+decorum---propriety
+propriety---decorum
+deportment---behavior
+behavior---deportment
+antedate---precede
+precede---antedate
+deride---ridicule
+ridicule---deride
+avaricious---greedy
+greedy---avaricious
+undergird---strengthen
+strengthen---undergird
+mamba---snake
+snake---mamba
+tumbrel---two-wheeled cart
+two-wheeled cart---tumbrel
+tyrant---despot
+despot---tyrant
+cursory---superficial
+superficial---cursory
+monolithic---massive
+massive---monolithic
+aery---ethereal
+ethereal---aery
+aery---ethereal
+ethereal---aery
+aery---ethereal
+ethereal---aery
+aery---ethereal
+ethereal---aery
+aery---ethereal
+ethereal---aery
+ruction---uproar
+uproar---ruction
+bluestocking---scholarly woman
+scholarly woman---bluestocking
+coccoid---spherical
+spherical---coccoid
+fervid---impassioned
+impassioned---fervid
+corporeal---bodily
+bodily---corporeal
+pusillanimity---cowardice
+cowardice---pusillanimity
+deprave---corrupt
+corrupt---deprave
+gaucheness---crudity
+crudity---gaucheness
+gaucheness---crudity
+crudity---gaucheness
+gaucheness---crudity
+crudity---gaucheness
+heliacal---sun-related
+sun-related---heliacal
+tabard---knight's cape
+knight's cape---tabard
+amalgamate---mix
+mix---amalgamate
+lupine---wolfish
+wolfish---lupine
+adjuration---appeal
+appeal---adjuration
+polypnea---rapid breathing
+rapid breathing---polypnea
+palatial---magnificent
+magnificent---palatial
+grist---grain
+grain---grist
+diablerie---sorcery
+sorcery---diablerie
+gustatory---related to tasting
+related to tasting---gustatory
+sesquipedalian---using long words
+using long words---sesquipedalian
+cerebrate---think
+think---cerebrate
+syncretize---unite
+unite---syncretize
+aurora---dawn
+dawn---aurora
+reprehension---blame
+blame---reprehension
+jocular---jesting
+jesting---jocular
+stoic---impassive
+impassive---stoic
+baseborn---lowly
+lowly---baseborn
+artlessness---innocence
+innocence---artlessness
+vacillation---wavering
+wavering---vacillation
+deft---dexterous
+dexterous---deft
+deft---dexterous
+dexterous---deft
+somniferous---sleep-inducing
+sleep-inducing---somniferous
+ebullition---outburst
+outburst---ebullition
+puffery---hype
+hype---puffery
+logorrhea---talkativeness
+talkativeness---logorrhea
+schlep---haul
+haul---schlep
+mesencephalon---midbrain
+midbrain---mesencephalon
+derisive---jeering
+jeering---derisive
+dielectric---nonconductor
+nonconductor---dielectric
+affray---brawl
+brawl---affray
+lummox---oaf
+oaf---lummox
+chiromancy---palm-reading
+palm-reading---chiromancy
+anthracite---coal
+coal---anthracite
+itinerant---traveling
+traveling---itinerant
+unerring---sure
+sure---unerring
+actuary---insurance statistician
+insurance statistician---actuary
+bulwark---defensive wall
+defensive wall---bulwark
+idyll---pastoral scene
+pastoral scene---idyll
+tendinous---sinewy
+sinewy---tendinous
+conjunct---united
+united---conjunct
+conjunct---united
+united---conjunct
+bullock---ox
+ox---bullock
+forecastle---front deck
+front deck---forecastle
+relict---surviving remnant
+surviving remnant---relict
+tenable---defensible
+defensible---tenable
+terse---concise
+concise---terse
+misology---hatred of reason
+hatred of reason---misology
+antic---caper
+caper---antic
+canon---law
+law---canon
+olfaction---smell
+smell---olfaction
+apiary---bee house
+bee house---apiary
+abiding---lasting
+lasting---abiding
+quaggy---swampy
+swampy---quaggy
+continence---self-restraint
+self-restraint---continence
+albumen---egg white
+egg white---albumen
+carouse---revel
+revel---carouse
+avocation---hobby
+hobby---avocation
+agog---excited
+excited---agog
+symbiosis---mutualism
+mutualism---symbiosis
+glean---gather
+gather---glean
+hemidemisemiquaver---sixty-fourth note
+sixty-fourth note---hemidemisemiquaver
+grit---fortitude
+fortitude---grit
+portico---colonnade
+colonnade---portico
+piscivorous---fish-eating
+fish-eating---piscivorous
+doublet---jacket
+jacket---doublet
+tympan---drum
+drum---tympan
+discern---perceive
+perceive---discern
+autocratic---despotic
+despotic---autocratic
+sentience---awareness
+awareness---sentience
+marimba---xylophone
+xylophone---marimba
+marimba---xylophone
+xylophone---marimba
+acrimony---bitterness
+bitterness---acrimony
+altruistic---unselfish
+unselfish---altruistic
+tithe---tenth
+tenth---tithe
+abominable---loathsome
+loathsome---abominable
+disoblige---inconvenience
+inconvenience---disoblige
+disoblige---inconvenience
+inconvenience---disoblige
+disoblige---inconvenience
+inconvenience---disoblige
+disoblige---inconvenience
+inconvenience---disoblige
+disoblige---inconvenience
+inconvenience---disoblige
+disoblige---inconvenience
+inconvenience---disoblige
+disoblige---inconvenience
+inconvenience---disoblige
+disoblige---inconvenience
+inconvenience---disoblige
+usurp---seize
+seize---usurp
+discernment---insight
+insight---discernment
+discernment---insight
+insight---discernment
+discernment---insight
+insight---discernment
+fealty---allegiance
+allegiance---fealty
+sepulture---burial
+burial---sepulture
+cowl---hood
+hood---cowl
+censurable---blameworthy
+blameworthy---censurable
+replete---full
+full---replete
+vim---energy
+energy---vim
+gird---encircle
+encircle---gird
+gird---encircle
+encircle---gird
+gird---encircle
+encircle---gird
+gird---encircle
+encircle---gird
+gird---encircle
+encircle---gird
+virulent---deadly
+deadly---virulent
+mimetic---imitative
+imitative---mimetic
+homburg---man's hat
+man's hat---homburg
+plaintive---sad
+sad---plaintive
+pert---saucy
+saucy---pert
+swarthy---dusky
+dusky---swarthy
+gynandromorph---hermaphrodite
+hermaphrodite---gynandromorph
+restorative---tonic
+tonic---restorative
+restorative---tonic
+tonic---restorative
+restorative---tonic
+tonic---restorative
+restorative---tonic
+tonic---restorative
+restorative---tonic
+tonic---restorative
+restorative---tonic
+tonic---restorative
+restorative---tonic
+tonic---restorative
+amenity---pleasantness
+pleasantness---amenity
+turgid---swollen
+swollen---turgid
+dalliance---flirtation
+flirtation---dalliance
+natty---stylishly dressed
+stylishly dressed---natty
+dromedary---camel
+camel---dromedary
+accretion---increase
+increase---accretion
+lithe---supple
+supple---lithe
+lithe---supple
+supple---lithe
+lithe---supple
+supple---lithe
+carabao---water buffalo
+water buffalo---carabao
+bequest---legacy
+legacy---bequest
+conscript---draftee
+draftee---conscript
+concord---harmony
+harmony---concord
+hallow---consecrate
+consecrate---hallow
+emollient---lotion
+lotion---emollient
+despoil---pillage
+pillage---despoil
+freehanded---generous
+generous---freehanded
+dour---grim
+grim---dour
+dour---grim
+grim---dour
+dour---grim
+grim---dour
+malefactor---criminal
+criminal---malefactor
+noddy---dunce
+dunce---noddy
+convolve---roll together
+roll together---convolve
+perusal---reading
+reading---perusal
+proportional---commensurate
+commensurate---proportional
+budgie---parakeet
+parakeet---budgie
+discourse---speech
+speech---discourse
+vulpine---fox-like
+fox-like---vulpine
+vulpine---fox-like
+fox-like---vulpine
+vulpine---fox-like
+fox-like---vulpine
+vulpine---fox-like
+fox-like---vulpine
+vulpine---fox-like
+fox-like---vulpine
+vulpine---fox-like
+fox-like---vulpine
+dhoti---loincloth
+loincloth---dhoti
+dhoti---loincloth
+loincloth---dhoti
+dhoti---loincloth
+loincloth---dhoti
+upshot---result
+result---upshot
+paltry---trifling
+trifling---paltry
+corpulence---obesity
+obesity---corpulence
+gyre---spiral
+spiral---gyre
+beamish---smiling
+smiling---beamish
+beamish---smiling
+smiling---beamish
+beamish---smiling
+smiling---beamish
+indiscriminate---haphazard
+haphazard---indiscriminate
+spectral---ghostly
+ghostly---spectral
+necromancy---sorcery
+sorcery---necromancy
+garrulous---talkative
+talkative---garrulous
+tatterdemalion---ragamuffin
+ragamuffin---tatterdemalion
+tatterdemalion---ragamuffin
+ragamuffin---tatterdemalion
+tatterdemalion---ragamuffin
+ragamuffin---tatterdemalion
+tatterdemalion---ragamuffin
+ragamuffin---tatterdemalion
+clarion---shrill trumpet
+shrill trumpet---clarion
+hussar---cavalryman
+cavalryman---hussar
+demagogue---rabble-rouser
+rabble-rouser---demagogue
+pilosity---hairiness
+hairiness---pilosity
+pugnacity---aggressiveness
+aggressiveness---pugnacity
+grandee---nobleman
+nobleman---grandee
+cloistral---monastic
+monastic---cloistral
+acumen---insight
+insight---acumen
+defile---sully
+sully---defile
+insular---narrow-minded
+narrow-minded---insular
+asceticism---self-denial
+self-denial---asceticism
+fugleman---leader
+leader---fugleman
+squarely---precisely
+precisely---squarely
+redux---brought back
+brought back---redux
+conversant---familiar
+familiar---conversant
+bourgeois---middle-class
+middle-class---bourgeois
+imbibe---drink
+drink---imbibe
+preempt---displace
+displace---preempt
+perquisite---fringe benefit
+fringe benefit---perquisite
+reprobation---disapproval
+disapproval---reprobation
+thespian---actor
+actor---thespian
+grotty---wretched
+wretched---grotty
+prolific---highly productive
+highly productive---prolific
+desiccant---drying agent
+drying agent---desiccant
+undulate---wave
+wave---undulate
+utile---useful
+useful---utile
+unaffected---genuine
+genuine---unaffected
+helical---spiral
+spiral---helical
+arborescent---treelike
+treelike---arborescent
+mackinaw---wool coat
+wool coat---mackinaw
+sepulchral---funereal
+funereal---sepulchral
+abnegation---denial
+denial---abnegation
+circumlocutory---wordy
+wordy---circumlocutory
+commensurate---proportionate
+proportionate---commensurate
+halite---rock salt
+rock salt---halite
+convalesce---recover
+recover---convalesce
+ventral---abdominal
+abdominal---ventral
+ventral---abdominal
+abdominal---ventral
+barefaced---audacious
+audacious---barefaced
+colloquy---conversation
+conversation---colloquy
+potentate---ruler
+ruler---potentate
+gregarious---sociable
+sociable---gregarious
+piton---spike
+spike---piton
+prehensile---adapted for grasping
+adapted for grasping---prehensile
+enmity---hatred
+hatred---enmity
+disaffected---rebellious
+rebellious---disaffected
+obovate---egg-shaped
+egg-shaped---obovate
+treadle---pedal
+pedal---treadle
+epicurean---luxury-loving
+luxury-loving---epicurean
+admonish---warn
+warn---admonish
+platyhelminth---flatworm
+flatworm---platyhelminth
+ingress---entrance
+entrance---ingress
+substantive---solid
+solid---substantive
+antipode---opposite
+opposite---antipode
+malodorous---smelly
+smelly---malodorous
+malodorous---smelly
+smelly---malodorous
+malodorous---smelly
+smelly---malodorous
+drowse---doze
+doze---drowse
+wraith---ghost
+ghost---wraith
+perambulate---walk
+walk---perambulate
+curmudgeon---grouch
+grouch---curmudgeon
+curmudgeon---grouch
+grouch---curmudgeon
+curmudgeon---grouch
+grouch---curmudgeon
+natter---chat
+chat---natter
+sojourn---visit
+visit---sojourn
+cuspidor---spittoon
+spittoon---cuspidor
+controvert---dispute
+dispute---controvert
+dreadnought---battleship
+battleship---dreadnought
+dovecote---pigeon house
+pigeon house---dovecote
+ursine---bear-like
+bear-like---ursine
+prescient---foreseeing
+foreseeing---prescient
+doyenne---senior woman
+senior woman---doyenne
+blarney---flattery
+flattery---blarney
+repartee---banter
+banter---repartee
+apiarian---bee-related
+bee-related---apiarian
+natatorium---swimming pool
+swimming pool---natatorium
+muckrake---expose misconduct
+expose misconduct---muckrake
+trine---threefold
+threefold---trine
+connote---imply
+imply---connote
+sebaceous---fatty
+fatty---sebaceous
+pettifogger---unscrupulous lawyer
+unscrupulous lawyer---pettifogger
+derisory---mocking
+mocking---derisory
+austere---ascetic
+ascetic---austere
+banal---trite
+trite---banal
+bode---portend
+portend---bode
+confute---disprove
+disprove---confute
+confute---disprove
+disprove---confute
+confute---disprove
+disprove---confute
+dipsomania---alcoholism
+alcoholism---dipsomania
+disconsolate---sad
+sad---disconsolate
+disconsolate---sad
+sad---disconsolate
+disconsolate---sad
+sad---disconsolate
+disconsolate---sad
+sad---disconsolate
+disconsolate---sad
+sad---disconsolate
+disconsolate---sad
+sad---disconsolate
+arcane---secret
+secret---arcane
+obviate---make unnecessary
+make unnecessary---obviate
+festal---joyous
+joyous---festal
+detritus---debris
+debris---detritus
+bedaub---smear on
+smear on---bedaub
+cloying---excessively sweet
+excessively sweet---cloying
+decrepitude---feebleness
+feebleness---decrepitude
+peignoir---negligee
+negligee---peignoir
+vernal---spring-like
+spring-like---vernal
+lyophilization---freeze-drying
+freeze-drying---lyophilization
+senescence---aging
+aging---senescence
+senescence---aging
+aging---senescence
+senescence---aging
+aging---senescence
+senescence---aging
+aging---senescence
+senescence---aging
+aging---senescence
+senescence---aging
+aging---senescence
+senescence---aging
+aging---senescence
+senescence---aging
+aging---senescence
+senescence---aging
+aging---senescence
+senescence---aging
+aging---senescence
+contravene---oppose
+oppose---contravene
+contravene---oppose
+oppose---contravene
+contravene---oppose
+oppose---contravene
+geld---castrate
+castrate---geld
+derision---ridicule
+ridicule---derision
+aileron---airplane wing flap
+airplane wing flap---aileron
+aileron---airplane wing flap
+airplane wing flap---aileron
+aileron---airplane wing flap
+airplane wing flap---aileron
+exchequer---treasury
+treasury---exchequer
+levity---frivolity
+frivolity---levity
+canvass---solicit
+solicit---canvass
+vacillate---waver
+waver---vacillate
+ambivalent---undecided
+undecided---ambivalent
+conscription---military draft
+military draft---conscription
+verdure---greenness
+greenness---verdure
+proboscis---snout
+snout---proboscis
+toady---flatterer
+flatterer---toady
+panache---verve
+verve---panache
+panache---verve
+verve---panache
+panache---verve
+verve---panache
+panache---verve
+verve---panache
+panache---verve
+verve---panache
+ferity---wildness
+wildness---ferity
+exhort---urge
+urge---exhort
+venerate---revere
+revere---venerate
+ardent---passionate
+passionate---ardent
+belie---misrepresent
+misrepresent---belie
+conjectural---hypothetic
+hypothetic---conjectural
+corpulency---obesity
+obesity---corpulency
+recumbent---reclining
+reclining---recumbent
+august---grand
+grand---august
+august---grand
+grand---august
+august---grand
+grand---august
+august---grand
+grand---august
+missive---letter
+letter---missive
+paragon---ideal
+ideal---paragon
+tarmacadam---pavement
+pavement---tarmacadam
+enigmatic---puzzling
+puzzling---enigmatic
+capacious---roomy
+roomy---capacious
+runnel---small stream
+small stream---runnel
+commodious---roomy
+roomy---commodious
+poseur---phony
+phony---poseur
+vamoose---skedaddle
+skedaddle---vamoose
+nicker---whinny
+whinny---nicker
+brackish---salty
+salty---brackish
+dynamic---active
+active---dynamic
+dynamic---active
+active---dynamic
+fractious---irritable
+irritable---fractious
+fractious---irritable
+irritable---fractious
+fractious---irritable
+irritable---fractious
+fractious---irritable
+irritable---fractious
+ribald---vulgar
+vulgar---ribald
+wastrel---squanderer
+squanderer---wastrel
+grouse---complain
+complain---grouse
+shoal---shallow
+shallow---shoal
+varlet---knave
+knave---varlet
+varlet---knave
+knave---varlet
+varlet---knave
+knave---varlet
+varlet---knave
+knave---varlet
+varlet---knave
+knave---varlet
+varlet---knave
+knave---varlet
+purloin---steal
+steal---purloin
+praenomen---first name
+first name---praenomen
+redress---compensation
+compensation---redress
+draconian---harsh
+harsh---draconian
+knell---toll
+toll---knell
+errant---straying
+straying---errant
+prefect---magistrate
+magistrate---prefect
+smithy---forge
+forge---smithy
+homiletics---art of preaching
+art of preaching---homiletics
+tyrannous---despotic
+despotic---tyrannous
+whet---stimulate
+stimulate---whet
+carbonado---black diamond
+black diamond---carbonado
+carbonado---black diamond
+black diamond---carbonado
+carbonado---black diamond
+black diamond---carbonado
+carbonado---black diamond
+black diamond---carbonado
+tertiary---third
+third---tertiary
+matins---morning prayer
+morning prayer---matins
+satyr---lecher
+lecher---satyr
+funambulism---tightrope walking
+tightrope walking---funambulism
+resplendent---glorious
+glorious---resplendent
+gormandize---devour
+devour---gormandize
+writhen---contorted
+contorted---writhen
+writhen---contorted
+contorted---writhen
+abstentious---self-restraining
+self-restraining---abstentious
+abstentious---self-restraining
+self-restraining---abstentious
+abstentious---self-restraining
+self-restraining---abstentious
+bestir---rouse
+rouse---bestir
+amah---wet nurse
+wet nurse---amah
+amah---wet nurse
+wet nurse---amah
+amah---wet nurse
+wet nurse---amah
+repast---meal
+meal---repast
+insolvent---bankrupt
+bankrupt---insolvent
+tilth---cultivated land
+cultivated land---tilth
+prevarication---lie
+lie---prevarication
+prevarication---lie
+lie---prevarication
+decedent---dead person
+dead person---decedent
+magnum---large wine bottle
+large wine bottle---magnum
+deprecatory---belittling
+belittling---deprecatory
+lubricious---slippery
+slippery---lubricious
+occlude---obstruct
+obstruct---occlude
+contrite---apologetic
+apologetic---contrite
+contrite---apologetic
+apologetic---contrite
+contrite---apologetic
+apologetic---contrite
+contrite---apologetic
+apologetic---contrite
+contrite---apologetic
+apologetic---contrite
+bangtail---racehorse
+racehorse---bangtail
+hostler---stableman
+stableman---hostler
+gamut---range
+range---gamut
+caboodle---lot
+lot---caboodle
+intrepid---brave
+brave---intrepid
+akimbo---with hands on hips
+with hands on hips---akimbo
+pervious---penetrable
+penetrable---pervious
+aphasia---speechlessness
+speechlessness---aphasia
+aphasia---speechlessness
+speechlessness---aphasia
+aphasia---speechlessness
+speechlessness---aphasia
+aphasia---speechlessness
+speechlessness---aphasia
+aphasia---speechlessness
+speechlessness---aphasia
+vermicular---worm-like
+worm-like---vermicular
+beget---sire
+sire---beget
+laity---laymen
+laymen---laity
+carpus---wrist
+wrist---carpus
+carpus---wrist
+wrist---carpus
+carpus---wrist
+wrist---carpus
+carpus---wrist
+wrist---carpus
+carpus---wrist
+wrist---carpus
+gustation---taste
+taste---gustation
+gustation---taste
+taste---gustation
+abstemious---self-denying
+self-denying---abstemious
+aflutter---agitated
+agitated---aflutter
+aflutter---agitated
+agitated---aflutter
+assuasive---soothing
+soothing---assuasive
+assuasive---soothing
+soothing---assuasive
+assuasive---soothing
+soothing---assuasive
+assuasive---soothing
+soothing---assuasive
+assuasive---soothing
+soothing---assuasive
+curette---surgical scoop
+surgical scoop---curette
+bung---stopper
+stopper---bung
+dendroid---tree-like
+tree-like---dendroid
+cygnet---young swan
+young swan---cygnet
+exhortation---urging
+urging---exhortation
+osseous---bony
+bony---osseous
+brigand---robber
+robber---brigand
+windlass---winch
+winch---windlass
+aubergine---eggplant
+eggplant---aubergine
+exanimate---lifeless
+lifeless---exanimate
+encephalon---brain
+brain---encephalon
+cogitate---think
+think---cogitate
+bilk---swindle
+swindle---bilk
+enfetter---put in chains
+put in chains---enfetter
+lucre---profit
+profit---lucre
+tympanum---middle ear
+middle ear---tympanum
+crinoline---hoopskirt
+hoopskirt---crinoline
+surreptitious---clandestine
+clandestine---surreptitious
+surreptitious---clandestine
+clandestine---surreptitious
+surreptitious---clandestine
+clandestine---surreptitious
+surreptitious---clandestine
+clandestine---surreptitious
+surreptitious---clandestine
+clandestine---surreptitious
+surreptitious---clandestine
+clandestine---surreptitious
+surreptitious---clandestine
+clandestine---surreptitious
+viscera---entrails
+entrails---viscera
+abjure---renounce
+renounce---abjure
+garret---attic
+attic---garret
+tome---book
+book---tome
+interlope---intrude
+intrude---interlope
+lothario---womanizer
+womanizer---lothario
+cession---yielding
+yielding---cession
+lavage---washing
+washing---lavage
+dysphagia---trouble swallowing
+trouble swallowing---dysphagia
+adjutant---environment
+environment---adjutant
+adjutant---assistant
+assistant---adjutant
+entreat---beseech
+beseech---entreat
+applause---clapping
+clapping---applause
+demolish---destroy
+destroy---demolish
+demolish---destroy
+destroy---demolish
+inn---hotel
+hotel---inn
+demon---devil
+devil---demon
+soak---drench
+drench---soak
+shuffle---jumble together
+jumble together---shuffle
+maturity---adulthood
+adulthood---maturity
+maturity---adulthood
+adulthood---maturity
+collect---accumulate
+accumulate---collect
+heartless---cruel
+cruel---heartless
+feminine---womanly
+womanly---feminine
+feminine---womanly
+womanly---feminine
+feminine---womanly
+womanly---feminine
+feminine---womanly
+womanly---feminine
+feminine---womanly
+womanly---feminine
+feminine---womanly
+womanly---feminine
+feminine---womanly
+womanly---feminine
+feminine---womanly
+womanly---feminine
+spiritual---religious
+religious---spiritual
+spiritual---religious
+religious---spiritual
+spiritual---religious
+religious---spiritual
+spiritual---religious
+religious---spiritual
+spiritual---religious
+religious---spiritual
+spiritual---religious
+religious---spiritual
+spiritual---religious
+religious---spiritual
+spiritual---religious
+religious---spiritual
+sinful---wicked
+wicked---sinful
+deed---action
+action---deed
+deed---action
+action---deed
+deed---action
+action---deed
+absurd---ridiculous
+ridiculous---absurd
+timid---shy
+shy---timid
+inhabitant---resident
+resident---inhabitant
+dusk---twilight
+twilight---dusk
+insomnia---sleeplessness
+sleeplessness---insomnia
+insomnia---sleeplessness
+sleeplessness---insomnia
+insomnia---sleeplessness
+sleeplessness---insomnia
+plentiful---abundant
+abundant---plentiful
+surpass---exceed
+exceed---surpass
+exile---banish
+banish---exile
+grim---stern
+stern---grim
+deceit---trickery
+trickery---deceit
+prosperity---economic well-being
+economic well-being---prosperity
+sulk---pout
+pout---sulk
+sulk---pout
+pout---sulk
+bias---prejudice
+prejudice---bias
+gaily---merrily
+merrily---gaily
+attendant---accompanying
+accompanying---attendant
+hullabaloo---uproar
+uproar---hullabaloo
+decent---respectable
+respectable---decent
+blatant---obvious
+obvious---blatant
+tuft---clump
+clump---tuft
+itinerary---travel route
+travel route---itinerary
+studious---diligent in learning
+diligent in learning---studious
+authoritative---official
+official---authoritative
+negligent---careless
+careless---negligent
+distribution---arrangement
+arrangement---distribution
+oaf---lout
+lout---oaf
+variance---difference
+difference---variance
+spellbound---fascinated
+fascinated---spellbound
+solemn---grave
+grave---solemn
+engross---absorb
+absorb---engross
+momentous---important
+important---momentous
+infirmity---weakness
+weakness---infirmity
+infirmity---weakness
+weakness---infirmity
+infirmity---weakness
+weakness---infirmity
+infirmity---weakness
+weakness---infirmity
+infirmity---weakness
+weakness---infirmity
+infirmity---weakness
+weakness---infirmity
+paradox---self-contradiction
+self-contradiction---paradox
+curvaceous---voluptuous
+voluptuous---curvaceous
+curvaceous---voluptuous
+voluptuous---curvaceous
+curvaceous---voluptuous
+voluptuous---curvaceous
+curvaceous---voluptuous
+voluptuous---curvaceous
+curvaceous---voluptuous
+voluptuous---curvaceous
+meditate---reflect
+reflect---meditate
+meditate---reflect
+reflect---meditate
+meditate---reflect
+reflect---meditate
+meditate---reflect
+reflect---meditate
+meditate---reflect
+reflect---meditate
+trivial---insignificant
+insignificant---trivial
+trivial---insignificant
+insignificant---trivial
+trivial---insignificant
+insignificant---trivial
+captivate---fascinate
+fascinate---captivate
+heroism---valor
+valor---heroism
+prude---overly proper person
+overly proper person---prude
+miserly---stingy
+stingy---miserly
+conviction---belief
+belief---conviction
+arbitrator---judge
+judge---arbitrator
+devout---religious
+religious---devout
