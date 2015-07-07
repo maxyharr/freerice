@@ -1,6 +1,5 @@
 require 'watir-webdriver'
 b = Watir::Browser.new
-b.goto 'freerice.com'
 
 SLEEP_TIME = 1
 
@@ -29,13 +28,13 @@ puts "this script has donated #{overallCounter} grains of rice so far, let's kee
 
 # open dictionary for appending
 file = File.open("dictionary.txt", "a")
-if b.a(href: "http://freerice.com/user/login").exists?
-	b.a(href: "http://freerice.com/user/login").click
-	b.text_field(id: 'edit-name').when_present.set('mhar7190')
-	b.text_field(id: 'edit-pass').when_present.set('AU5HYDPx6y')
-	b.button(id: 'edit-submit').when_present.click
-	sleep SLEEP_TIME*6
-end
+b.goto "http://freerice.com/user/login"
+b.text_field(id: 'edit-name_watermark').when_present.fire_event('focus')
+b.text_field(id: 'edit-name').when_present.set('mhar7190')
+b.text_field(id: 'edit-pass').when_present.set('AU5HYDPx6y')
+b.button(id: 'edit-submit').when_present.click
+b.goto "http://freerice.com"
+sleep SLEEP_TIME*6
 
 while true do
 	if b.div(id: 'game-status').div(class: 'block-top').exists?
