@@ -1,6 +1,9 @@
 require 'watir-webdriver'
 b = Watir::Browser.new
 
+username = ARGV[0];
+password = ARGV[1];
+
 SLEEP_TIME = 1
 
 points = 0
@@ -19,8 +22,8 @@ file.close
 file = File.open("dictionary.txt", "a")
 b.goto "http://freerice.com/user/login"
 b.text_field(id: 'edit-name_watermark').when_present.fire_event('focus')
-b.text_field(id: 'edit-name').when_present.set('mhar7190')
-b.text_field(id: 'edit-pass').when_present.set('AU5HYDPx6y')
+b.text_field(id: 'edit-name').when_present.set(username)
+b.text_field(id: 'edit-pass').when_present.set(password)
 b.button(id: 'edit-submit').when_present.click
 b.goto "http://freerice.com"
 sleep SLEEP_TIME*6
@@ -29,18 +32,18 @@ while true do
 	if b.div(id: 'game-status').div(class: 'block-top').exists?
    		if !b.div(id: 'incorrect').exists?
    			begin
-   				# Last answer was correct, store temp in memoizer 
+   				# Last answer was correct, store temp in memoizer
    				# (but only if it's not already in there)
-   				
+
 				puts "memoizing " + temp["matchWord"] + " with " + temp["answer"] + "\n\n"
 
 				memoizer[temp["matchWord"].chomp.downcase] = temp["answer"].chomp.downcase
 				memoizer[temp["answer"].chomp.downcase] = temp["matchWord"].chomp.downcase
 
 				file.puts temp["matchWord"].chomp.downcase + "---" + temp["answer"].chomp.downcase
-				file.puts temp["answer"].chomp.downcase + "---" + temp["matchWord"].chomp.downcase 
-   				
-   			
+				file.puts temp["answer"].chomp.downcase + "---" + temp["matchWord"].chomp.downcase
+
+
 
 	   			if b.p(id: 'game-status-right').text.split(' ')[4] != 'donation'
 	   				begin
@@ -71,9 +74,9 @@ while true do
    		end
    	end
 
-   	
+
    	if b.div(class: 'social-skip-button').exists?
-  		begin 
+  		begin
     		b.div(class: 'social-skip-button').fire_event :click
     		sleep SLEEP_TIME
     	rescue
@@ -99,11 +102,11 @@ while true do
  	 			end
  	 			answers[0].click
  	 		else
-	 	 		
+
 	 	 		temp = {}
 	 	 		temp["answer"] = answers[0].text.chomp
 	 	 		temp["matchWord"] = matchWord.chomp
-	
+
 	 	 		answers[0].click
 	 	 		sleep SLEEP_TIME
  	 		end
