@@ -4,7 +4,6 @@ b = Watir::Browser.new
 SLEEP_TIME = 1
 
 points = 0
-can_accrue = true
 memoizer = {}
 temp = {}
 
@@ -15,16 +14,6 @@ file.readlines.each do |line|
 	memoizer[words[0].chomp] = words[1].chomp
 end
 file.close
-
-# read in rice counter
-fileCounter = File.open("riceDonated.txt", "r")
-fileCounter.readlines.each do |line|
-	overallCounter = line.to_i
-end
-overallCounter ||= 0
-
-fileCounter.close
-puts "this script has donated #{overallCounter} grains of rice so far, let's keep it up"
 
 # open dictionary for appending
 file = File.open("dictionary.txt", "a")
@@ -58,19 +47,6 @@ while true do
 	   					points = b.p(id: 'game-status-right').text.split(' ')[4]
 	   				rescue
 	   					puts "couldn't find game-status-right, continuing"
-	   				end
-	   				
-	   				if points.to_i%1000 < 30 && can_accrue
-	   					can_accrue = false
-	   					overallCounter += 1000
-	   					puts overallCounter
-
-	   					# open counting file for writing
-						fileCounter = File.open('riceDonated.txt', "w")
-	   					fileCounter.puts overallCounter
-	   					fileCounter.close
-	   				else
-	   					can_accrue = true
 	   				end
 	   			end
 	   		rescue

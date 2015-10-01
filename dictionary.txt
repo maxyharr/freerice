@@ -31791,3 +31791,45 @@ solation---liquefaction
 liquefaction---solation
 cobia---fish
 fish---cobia
+logo---symbol
+symbol---logo
+examine---inspect
+inspect---examine
+enroll---register
+register---enroll
+curtain---drape
+drape---curtain
+segment---section
+section---segment
+snoop---spy
+spy---snoop
+snoop---spy
+spy---snoop
+genuine---authentic
+authentic---genuine
+genuine---authentic
+authentic---genuine
+outstanding---superior
+superior---outstanding
+feast---banquet
+banquet---feast
+pirate---buccaneer
+buccaneer---pirate
+pirate---buccaneer
+buccaneer---pirate
+error---mistake
+mistake---error
+tragic---very sad
+very sad---tragic
+skillet---frying pan
+frying pan---skillet
+anxiety---worry
+worry---anxiety
+anxiety---worry
+worry---anxiety
+defect---flaw
+flaw---defect
+pulverize---crush
+crush---pulverize
+priority---precedence
+precedence---priority
