@@ -1,0 +1,36 @@
+{
+  "name": "freerice",
+  "version": "1.0.0",
+  "description": "Leverage crawler and ML to generate free rice through trivia web app by World Food Programme",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxyharr/freerice.git"
+  },
+  "keywords": [
+    "free",
+    "food",
+    "freerice"
+  ],
+  "author": "Max Harris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxyharr/freerice/issues"
+  },
+  "homepage": "https://github.com/maxyharr/freerice#readme",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "dotenv": "^6.1.0",
+    "mongodb": "^3.1.10",
+    "rootpath": "^0.1.2"
+  },
+  "devDependencies": {
+    "jasmine": "^3.3.0"
+  }
+}

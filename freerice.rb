@@ -1,8 +1,8 @@
 require 'watir-webdriver'
 b = Watir::Browser.new
 
-username = ARGV[0];
-password = ARGV[1];
+username = ENV[USERNAME]
+password = ENV[PASSWORD]
 
 SLEEP_TIME = 1
 
@@ -11,7 +11,7 @@ memoizer = {}
 temp = {}
 
 # read saved dictionary into memoizer
-file = File.open('dictionary.txt', "r")
+file = File.open('dictionary.json', "r")
 file.readlines.each do |line|
 	words = line.split('---')
 	memoizer[words[0].chomp] = words[1].chomp
@@ -97,7 +97,7 @@ while true do
  	 					puts "Going to click #{answer.text} \n\n"
  	 					answer.click
  	 					sleep SLEEP_TIME
- 	 					break;
+ 	 					break
  	 				end
  	 			end
  	 			answers[0].click
